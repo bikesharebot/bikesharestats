@@ -1,0 +1,26 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 0,
+            "properties": {
+                "some": "params",
+                "appearing": "in the balloon",
+                "of": "this station, for instance",
+                "name": "Station name",
+                "bikes": "My bicycles",
+                "slots": "empty spaces",
+                "timestamp": "The time I was updated, in UTC+0",
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        }
+    ]
+}
