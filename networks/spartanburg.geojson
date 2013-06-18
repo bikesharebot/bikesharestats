@@ -6,7 +6,7 @@
             "id": 0,
             "properties": {
                 "name": "Morgan Square",
-                "timestamp": "2013-06-18T03:00:18.912Z",
+                "timestamp": "2013-06-18T03:05:40.645Z",
                 "bikes": "7",
                 "slots": "2",
                 "marker-color": "#70E588"
@@ -24,7 +24,7 @@
             "id": 1,
             "properties": {
                 "name": "Rail Trail",
-                "timestamp": "2013-06-18T03:00:18.999Z",
+                "timestamp": "2013-06-18T03:05:40.648Z",
                 "bikes": "9",
                 "slots": "2",
                 "marker-color": "#70E588"
@@ -41,26 +41,8 @@
             "type": "Feature",
             "id": 2,
             "properties": {
-                "name": "Converse College",
-                "timestamp": "2013-06-18T03:00:19.030Z",
-                "bikes": "8",
-                "slots": "3",
-                "marker-color": "#70E588"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -81.91928,
-                    34.95618
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": 3,
-            "properties": {
                 "name": "Wofford College",
-                "timestamp": "2013-06-18T03:00:19.092Z",
+                "timestamp": "2013-06-18T03:05:40.650Z",
                 "bikes": "6",
                 "slots": "5",
                 "marker-color": "#70E588"
@@ -70,6 +52,24 @@
                 "coordinates": [
                     -81.93861,
                     34.96023
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 3,
+            "properties": {
+                "name": "Converse College",
+                "timestamp": "2013-06-18T03:05:40.652Z",
+                "bikes": "8",
+                "slots": "3",
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.91928,
+                    34.95618
                 ]
             }
         }
