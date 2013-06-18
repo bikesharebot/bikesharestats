@@ -5,26 +5,8 @@
             "type": "Feature",
             "id": 0,
             "properties": {
-                "name": "Converse College",
-                "timestamp": "2013-06-18T10:02:40.516Z",
-                "bikes": "8",
-                "slots": "3",
-                "marker-color": "#70E588"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -81.91928,
-                    34.95618
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": 1,
-            "properties": {
                 "name": "Morgan Square",
-                "timestamp": "2013-06-18T10:02:40.518Z",
+                "timestamp": "2013-06-18T10:11:07.804Z",
                 "bikes": "7",
                 "slots": "2",
                 "marker-color": "#70E588"
@@ -39,10 +21,10 @@
         },
         {
             "type": "Feature",
-            "id": 2,
+            "id": 1,
             "properties": {
                 "name": "Rail Trail",
-                "timestamp": "2013-06-18T10:02:40.521Z",
+                "timestamp": "2013-06-18T10:11:07.807Z",
                 "bikes": "9",
                 "slots": "2",
                 "marker-color": "#70E588"
@@ -57,10 +39,10 @@
         },
         {
             "type": "Feature",
-            "id": 3,
+            "id": 2,
             "properties": {
                 "name": "Wofford College",
-                "timestamp": "2013-06-18T10:02:40.523Z",
+                "timestamp": "2013-06-18T10:11:07.809Z",
                 "bikes": "6",
                 "slots": "5",
                 "marker-color": "#70E588"
@@ -70,6 +52,24 @@
                 "coordinates": [
                     -81.93861,
                     34.96023
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 3,
+            "properties": {
+                "name": "Converse College",
+                "timestamp": "2013-06-18T10:11:07.812Z",
+                "bikes": "8",
+                "slots": "3",
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.91928,
+                    34.95618
                 ]
             }
         }
