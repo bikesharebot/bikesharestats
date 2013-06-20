@@ -6,7 +6,7 @@
             "id": 0,
             "properties": {
                 "name": "TCU",
-                "timestamp": "2013-06-20T14:18:27.472Z",
+                "timestamp": "2013-06-20T14:23:15.705Z",
                 "bikes": "5",
                 "slots": "4",
                 "marker-color": "#70E588"
@@ -23,134 +23,8 @@
             "type": "Feature",
             "id": 1,
             "properties": {
-                "name": "Convention Center",
-                "timestamp": "2013-06-20T14:18:27.474Z",
-                "bikes": "5",
-                "slots": "8",
-                "marker-color": "#70E588"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -97.32888,
-                    32.7516
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": 2,
-            "properties": {
-                "name": "5th & Penn",
-                "timestamp": "2013-06-20T14:18:27.477Z",
-                "bikes": "8",
-                "slots": "3",
-                "marker-color": "#70E588"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -97.34255,
-                    32.751579
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": 3,
-            "properties": {
-                "name": "T&P; South",
-                "timestamp": "2013-06-20T14:18:27.479Z",
-                "bikes": "6",
-                "slots": "9",
-                "marker-color": "#70E588"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -97.32741,
-                    32.74381
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": 4,
-            "properties": {
-                "name": "Magnolia & Lipscomb",
-                "timestamp": "2013-06-20T14:18:27.481Z",
-                "bikes": "6",
-                "slots": "3",
-                "marker-color": "#70E588"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -97.33349,
-                    32.73055
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": 5,
-            "properties": {
-                "name": "Magnolia & Henderson",
-                "timestamp": "2013-06-20T14:18:27.483Z",
-                "bikes": "5",
-                "slots": "6",
-                "marker-color": "#70E588"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -97.33773,
-                    32.73048
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": 6,
-            "properties": {
-                "name": "UNT Health Science Center",
-                "timestamp": "2013-06-20T14:18:27.486Z",
-                "bikes": "16",
-                "slots": "6",
-                "marker-color": "#70E588"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -97.36711,
-                    32.74931
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": 7,
-            "properties": {
-                "name": "ITC North",
-                "timestamp": "2013-06-20T14:18:27.488Z",
-                "bikes": "8",
-                "slots": "9",
-                "marker-color": "#70E588"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -97.32626,
-                    32.75235
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": 8,
-            "properties": {
                 "name": "ITC South",
-                "timestamp": "2013-06-20T14:18:27.491Z",
+                "timestamp": "2013-06-20T14:23:15.708Z",
                 "bikes": "5",
                 "slots": "4",
                 "marker-color": "#70E588"
@@ -165,10 +39,136 @@
         },
         {
             "type": "Feature",
+            "id": 2,
+            "properties": {
+                "name": "Convention Center",
+                "timestamp": "2013-06-20T14:23:15.712Z",
+                "bikes": "5",
+                "slots": "8",
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.32888,
+                    32.7516
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 3,
+            "properties": {
+                "name": "5th & Penn",
+                "timestamp": "2013-06-20T14:23:15.715Z",
+                "bikes": "8",
+                "slots": "3",
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.34255,
+                    32.751579
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 4,
+            "properties": {
+                "name": "T&P; South",
+                "timestamp": "2013-06-20T14:23:15.718Z",
+                "bikes": "6",
+                "slots": "9",
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.32741,
+                    32.74381
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 5,
+            "properties": {
+                "name": "Magnolia & Lipscomb",
+                "timestamp": "2013-06-20T14:23:15.720Z",
+                "bikes": "6",
+                "slots": "3",
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.33349,
+                    32.73055
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 6,
+            "properties": {
+                "name": "Magnolia & Henderson",
+                "timestamp": "2013-06-20T14:23:15.723Z",
+                "bikes": "4",
+                "slots": "7",
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.33773,
+                    32.73048
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 7,
+            "properties": {
+                "name": "UNT Health Science Center",
+                "timestamp": "2013-06-20T14:23:15.725Z",
+                "bikes": "16",
+                "slots": "6",
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.36711,
+                    32.74931
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 8,
+            "properties": {
+                "name": "ITC North",
+                "timestamp": "2013-06-20T14:23:15.728Z",
+                "bikes": "8",
+                "slots": "9",
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.32626,
+                    32.75235
+                ]
+            }
+        },
+        {
+            "type": "Feature",
             "id": 9,
             "properties": {
                 "name": "The T Offices",
-                "timestamp": "2013-06-20T14:18:27.493Z",
+                "timestamp": "2013-06-20T14:23:15.732Z",
                 "bikes": "6",
                 "slots": "5",
                 "marker-color": "#70E588"
@@ -186,7 +186,7 @@
             "id": 10,
             "properties": {
                 "name": "S. Main & Daggett",
-                "timestamp": "2013-06-20T14:18:27.495Z",
+                "timestamp": "2013-06-20T14:23:15.735Z",
                 "bikes": "4",
                 "slots": "5",
                 "marker-color": "#FFFF63"
@@ -204,7 +204,7 @@
             "id": 11,
             "properties": {
                 "name": "Sundance Square South",
-                "timestamp": "2013-06-20T14:18:27.498Z",
+                "timestamp": "2013-06-20T14:23:15.737Z",
                 "bikes": "5",
                 "slots": "4",
                 "marker-color": "#70E588"
@@ -222,7 +222,7 @@
             "id": 12,
             "properties": {
                 "name": "Sundance Square North",
-                "timestamp": "2013-06-20T14:18:27.500Z",
+                "timestamp": "2013-06-20T14:23:15.738Z",
                 "bikes": "6",
                 "slots": "5",
                 "marker-color": "#70E588"
@@ -240,7 +240,7 @@
             "id": 13,
             "properties": {
                 "name": "2597 W. 7th St.",
-                "timestamp": "2013-06-20T14:18:27.502Z",
+                "timestamp": "2013-06-20T14:23:15.741Z",
                 "bikes": "11",
                 "slots": "4",
                 "marker-color": "#70E588"
@@ -258,7 +258,7 @@
             "id": 14,
             "properties": {
                 "name": "Park Place & Enderly",
-                "timestamp": "2013-06-20T14:18:27.504Z",
+                "timestamp": "2013-06-20T14:23:15.743Z",
                 "bikes": "5",
                 "slots": "4",
                 "marker-color": "#70E588"
@@ -276,7 +276,7 @@
             "id": 15,
             "properties": {
                 "name": "Fort Worth Bike Sharing",
-                "timestamp": "2013-06-20T14:18:27.507Z",
+                "timestamp": "2013-06-20T14:23:15.745Z",
                 "bikes": "5",
                 "slots": "2",
                 "marker-color": "#70E588"
@@ -294,7 +294,7 @@
             "id": 16,
             "properties": {
                 "name": "Gendy & Lansford",
-                "timestamp": "2013-06-20T14:18:27.509Z",
+                "timestamp": "2013-06-20T14:23:15.749Z",
                 "bikes": "13",
                 "slots": "9",
                 "marker-color": "#70E588"
@@ -312,7 +312,7 @@
             "id": 17,
             "properties": {
                 "name": "Omni Hotel Fort Worth",
-                "timestamp": "2013-06-20T14:18:27.511Z",
+                "timestamp": "2013-06-20T14:23:15.760Z",
                 "bikes": "6",
                 "slots": "3",
                 "marker-color": "#70E588"
@@ -330,7 +330,7 @@
             "id": 18,
             "properties": {
                 "name": "W. 7th St. & Stayton",
-                "timestamp": "2013-06-20T14:18:27.513Z",
+                "timestamp": "2013-06-20T14:23:15.762Z",
                 "bikes": "9",
                 "slots": "4",
                 "marker-color": "#70E588"
@@ -348,7 +348,7 @@
             "id": 19,
             "properties": {
                 "name": "Magnolia & Hurley",
-                "timestamp": "2013-06-20T14:18:27.515Z",
+                "timestamp": "2013-06-20T14:23:15.765Z",
                 "bikes": "5",
                 "slots": "6",
                 "marker-color": "#70E588"
@@ -366,7 +366,7 @@
             "id": 20,
             "properties": {
                 "name": "Art Museums",
-                "timestamp": "2013-06-20T14:18:27.517Z",
+                "timestamp": "2013-06-20T14:23:15.768Z",
                 "bikes": "10",
                 "slots": "8",
                 "marker-color": "#70E588"
@@ -384,7 +384,7 @@
             "id": 21,
             "properties": {
                 "name": "T&P; North",
-                "timestamp": "2013-06-20T14:18:27.519Z",
+                "timestamp": "2013-06-20T14:23:15.771Z",
                 "bikes": "16",
                 "slots": "7",
                 "marker-color": "#70E588"
@@ -402,7 +402,7 @@
             "id": 22,
             "properties": {
                 "name": "City Hall",
-                "timestamp": "2013-06-20T14:18:27.521Z",
+                "timestamp": "2013-06-20T14:23:15.773Z",
                 "bikes": "5",
                 "slots": "6",
                 "marker-color": "#70E588"
@@ -420,7 +420,7 @@
             "id": 23,
             "properties": {
                 "name": "Trinity Park",
-                "timestamp": "2013-06-20T14:18:27.524Z",
+                "timestamp": "2013-06-20T14:23:15.776Z",
                 "bikes": "14",
                 "slots": "8",
                 "marker-color": "#70E588"
@@ -438,7 +438,7 @@
             "id": 24,
             "properties": {
                 "name": "Texas Health Harris Methodist Hospital Fort Worth",
-                "timestamp": "2013-06-20T14:18:27.526Z",
+                "timestamp": "2013-06-20T14:23:15.779Z",
                 "bikes": "11",
                 "slots": "4",
                 "marker-color": "#70E588"
@@ -456,7 +456,7 @@
             "id": 25,
             "properties": {
                 "name": "Central Library",
-                "timestamp": "2013-06-20T14:18:27.529Z",
+                "timestamp": "2013-06-20T14:23:15.782Z",
                 "bikes": "5",
                 "slots": "4",
                 "marker-color": "#70E588"
@@ -474,7 +474,7 @@
             "id": 26,
             "properties": {
                 "name": "Belknap & Taylor",
-                "timestamp": "2013-06-20T14:18:27.530Z",
+                "timestamp": "2013-06-20T14:23:15.785Z",
                 "bikes": "7",
                 "slots": "6",
                 "marker-color": "#70E588"
@@ -492,7 +492,7 @@
             "id": 27,
             "properties": {
                 "name": "City Place",
-                "timestamp": "2013-06-20T14:18:27.532Z",
+                "timestamp": "2013-06-20T14:23:15.788Z",
                 "bikes": "0",
                 "slots": "13",
                 "marker-color": "#F85E35"
