@@ -5,26 +5,8 @@
             "type": "Feature",
             "id": 0,
             "properties": {
-                "name": "Willingham Park",
-                "timestamp": "2013-06-21T19:05:59.263Z",
-                "bikes": "12",
-                "slots": "10",
-                "marker-color": "#70E588"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -80.10103,
-                    26.15509
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": 1,
-            "properties": {
                 "name": "Nevada Parking Lot",
-                "timestamp": "2013-06-21T19:05:59.266Z",
+                "timestamp": "2013-06-21T19:11:26.915Z",
                 "bikes": "4",
                 "slots": "5",
                 "marker-color": "#FFFF63"
@@ -39,10 +21,10 @@
         },
         {
             "type": "Feature",
-            "id": 2,
+            "id": 1,
             "properties": {
                 "name": "Esplanade Park",
-                "timestamp": "2013-06-21T19:05:59.268Z",
+                "timestamp": "2013-06-21T19:11:26.917Z",
                 "bikes": "6",
                 "slots": "5",
                 "marker-color": "#70E588"
@@ -57,10 +39,10 @@
         },
         {
             "type": "Feature",
-            "id": 3,
+            "id": 2,
             "properties": {
                 "name": "Seabreeze & Las Olas",
-                "timestamp": "2013-06-21T19:05:59.272Z",
+                "timestamp": "2013-06-21T19:11:26.918Z",
                 "bikes": "5",
                 "slots": "6",
                 "marker-color": "#70E588"
@@ -75,10 +57,10 @@
         },
         {
             "type": "Feature",
-            "id": 4,
+            "id": 3,
             "properties": {
                 "name": "Beach Community Center",
-                "timestamp": "2013-06-21T19:05:59.274Z",
+                "timestamp": "2013-06-21T19:11:26.920Z",
                 "bikes": "3",
                 "slots": "4",
                 "marker-color": "#FFFF63"
@@ -93,10 +75,10 @@
         },
         {
             "type": "Feature",
-            "id": 5,
+            "id": 4,
             "properties": {
                 "name": "Sebastian Lot",
-                "timestamp": "2013-06-21T19:05:59.277Z",
+                "timestamp": "2013-06-21T19:11:26.922Z",
                 "bikes": "11",
                 "slots": "2",
                 "marker-color": "#70E588"
@@ -111,10 +93,28 @@
         },
         {
             "type": "Feature",
+            "id": 5,
+            "properties": {
+                "name": "Willingham Park",
+                "timestamp": "2013-06-21T19:11:26.924Z",
+                "bikes": "12",
+                "slots": "10",
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.10103,
+                    26.15509
+                ]
+            }
+        },
+        {
+            "type": "Feature",
             "id": 6,
             "properties": {
                 "name": "Las Olas Circle",
-                "timestamp": "2013-06-21T19:05:59.280Z",
+                "timestamp": "2013-06-21T19:11:26.926Z",
                 "bikes": "6",
                 "slots": "5",
                 "marker-color": "#70E588"
@@ -132,7 +132,7 @@
             "id": 7,
             "properties": {
                 "name": "Earl Lifshey",
-                "timestamp": "2013-06-21T19:05:59.287Z",
+                "timestamp": "2013-06-21T19:11:26.928Z",
                 "bikes": "5",
                 "slots": "5",
                 "marker-color": "#70E588"
@@ -150,7 +150,7 @@
             "id": 8,
             "properties": {
                 "name": "Holiday Park at Sunrise",
-                "timestamp": "2013-06-21T19:05:59.292Z",
+                "timestamp": "2013-06-21T19:11:26.930Z",
                 "bikes": "6",
                 "slots": "5",
                 "marker-color": "#70E588"
@@ -168,7 +168,7 @@
             "id": 9,
             "properties": {
                 "name": "George English Park",
-                "timestamp": "2013-06-21T19:05:59.303Z",
+                "timestamp": "2013-06-21T19:11:26.932Z",
                 "bikes": "7",
                 "slots": "4",
                 "marker-color": "#70E588"
@@ -186,7 +186,7 @@
             "id": 10,
             "properties": {
                 "name": "DC Alexander Park",
-                "timestamp": "2013-06-21T19:05:59.305Z",
+                "timestamp": "2013-06-21T19:11:26.934Z",
                 "bikes": "7",
                 "slots": "4",
                 "marker-color": "#70E588"
@@ -204,7 +204,7 @@
             "id": 11,
             "properties": {
                 "name": "540 Building",
-                "timestamp": "2013-06-21T19:05:59.308Z",
+                "timestamp": "2013-06-21T19:11:26.936Z",
                 "bikes": "8",
                 "slots": "5",
                 "marker-color": "#70E588"
@@ -222,7 +222,7 @@
             "id": 12,
             "properties": {
                 "name": "Sunrise & Ocean",
-                "timestamp": "2013-06-21T19:05:59.311Z",
+                "timestamp": "2013-06-21T19:11:26.939Z",
                 "bikes": "6",
                 "slots": "5",
                 "marker-color": "#70E588"
@@ -240,7 +240,7 @@
             "id": 13,
             "properties": {
                 "name": "Convention Center @ 17th St. ",
-                "timestamp": "2013-06-21T19:05:59.315Z",
+                "timestamp": "2013-06-21T19:11:26.942Z",
                 "bikes": "6",
                 "slots": "5",
                 "marker-color": "#70E588"
@@ -258,7 +258,7 @@
             "id": 14,
             "properties": {
                 "name": "Arts Park",
-                "timestamp": "2013-06-21T19:05:59.318Z",
+                "timestamp": "2013-06-21T19:11:26.944Z",
                 "bikes": "7",
                 "slots": "4",
                 "marker-color": "#70E588"
@@ -276,7 +276,7 @@
             "id": 15,
             "properties": {
                 "name": "Johnson & Surf",
-                "timestamp": "2013-06-21T19:05:59.321Z",
+                "timestamp": "2013-06-21T19:11:26.946Z",
                 "bikes": "7",
                 "slots": "2",
                 "marker-color": "#70E588"
@@ -294,7 +294,7 @@
             "id": 16,
             "properties": {
                 "name": "Broadwalk at Jefferson St.",
-                "timestamp": "2013-06-21T19:05:59.324Z",
+                "timestamp": "2013-06-21T19:11:26.947Z",
                 "bikes": "4",
                 "slots": "7",
                 "marker-color": "#FFFF63"
@@ -312,7 +312,7 @@
             "id": 17,
             "properties": {
                 "name": "Pompano Beach City Hall",
-                "timestamp": "2013-06-21T19:05:59.326Z",
+                "timestamp": "2013-06-21T19:11:26.950Z",
                 "bikes": "3",
                 "slots": "2",
                 "marker-color": "#FFFF63"
@@ -330,7 +330,7 @@
             "id": 18,
             "properties": {
                 "name": "Hillsboro Inlet",
-                "timestamp": "2013-06-21T19:05:59.330Z",
+                "timestamp": "2013-06-21T19:11:26.952Z",
                 "bikes": "4",
                 "slots": "3",
                 "marker-color": "#FFFF63"
@@ -348,7 +348,7 @@
             "id": 19,
             "properties": {
                 "name": "Aquatic Center",
-                "timestamp": "2013-06-21T19:05:59.333Z",
+                "timestamp": "2013-06-21T19:11:26.954Z",
                 "bikes": "7",
                 "slots": "4",
                 "marker-color": "#70E588"
@@ -366,7 +366,7 @@
             "id": 20,
             "properties": {
                 "name": "North Ocean Park",
-                "timestamp": "2013-06-21T19:05:59.342Z",
+                "timestamp": "2013-06-21T19:11:26.956Z",
                 "bikes": "4",
                 "slots": "3",
                 "marker-color": "#FFFF63"
@@ -384,7 +384,7 @@
             "id": 21,
             "properties": {
                 "name": "Dania Beach Pier",
-                "timestamp": "2013-06-21T19:05:59.368Z",
+                "timestamp": "2013-06-21T19:11:26.958Z",
                 "bikes": "6",
                 "slots": "4",
                 "marker-color": "#70E588"
@@ -402,7 +402,7 @@
             "id": 22,
             "properties": {
                 "name": "Lauderdale by the Sea",
-                "timestamp": "2013-06-21T19:05:59.370Z",
+                "timestamp": "2013-06-21T19:11:26.961Z",
                 "bikes": "6",
                 "slots": "4",
                 "marker-color": "#70E588"
@@ -420,7 +420,7 @@
             "id": 23,
             "properties": {
                 "name": "Hallandale Beach Water Tower",
-                "timestamp": "2013-06-21T19:05:59.373Z",
+                "timestamp": "2013-06-21T19:11:26.962Z",
                 "bikes": "6",
                 "slots": "5",
                 "marker-color": "#70E588"
@@ -438,7 +438,7 @@
             "id": 24,
             "properties": {
                 "name": "Hollywood North Beach",
-                "timestamp": "2013-06-21T19:05:59.375Z",
+                "timestamp": "2013-06-21T19:11:26.965Z",
                 "bikes": "4",
                 "slots": "7",
                 "marker-color": "#FFFF63"
@@ -456,7 +456,7 @@
             "id": 25,
             "properties": {
                 "name": "Las Olas & SE 8th Ave",
-                "timestamp": "2013-06-21T19:05:59.378Z",
+                "timestamp": "2013-06-21T19:11:26.968Z",
                 "bikes": "6",
                 "slots": "5",
                 "marker-color": "#70E588"
