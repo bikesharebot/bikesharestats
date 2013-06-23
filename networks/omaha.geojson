@@ -6,7 +6,7 @@
             "id": 0,
             "properties": {
                 "name": "62nd & Dodge",
-                "timestamp": "2013-06-23T04:58:45.489Z",
+                "timestamp": "2013-06-23T05:04:11.465Z",
                 "bikes": "1",
                 "slots": "9",
                 "marker-color": "#FFFF63"
@@ -23,62 +23,8 @@
             "type": "Feature",
             "id": 1,
             "properties": {
-                "name": "66th & Center",
-                "timestamp": "2013-06-23T04:58:45.491Z",
-                "bikes": "2",
-                "slots": "8",
-                "marker-color": "#FFFF63"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -96.0135,
-                    41.23805
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": 2,
-            "properties": {
-                "name": "67th & Frances",
-                "timestamp": "2013-06-23T04:58:45.493Z",
-                "bikes": "3",
-                "slots": "8",
-                "marker-color": "#FFFF63"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -96.01512,
-                    41.24009
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": 3,
-            "properties": {
-                "name": "Aksarben Drive",
-                "timestamp": "2013-06-23T04:58:45.495Z",
-                "bikes": "6",
-                "slots": "5",
-                "marker-color": "#70E588"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -96.01792,
-                    41.24112
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": 4,
-            "properties": {
                 "name": "Demo Station: 13th & Howard",
-                "timestamp": "2013-06-23T04:58:45.497Z",
+                "timestamp": "2013-06-23T05:04:11.467Z",
                 "bikes": "4",
                 "slots": "1",
                 "marker-color": "#FFFF63"
@@ -93,10 +39,64 @@
         },
         {
             "type": "Feature",
+            "id": 2,
+            "properties": {
+                "name": "66th & Center",
+                "timestamp": "2013-06-23T05:04:11.472Z",
+                "bikes": "2",
+                "slots": "8",
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.0135,
+                    41.23805
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 3,
+            "properties": {
+                "name": "67th & Frances",
+                "timestamp": "2013-06-23T05:04:11.474Z",
+                "bikes": "3",
+                "slots": "8",
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.01512,
+                    41.24009
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 4,
+            "properties": {
+                "name": "Aksarben Drive",
+                "timestamp": "2013-06-23T05:04:11.478Z",
+                "bikes": "6",
+                "slots": "5",
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.01792,
+                    41.24112
+                ]
+            }
+        },
+        {
+            "type": "Feature",
             "id": 5,
             "properties": {
                 "name": "Demo Station: 13th & Fahey",
-                "timestamp": "2013-06-23T04:58:45.499Z",
+                "timestamp": "2013-06-23T05:04:11.480Z",
                 "bikes": "5",
                 "slots": "0",
                 "marker-color": "#70E588"
