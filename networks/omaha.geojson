@@ -5,44 +5,8 @@
             "type": "Feature",
             "id": 0,
             "properties": {
-                "name": "62nd & Dodge",
-                "timestamp": "2013-06-25T01:24:11.434Z",
-                "bikes": "1",
-                "slots": "9",
-                "marker-color": "#FFFF63"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -96.00853,
-                    41.25832
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": 1,
-            "properties": {
-                "name": "Demo Station: 13th & Howard",
-                "timestamp": "2013-06-25T01:24:11.436Z",
-                "bikes": "2",
-                "slots": "3",
-                "marker-color": "#FFFF63"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -95.93344,
-                    41.25577
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": 2,
-            "properties": {
                 "name": "66th & Center",
-                "timestamp": "2013-06-25T01:24:11.438Z",
+                "timestamp": "2013-06-25T01:28:48.676Z",
                 "bikes": "2",
                 "slots": "8",
                 "marker-color": "#FFFF63"
@@ -57,10 +21,46 @@
         },
         {
             "type": "Feature",
+            "id": 1,
+            "properties": {
+                "name": "62nd & Dodge",
+                "timestamp": "2013-06-25T01:28:48.678Z",
+                "bikes": "0",
+                "slots": "10",
+                "marker-color": "#F85E35"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.00853,
+                    41.25832
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 2,
+            "properties": {
+                "name": "Demo Station: 13th & Howard",
+                "timestamp": "2013-06-25T01:28:48.679Z",
+                "bikes": "2",
+                "slots": "3",
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.93344,
+                    41.25577
+                ]
+            }
+        },
+        {
+            "type": "Feature",
             "id": 3,
             "properties": {
                 "name": "67th & Frances",
-                "timestamp": "2013-06-25T01:24:11.439Z",
+                "timestamp": "2013-06-25T01:28:48.681Z",
                 "bikes": "3",
                 "slots": "8",
                 "marker-color": "#FFFF63"
@@ -78,7 +78,7 @@
             "id": 4,
             "properties": {
                 "name": "Aksarben Drive",
-                "timestamp": "2013-06-25T01:24:11.441Z",
+                "timestamp": "2013-06-25T01:28:48.683Z",
                 "bikes": "6",
                 "slots": "5",
                 "marker-color": "#70E588"
@@ -96,7 +96,7 @@
             "id": 5,
             "properties": {
                 "name": "Demo Station: 13th & Fahey",
-                "timestamp": "2013-06-25T01:24:11.442Z",
+                "timestamp": "2013-06-25T01:28:48.684Z",
                 "bikes": "5",
                 "slots": "0",
                 "marker-color": "#70E588"
