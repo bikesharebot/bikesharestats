@@ -5,26 +5,8 @@
             "type": "Feature",
             "id": 0,
             "properties": {
-                "name": "Demo Station: 13th & Fahey",
-                "timestamp": "2013-07-03T04:28:43.366Z",
-                "bikes": "0",
-                "slots": "5",
-                "marker-color": "#F85E35"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -95.9336,
-                    41.26592
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": 1,
-            "properties": {
                 "name": "62nd & Dodge",
-                "timestamp": "2013-07-03T04:28:43.368Z",
+                "timestamp": "2013-07-03T04:34:05.449Z",
                 "bikes": "6",
                 "slots": "4",
                 "marker-color": "#70E588"
@@ -39,10 +21,10 @@
         },
         {
             "type": "Feature",
-            "id": 2,
+            "id": 1,
             "properties": {
                 "name": "67th & Pine",
-                "timestamp": "2013-07-03T04:28:43.370Z",
+                "timestamp": "2013-07-03T04:34:05.452Z",
                 "bikes": "4",
                 "slots": "1",
                 "marker-color": "#FFFF63"
@@ -57,10 +39,10 @@
         },
         {
             "type": "Feature",
-            "id": 3,
+            "id": 2,
             "properties": {
                 "name": "66th & Center",
-                "timestamp": "2013-07-03T04:28:43.372Z",
+                "timestamp": "2013-07-03T04:34:05.454Z",
                 "bikes": "7",
                 "slots": "3",
                 "marker-color": "#70E588"
@@ -75,10 +57,10 @@
         },
         {
             "type": "Feature",
-            "id": 4,
+            "id": 3,
             "properties": {
                 "name": "67th & Frances",
-                "timestamp": "2013-07-03T04:28:43.374Z",
+                "timestamp": "2013-07-03T04:34:05.456Z",
                 "bikes": "8",
                 "slots": "3",
                 "marker-color": "#70E588"
@@ -93,10 +75,28 @@
         },
         {
             "type": "Feature",
+            "id": 4,
+            "properties": {
+                "name": "Demo Station: 13th & Fahey",
+                "timestamp": "2013-07-03T04:34:05.458Z",
+                "bikes": "0",
+                "slots": "5",
+                "marker-color": "#F85E35"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.9336,
+                    41.26592
+                ]
+            }
+        },
+        {
+            "type": "Feature",
             "id": 5,
             "properties": {
                 "name": "Aksarben Drive",
-                "timestamp": "2013-07-03T04:28:43.376Z",
+                "timestamp": "2013-07-03T04:34:05.460Z",
                 "bikes": "4",
                 "slots": "7",
                 "marker-color": "#FFFF63"
