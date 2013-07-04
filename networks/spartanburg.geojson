@@ -5,44 +5,8 @@
             "type": "Feature",
             "id": 0,
             "properties": {
-                "name": "Morgan Square",
-                "timestamp": "2013-07-04T11:28:01.625Z",
-                "bikes": "6",
-                "slots": "3",
-                "marker-color": "#70E588"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -81.93345,
-                    34.94867
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": 1,
-            "properties": {
-                "name": "Rail Trail",
-                "timestamp": "2013-07-04T11:28:01.627Z",
-                "bikes": "10",
-                "slots": "1",
-                "marker-color": "#70E588"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -81.92174,
-                    34.94747
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": 2,
-            "properties": {
                 "name": "Wofford College",
-                "timestamp": "2013-07-04T11:28:01.630Z",
+                "timestamp": "2013-07-04T11:33:23.344Z",
                 "bikes": "7",
                 "slots": "4",
                 "marker-color": "#70E588"
@@ -57,10 +21,46 @@
         },
         {
             "type": "Feature",
+            "id": 1,
+            "properties": {
+                "name": "Morgan Square",
+                "timestamp": "2013-07-04T11:33:23.346Z",
+                "bikes": "6",
+                "slots": "3",
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.93345,
+                    34.94867
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 2,
+            "properties": {
+                "name": "Rail Trail",
+                "timestamp": "2013-07-04T11:33:23.348Z",
+                "bikes": "10",
+                "slots": "1",
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.92174,
+                    34.94747
+                ]
+            }
+        },
+        {
+            "type": "Feature",
             "id": 3,
             "properties": {
                 "name": "Converse College",
-                "timestamp": "2013-07-04T11:28:01.632Z",
+                "timestamp": "2013-07-04T11:33:23.350Z",
                 "bikes": "6",
                 "slots": "5",
                 "marker-color": "#70E588"
