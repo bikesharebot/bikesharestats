@@ -6,7 +6,7 @@
             "id": 0,
             "properties": {
                 "name": "Demo Station: 13th & Fahey",
-                "timestamp": "2013-07-05T02:11:29.519Z",
+                "timestamp": "2013-07-05T02:16:53.206Z",
                 "bikes": "0",
                 "slots": "5",
                 "marker-color": "#F85E35"
@@ -23,44 +23,8 @@
             "type": "Feature",
             "id": 1,
             "properties": {
-                "name": "62nd & Dodge",
-                "timestamp": "2013-07-05T02:11:29.522Z",
-                "bikes": "6",
-                "slots": "4",
-                "marker-color": "#70E588"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -96.00853,
-                    41.25832
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": 2,
-            "properties": {
-                "name": "67th & Pine",
-                "timestamp": "2013-07-05T02:11:29.524Z",
-                "bikes": "4",
-                "slots": "1",
-                "marker-color": "#FFFF63"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -96.01428,
-                    41.24494
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": 3,
-            "properties": {
                 "name": "66th & Center",
-                "timestamp": "2013-07-05T02:11:29.526Z",
+                "timestamp": "2013-07-05T02:16:53.208Z",
                 "bikes": "7",
                 "slots": "3",
                 "marker-color": "#70E588"
@@ -75,10 +39,46 @@
         },
         {
             "type": "Feature",
+            "id": 2,
+            "properties": {
+                "name": "62nd & Dodge",
+                "timestamp": "2013-07-05T02:16:53.211Z",
+                "bikes": "6",
+                "slots": "4",
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.00853,
+                    41.25832
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 3,
+            "properties": {
+                "name": "67th & Pine",
+                "timestamp": "2013-07-05T02:16:53.213Z",
+                "bikes": "4",
+                "slots": "1",
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.01428,
+                    41.24494
+                ]
+            }
+        },
+        {
+            "type": "Feature",
             "id": 4,
             "properties": {
                 "name": "67th & Frances",
-                "timestamp": "2013-07-05T02:11:29.529Z",
+                "timestamp": "2013-07-05T02:16:53.214Z",
                 "bikes": "8",
                 "slots": "3",
                 "marker-color": "#70E588"
@@ -96,7 +96,7 @@
             "id": 5,
             "properties": {
                 "name": "Aksarben Drive",
-                "timestamp": "2013-07-05T02:11:29.531Z",
+                "timestamp": "2013-07-05T02:16:53.216Z",
                 "bikes": "4",
                 "slots": "7",
                 "marker-color": "#FFFF63"
