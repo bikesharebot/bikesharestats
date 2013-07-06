@@ -6,7 +6,7 @@
             "id": 0,
             "properties": {
                 "name": "12th & Wyandotte",
-                "timestamp": "2013-07-06T09:00:17.438Z",
+                "timestamp": "2013-07-06T09:04:55.952Z",
                 "bikes": "7",
                 "slots": "4",
                 "marker-color": "#70E588"
@@ -24,7 +24,7 @@
             "id": 1,
             "properties": {
                 "name": "10th & Washington",
-                "timestamp": "2013-07-06T09:00:17.496Z",
+                "timestamp": "2013-07-06T09:04:55.954Z",
                 "bikes": "4",
                 "slots": "5",
                 "marker-color": "#FFFF63"
@@ -41,98 +41,8 @@
             "type": "Feature",
             "id": 2,
             "properties": {
-                "name": "13th & Grand",
-                "timestamp": "2013-07-06T09:00:17.581Z",
-                "bikes": "9",
-                "slots": "6",
-                "marker-color": "#70E588"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -94.58082,
-                    39.0987
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": 3,
-            "properties": {
-                "name": "10th & Main",
-                "timestamp": "2013-07-06T09:00:17.724Z",
-                "bikes": "3",
-                "slots": "7",
-                "marker-color": "#FFFF63"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -94.5834,
-                    39.10202
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": 4,
-            "properties": {
-                "name": "13th & Locust",
-                "timestamp": "2013-07-06T09:00:17.765Z",
-                "bikes": "4",
-                "slots": "7",
-                "marker-color": "#FFFF63"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -94.57765,
-                    39.09859
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": 5,
-            "properties": {
-                "name": "18th & Oak",
-                "timestamp": "2013-07-06T09:00:17.832Z",
-                "bikes": "6",
-                "slots": "3",
-                "marker-color": "#70E588"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -94.57911,
-                    39.09155
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": 6,
-            "properties": {
-                "name": "20th & Grand",
-                "timestamp": "2013-07-06T09:00:17.840Z",
-                "bikes": "3",
-                "slots": "8",
-                "marker-color": "#FFFF63"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -94.58132,
-                    39.08929
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": 7,
-            "properties": {
                 "name": "8th & Broadway",
-                "timestamp": "2013-07-06T09:00:17.859Z",
+                "timestamp": "2013-07-06T09:04:55.956Z",
                 "bikes": "6",
                 "slots": "4",
                 "marker-color": "#70E588"
@@ -147,10 +57,10 @@
         },
         {
             "type": "Feature",
-            "id": 8,
+            "id": 3,
             "properties": {
                 "name": "3rd & Grand",
-                "timestamp": "2013-07-06T09:00:17.893Z",
+                "timestamp": "2013-07-06T09:04:55.957Z",
                 "bikes": "4",
                 "slots": "6",
                 "marker-color": "#FFFF63"
@@ -165,10 +75,46 @@
         },
         {
             "type": "Feature",
-            "id": 9,
+            "id": 4,
+            "properties": {
+                "name": "13th & Grand",
+                "timestamp": "2013-07-06T09:04:55.960Z",
+                "bikes": "9",
+                "slots": "6",
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -94.58082,
+                    39.0987
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 5,
+            "properties": {
+                "name": "10th & Main",
+                "timestamp": "2013-07-06T09:04:55.963Z",
+                "bikes": "3",
+                "slots": "7",
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -94.5834,
+                    39.10202
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 6,
             "properties": {
                 "name": "Union Station",
-                "timestamp": "2013-07-06T09:00:17.922Z",
+                "timestamp": "2013-07-06T09:04:55.964Z",
                 "bikes": "7",
                 "slots": "7",
                 "marker-color": "#70E588"
@@ -183,10 +129,10 @@
         },
         {
             "type": "Feature",
-            "id": 10,
+            "id": 7,
             "properties": {
                 "name": "Crown Center",
-                "timestamp": "2013-07-06T09:00:17.951Z",
+                "timestamp": "2013-07-06T09:04:55.966Z",
                 "bikes": "4",
                 "slots": "9",
                 "marker-color": "#FFFF63"
@@ -201,10 +147,28 @@
         },
         {
             "type": "Feature",
-            "id": 11,
+            "id": 8,
+            "properties": {
+                "name": "13th & Locust",
+                "timestamp": "2013-07-06T09:04:55.968Z",
+                "bikes": "4",
+                "slots": "7",
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -94.57765,
+                    39.09859
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 9,
             "properties": {
                 "name": "19th & Wyandotte",
-                "timestamp": "2013-07-06T09:00:17.957Z",
+                "timestamp": "2013-07-06T09:04:55.970Z",
                 "bikes": "7",
                 "slots": "4",
                 "marker-color": "#70E588"
@@ -214,6 +178,42 @@
                 "coordinates": [
                     -94.58682,
                     39.09108
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 10,
+            "properties": {
+                "name": "18th & Oak",
+                "timestamp": "2013-07-06T09:04:55.972Z",
+                "bikes": "6",
+                "slots": "3",
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -94.57911,
+                    39.09155
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 11,
+            "properties": {
+                "name": "20th & Grand",
+                "timestamp": "2013-07-06T09:04:55.974Z",
+                "bikes": "3",
+                "slots": "8",
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -94.58132,
+                    39.08929
                 ]
             }
         }
