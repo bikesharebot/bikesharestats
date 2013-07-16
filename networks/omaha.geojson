@@ -6,7 +6,7 @@
             "id": 0,
             "properties": {
                 "name": "62nd & Dodge",
-                "timestamp": "2013-07-16T17:38:51.492Z",
+                "timestamp": "2013-07-16T17:44:18.779Z",
                 "bikes": "5",
                 "slots": "5",
                 "marker-color": "#70E588"
@@ -23,26 +23,8 @@
             "type": "Feature",
             "id": 1,
             "properties": {
-                "name": "Aksarben Drive",
-                "timestamp": "2013-07-16T17:38:51.494Z",
-                "bikes": "6",
-                "slots": "5",
-                "marker-color": "#70E588"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -96.01792,
-                    41.24112
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": 2,
-            "properties": {
                 "name": "66th & Center",
-                "timestamp": "2013-07-16T17:38:51.495Z",
+                "timestamp": "2013-07-16T17:44:18.781Z",
                 "bikes": "9",
                 "slots": "1",
                 "marker-color": "#70E588"
@@ -57,10 +39,28 @@
         },
         {
             "type": "Feature",
+            "id": 2,
+            "properties": {
+                "name": "Aksarben Drive",
+                "timestamp": "2013-07-16T17:44:18.784Z",
+                "bikes": "6",
+                "slots": "5",
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.01792,
+                    41.24112
+                ]
+            }
+        },
+        {
+            "type": "Feature",
             "id": 3,
             "properties": {
                 "name": "67th & Pine",
-                "timestamp": "2013-07-16T17:38:51.497Z",
+                "timestamp": "2013-07-16T17:44:18.786Z",
                 "bikes": "5",
                 "slots": "0",
                 "marker-color": "#70E588"
@@ -78,7 +78,7 @@
             "id": 4,
             "properties": {
                 "name": "67th & Frances",
-                "timestamp": "2013-07-16T17:38:51.500Z",
+                "timestamp": "2013-07-16T17:44:18.789Z",
                 "bikes": "4",
                 "slots": "7",
                 "marker-color": "#FFFF63"
