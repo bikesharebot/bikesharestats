@@ -1,4 +1,95 @@
 {
     "type": "FeatureCollection",
-    "features": []
+    "features": [
+        {
+            "type": "Feature",
+            "id": 0,
+            "properties": {
+                "name": "EL NIÑO DE MULA",
+                "timestamp": "2013-07-11T01:22:20.740Z",
+                "bikes": 2,
+                "slots": 8,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.528442,
+                    38.046403
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 1,
+            "properties": {
+                "name": "ESPACIO M (CENTRO JOVEN)",
+                "timestamp": "2013-07-11T01:22:20.740Z",
+                "bikes": 0,
+                "slots": 10,
+                "marker-color": "#F85E35"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.496061,
+                    38.038892
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 2,
+            "properties": {
+                "name": "PABELLÓN POLIDEPORTIVO",
+                "timestamp": "2013-07-11T01:22:20.740Z",
+                "bikes": 1,
+                "slots": 9,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.481089,
+                    38.039792
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 3,
+            "properties": {
+                "name": "PARQUE FERIA",
+                "timestamp": "2013-07-11T01:22:20.740Z",
+                "bikes": 2,
+                "slots": 8,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.490544,
+                    38.037208
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 4,
+            "properties": {
+                "name": "PLAZA DEL AYUNTAMIENTO",
+                "timestamp": "2013-07-11T01:22:20.740Z",
+                "bikes": 0,
+                "slots": 10,
+                "marker-color": "#F85E35"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.491117,
+                    38.041731
+                ]
+            }
+        }
+    ]
 }
