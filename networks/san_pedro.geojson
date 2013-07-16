@@ -1,4 +1,95 @@
 {
     "type": "FeatureCollection",
-    "features": []
+    "features": [
+        {
+            "type": "Feature",
+            "id": 0,
+            "properties": {
+                "name": "AYUNTAMIENTO",
+                "timestamp": "2013-07-11T00:54:03.616Z",
+                "bikes": 0,
+                "slots": 10,
+                "marker-color": "#F85E35"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.791514,
+                    37.835728
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 1,
+            "properties": {
+                "name": "CASA DE LA CULTURA",
+                "timestamp": "2013-07-11T00:54:03.616Z",
+                "bikes": 0,
+                "slots": 10,
+                "marker-color": "#F85E35"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.786961,
+                    37.830619
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 2,
+            "properties": {
+                "name": "CENTRO LAS SALINAS",
+                "timestamp": "2013-07-11T00:54:03.616Z",
+                "bikes": 0,
+                "slots": 9,
+                "marker-color": "#F85E35"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.778811,
+                    37.834808
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 3,
+            "properties": {
+                "name": "EXPLANADA DE 'LO PAGAN'",
+                "timestamp": "2013-07-11T00:54:03.616Z",
+                "bikes": 1,
+                "slots": 9,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.786011,
+                    37.816625
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 4,
+            "properties": {
+                "name": "LA MOTA",
+                "timestamp": "2013-07-11T00:54:03.616Z",
+                "bikes": 0,
+                "slots": 10,
+                "marker-color": "#F85E35"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.776425,
+                    37.820111
+                ]
+            }
+        }
+    ]
 }
