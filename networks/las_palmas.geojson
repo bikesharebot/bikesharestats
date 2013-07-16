@@ -1,4 +1,203 @@
 {
     "type": "FeatureCollection",
-    "features": []
+    "features": [
+        {
+            "type": "Feature",
+            "id": 0,
+            "properties": {
+                "name": "CIUDAD DEPORTIVA DE GRAN CANARIA",
+                "timestamp": "2013-07-11T00:54:04.153Z",
+                "bikes": 0,
+                "slots": 11,
+                "marker-color": "#F85E35"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -15.41478,
+                    28.09111
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 1,
+            "properties": {
+                "name": "AYUNTAMIENTO DE LAS PALMAS DE GRAN CANARIA",
+                "timestamp": "2013-07-11T00:54:04.153Z",
+                "bikes": 0,
+                "slots": 11,
+                "marker-color": "#F85E35"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -15.428421,
+                    28.124643
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 2,
+            "properties": {
+                "name": "ACCESO A BIBLIOTECA PÚBLICA DEL ESTADO",
+                "timestamp": "2013-07-11T00:54:04.153Z",
+                "bikes": 4,
+                "slots": 7,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -15.416214,
+                    28.10998
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 3,
+            "properties": {
+                "name": "CENTRO COMERCIAL LAS ARENAS",
+                "timestamp": "2013-07-11T00:54:04.153Z",
+                "bikes": 9,
+                "slots": 2,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -15.448919,
+                    28.129358
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 4,
+            "properties": {
+                "name": "EDIFICIO WOERMAN",
+                "timestamp": "2013-07-11T00:54:04.153Z",
+                "bikes": 2,
+                "slots": 9,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -15.429703,
+                    28.145034
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 5,
+            "properties": {
+                "name": "APARCAMIENTO DE LA FACULTAD DE GEOGRAFIA E HISTORIA",
+                "timestamp": "2013-07-11T00:54:04.153Z",
+                "bikes": 0,
+                "slots": 15,
+                "marker-color": "#F85E35"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -15.424269,
+                    28.111641
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 6,
+            "properties": {
+                "name": "GLORIETA DE LA BASE NAVAL",
+                "timestamp": "2013-07-11T00:54:04.153Z",
+                "bikes": 9,
+                "slots": 2,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -15.429158,
+                    28.134693
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 7,
+            "properties": {
+                "name": "APARCAMIENTO DEL MERCADO DE VEGUETA",
+                "timestamp": "2013-07-11T00:54:04.154Z",
+                "bikes": 4,
+                "slots": 7,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -15.41281,
+                    28.102696
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 8,
+            "properties": {
+                "name": "MUELLE DEPORTIVO",
+                "timestamp": "2013-07-11T00:54:04.154Z",
+                "bikes": 3,
+                "slots": 8,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -15.429014,
+                    28.128312
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 9,
+            "properties": {
+                "name": "PARQUE SANTA CATALINA",
+                "timestamp": "2013-07-11T00:54:04.154Z",
+                "bikes": 11,
+                "slots": 4,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -15.430631,
+                    28.139812
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 10,
+            "properties": {
+                "name": "PLAZA INGENIERO MANUEL BECERRA",
+                "timestamp": "2013-07-11T00:54:04.154Z",
+                "bikes": 5,
+                "slots": 6,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -15.422013,
+                    28.15004
+                ]
+            }
+        }
+    ]
 }

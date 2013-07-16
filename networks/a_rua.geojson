@@ -1,4 +1,41 @@
 {
     "type": "FeatureCollection",
-    "features": []
+    "features": [
+        {
+            "type": "Feature",
+            "id": 0,
+            "properties": {
+                "name": "O AGUILLÓN",
+                "timestamp": "2013-07-11T00:51:06.651Z",
+                "bikes": 1,
+                "slots": 6,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.115135,
+                    42.389167
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 1,
+            "properties": {
+                "name": "PRAZA JOSÉ A. MÝGUEZ",
+                "timestamp": "2013-07-11T00:51:06.651Z",
+                "bikes": 0,
+                "slots": 8,
+                "marker-color": "#F85E35"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.114133,
+                    42.394931
+                ]
+            }
+        }
+    ]
 }
