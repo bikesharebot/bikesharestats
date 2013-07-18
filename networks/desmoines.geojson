@@ -5,62 +5,8 @@
             "type": "Feature",
             "id": 0,
             "properties": {
-                "name": "7th & Grand ",
-                "timestamp": "2013-07-18T04:01:06.933Z",
-                "bikes": "4",
-                "slots": "2",
-                "marker-color": "#FFFF63"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -93.6262,
-                    41.58764
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": 1,
-            "properties": {
-                "name": "8th & Pleasant ",
-                "timestamp": "2013-07-18T04:01:06.935Z",
-                "bikes": "6",
-                "slots": "4",
-                "marker-color": "#70E588"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -93.62809,
-                    41.58856
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": 2,
-            "properties": {
-                "name": "2nd & Court",
-                "timestamp": "2013-07-18T04:01:06.938Z",
-                "bikes": "6",
-                "slots": "7",
-                "marker-color": "#70E588"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -93.61905,
-                    41.58574
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": 3,
-            "properties": {
                 "name": "Brenton Skating Plaza ",
-                "timestamp": "2013-07-18T04:01:06.941Z",
+                "timestamp": "2013-07-18T04:06:29.372Z",
                 "bikes": "0",
                 "slots": "10",
                 "marker-color": "#F85E35"
@@ -75,10 +21,64 @@
         },
         {
             "type": "Feature",
+            "id": 1,
+            "properties": {
+                "name": "7th & Grand ",
+                "timestamp": "2013-07-18T04:06:29.375Z",
+                "bikes": "4",
+                "slots": "2",
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -93.6262,
+                    41.58764
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 2,
+            "properties": {
+                "name": "8th & Pleasant ",
+                "timestamp": "2013-07-18T04:06:29.377Z",
+                "bikes": "6",
+                "slots": "4",
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -93.62809,
+                    41.58856
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 3,
+            "properties": {
+                "name": "2nd & Court",
+                "timestamp": "2013-07-18T04:06:29.380Z",
+                "bikes": "6",
+                "slots": "7",
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -93.61905,
+                    41.58574
+                ]
+            }
+        },
+        {
+            "type": "Feature",
             "id": 4,
             "properties": {
                 "name": "13th & Grand ",
-                "timestamp": "2013-07-18T04:01:06.943Z",
+                "timestamp": "2013-07-18T04:06:29.383Z",
                 "bikes": "5",
                 "slots": "4",
                 "marker-color": "#70E588"
@@ -96,7 +96,7 @@
             "id": 5,
             "properties": {
                 "name": "DART Central Station",
-                "timestamp": "2013-07-18T04:01:06.946Z",
+                "timestamp": "2013-07-18T04:06:29.385Z",
                 "bikes": "10",
                 "slots": "5",
                 "marker-color": "#70E588"
