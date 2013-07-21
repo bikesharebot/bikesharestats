@@ -6,7 +6,7 @@
             "id": 0,
             "properties": {
                 "name": "Memorial Union",
-                "timestamp": "2013-07-21T04:00:14.410Z",
+                "timestamp": "2013-07-21T05:00:10.916Z",
                 "bikes": "0",
                 "slots": "13",
                 "marker-color": "#F85E35"
@@ -23,8 +23,26 @@
             "type": "Feature",
             "id": 1,
             "properties": {
+                "name": "Vilas Park @ Arboretum",
+                "timestamp": "2013-07-21T05:00:10.921Z",
+                "bikes": "9",
+                "slots": "6",
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -89.40419,
+                    43.05713
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 2,
+            "properties": {
                 "name": "Wisconsin & E. Mifflin",
-                "timestamp": "2013-07-21T04:00:14.504Z",
+                "timestamp": "2013-07-21T05:00:10.934Z",
                 "bikes": "0",
                 "slots": "9",
                 "marker-color": "#F85E35"
@@ -39,10 +57,10 @@
         },
         {
             "type": "Feature",
-            "id": 2,
+            "id": 3,
             "properties": {
                 "name": "N. Webster & E. Mifflin",
-                "timestamp": "2013-07-21T04:00:14.521Z",
+                "timestamp": "2013-07-21T05:00:10.989Z",
                 "bikes": "9",
                 "slots": "2",
                 "marker-color": "#70E588"
@@ -57,12 +75,12 @@
         },
         {
             "type": "Feature",
-            "id": 3,
+            "id": 4,
             "properties": {
                 "name": "E. Doty & S. Pinckney",
-                "timestamp": "2013-07-21T04:00:14.600Z",
-                "bikes": "6",
-                "slots": "5",
+                "timestamp": "2013-07-21T05:00:11.042Z",
+                "bikes": "7",
+                "slots": "4",
                 "marker-color": "#70E588"
             },
             "geometry": {
@@ -75,12 +93,12 @@
         },
         {
             "type": "Feature",
-            "id": 4,
+            "id": 5,
             "properties": {
                 "name": "E. Gorham & N. Brearly",
-                "timestamp": "2013-07-21T04:00:14.603Z",
-                "bikes": "8",
-                "slots": "1",
+                "timestamp": "2013-07-21T05:00:11.128Z",
+                "bikes": "9",
+                "slots": "0",
                 "marker-color": "#70E588"
             },
             "geometry": {
@@ -93,10 +111,10 @@
         },
         {
             "type": "Feature",
-            "id": 5,
+            "id": 6,
             "properties": {
                 "name": "W. Wilson & MLK",
-                "timestamp": "2013-07-21T04:00:14.691Z",
+                "timestamp": "2013-07-21T05:00:11.165Z",
                 "bikes": "3",
                 "slots": "18",
                 "marker-color": "#FFFF63"
@@ -111,30 +129,12 @@
         },
         {
             "type": "Feature",
-            "id": 6,
-            "properties": {
-                "name": "E. Wilson & MLK",
-                "timestamp": "2013-07-21T04:00:14.712Z",
-                "bikes": "6",
-                "slots": "7",
-                "marker-color": "#70E588"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -89.38105,
-                    43.07293
-                ]
-            }
-        },
-        {
-            "type": "Feature",
             "id": 7,
             "properties": {
                 "name": "N. Park & Spring St.",
-                "timestamp": "2013-07-21T04:00:14.715Z",
-                "bikes": "9",
-                "slots": "8",
+                "timestamp": "2013-07-21T05:00:11.189Z",
+                "bikes": "8",
+                "slots": "9",
                 "marker-color": "#70E588"
             },
             "geometry": {
@@ -150,9 +150,9 @@
             "id": 8,
             "properties": {
                 "name": "S. Breese @ Camp Randall",
-                "timestamp": "2013-07-21T04:00:14.760Z",
-                "bikes": "9",
-                "slots": "4",
+                "timestamp": "2013-07-21T05:00:11.276Z",
+                "bikes": "10",
+                "slots": "3",
                 "marker-color": "#70E588"
             },
             "geometry": {
@@ -168,9 +168,9 @@
             "id": 9,
             "properties": {
                 "name": "John Nolen @ Law Park",
-                "timestamp": "2013-07-21T04:00:14.840Z",
-                "bikes": "10",
-                "slots": "1",
+                "timestamp": "2013-07-21T05:00:11.279Z",
+                "bikes": "9",
+                "slots": "2",
                 "marker-color": "#70E588"
             },
             "geometry": {
@@ -185,28 +185,10 @@
             "type": "Feature",
             "id": 10,
             "properties": {
-                "name": "W. Washington & Regent St.  ",
-                "timestamp": "2013-07-21T04:00:14.912Z",
-                "bikes": "10",
-                "slots": "7",
-                "marker-color": "#70E588"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -89.39429,
-                    43.06737
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": 11,
-            "properties": {
                 "name": "Hawthorne Ct & State Street",
-                "timestamp": "2013-07-21T04:00:14.949Z",
-                "bikes": "1",
-                "slots": "8",
+                "timestamp": "2013-07-21T05:00:11.387Z",
+                "bikes": "2",
+                "slots": "7",
                 "marker-color": "#FFFF63"
             },
             "geometry": {
@@ -219,30 +201,12 @@
         },
         {
             "type": "Feature",
-            "id": 12,
-            "properties": {
-                "name": "E. Gorham @ James Madison Park",
-                "timestamp": "2013-07-21T04:00:14.954Z",
-                "bikes": "11",
-                "slots": "12",
-                "marker-color": "#70E588"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -89.38384,
-                    43.08043
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": 13,
+            "id": 11,
             "properties": {
                 "name": "W. Gilman @ Peace Park",
-                "timestamp": "2013-07-21T04:00:15.007Z",
-                "bikes": "4",
-                "slots": "5",
+                "timestamp": "2013-07-21T05:00:11.392Z",
+                "bikes": "1",
+                "slots": "8",
                 "marker-color": "#FFFF63"
             },
             "geometry": {
@@ -255,12 +219,12 @@
         },
         {
             "type": "Feature",
-            "id": 14,
+            "id": 12,
             "properties": {
                 "name": "N. Shore @ Brittingham Park",
-                "timestamp": "2013-07-21T04:00:15.042Z",
-                "bikes": "6",
-                "slots": "3",
+                "timestamp": "2013-07-21T05:00:11.473Z",
+                "bikes": "7",
+                "slots": "2",
                 "marker-color": "#70E588"
             },
             "geometry": {
@@ -273,12 +237,12 @@
         },
         {
             "type": "Feature",
-            "id": 15,
+            "id": 13,
             "properties": {
                 "name": "Eastwood & Division",
-                "timestamp": "2013-07-21T04:00:15.084Z",
-                "bikes": "8",
-                "slots": "7",
+                "timestamp": "2013-07-21T05:00:11.496Z",
+                "bikes": "9",
+                "slots": "6",
                 "marker-color": "#70E588"
             },
             "geometry": {
@@ -291,28 +255,10 @@
         },
         {
             "type": "Feature",
-            "id": 16,
-            "properties": {
-                "name": "Vilas Park @ Arboretum",
-                "timestamp": "2013-07-21T04:00:15.087Z",
-                "bikes": "7",
-                "slots": "8",
-                "marker-color": "#70E588"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -89.40419,
-                    43.05713
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": 17,
+            "id": 14,
             "properties": {
                 "name": "Olbrich Gardens ",
-                "timestamp": "2013-07-21T04:00:15.118Z",
+                "timestamp": "2013-07-21T05:00:11.499Z",
                 "bikes": "10",
                 "slots": "8",
                 "marker-color": "#70E588"
@@ -327,12 +273,12 @@
         },
         {
             "type": "Feature",
-            "id": 18,
+            "id": 15,
             "properties": {
                 "name": "N. Thornton @ Tenney Park",
-                "timestamp": "2013-07-21T04:00:15.166Z",
-                "bikes": "8",
-                "slots": "15",
+                "timestamp": "2013-07-21T05:00:11.579Z",
+                "bikes": "7",
+                "slots": "16",
                 "marker-color": "#70E588"
             },
             "geometry": {
@@ -345,10 +291,10 @@
         },
         {
             "type": "Feature",
-            "id": 19,
+            "id": 16,
             "properties": {
                 "name": "Observatory Dr. @ Natatorium Gym",
-                "timestamp": "2013-07-21T04:00:15.218Z",
+                "timestamp": "2013-07-21T05:00:11.582Z",
                 "bikes": "5",
                 "slots": "12",
                 "marker-color": "#70E588"
@@ -363,10 +309,10 @@
         },
         {
             "type": "Feature",
-            "id": 20,
+            "id": 17,
             "properties": {
                 "name": "Observatory Dr. @ UW Hospital",
-                "timestamp": "2013-07-21T04:00:15.238Z",
+                "timestamp": "2013-07-21T05:00:11.598Z",
                 "bikes": "13",
                 "slots": "9",
                 "marker-color": "#70E588"
@@ -381,30 +327,12 @@
         },
         {
             "type": "Feature",
-            "id": 21,
-            "properties": {
-                "name": "Union South",
-                "timestamp": "2013-07-21T04:00:15.267Z",
-                "bikes": "3",
-                "slots": "19",
-                "marker-color": "#FFFF63"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -89.40772,
-                    43.07204
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": 22,
+            "id": 18,
             "properties": {
                 "name": "S. Few & Williamson",
-                "timestamp": "2013-07-21T04:00:15.303Z",
-                "bikes": "4",
-                "slots": "3",
+                "timestamp": "2013-07-21T05:00:11.648Z",
+                "bikes": "2",
+                "slots": "5",
                 "marker-color": "#FFFF63"
             },
             "geometry": {
@@ -417,10 +345,10 @@
         },
         {
             "type": "Feature",
-            "id": 23,
+            "id": 19,
             "properties": {
                 "name": "University St. & Charter St. ",
-                "timestamp": "2013-07-21T04:00:15.335Z",
+                "timestamp": "2013-07-21T05:00:11.768Z",
                 "bikes": "11",
                 "slots": "12",
                 "marker-color": "#70E588"
@@ -435,12 +363,12 @@
         },
         {
             "type": "Feature",
-            "id": 24,
+            "id": 20,
             "properties": {
                 "name": "Langdon St. & N. Lake St.",
-                "timestamp": "2013-07-21T04:00:15.357Z",
-                "bikes": "9",
-                "slots": "1",
+                "timestamp": "2013-07-21T05:00:11.793Z",
+                "bikes": "8",
+                "slots": "2",
                 "marker-color": "#70E588"
             },
             "geometry": {
@@ -453,12 +381,12 @@
         },
         {
             "type": "Feature",
-            "id": 25,
+            "id": 21,
             "properties": {
                 "name": "Willamson St @ Jenifer St.",
-                "timestamp": "2013-07-21T04:00:15.377Z",
-                "bikes": "9",
-                "slots": "2",
+                "timestamp": "2013-07-21T05:00:11.796Z",
+                "bikes": "10",
+                "slots": "1",
                 "marker-color": "#70E588"
             },
             "geometry": {
@@ -471,28 +399,10 @@
         },
         {
             "type": "Feature",
-            "id": 26,
-            "properties": {
-                "name": "N. Lake St. @ University Ave.",
-                "timestamp": "2013-07-21T04:00:15.397Z",
-                "bikes": "1",
-                "slots": "22",
-                "marker-color": "#FFFF63"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -89.39727,
-                    43.07298
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": 27,
+            "id": 22,
             "properties": {
                 "name": "Sheraton Hotel ",
-                "timestamp": "2013-07-21T04:00:15.400Z",
+                "timestamp": "2013-07-21T05:00:11.880Z",
                 "bikes": "12",
                 "slots": "3",
                 "marker-color": "#70E588"
@@ -507,10 +417,10 @@
         },
         {
             "type": "Feature",
-            "id": 28,
+            "id": 23,
             "properties": {
                 "name": "University & Bassett",
-                "timestamp": "2013-07-21T04:00:15.460Z",
+                "timestamp": "2013-07-21T05:00:12.349Z",
                 "bikes": "7",
                 "slots": "2",
                 "marker-color": "#70E588"
@@ -525,12 +435,12 @@
         },
         {
             "type": "Feature",
-            "id": 29,
+            "id": 24,
             "properties": {
                 "name": "Monroe & Harrison",
-                "timestamp": "2013-07-21T04:00:15.463Z",
-                "bikes": "8",
-                "slots": "5",
+                "timestamp": "2013-07-21T05:00:12.640Z",
+                "bikes": "7",
+                "slots": "6",
                 "marker-color": "#70E588"
             },
             "geometry": {
@@ -543,10 +453,10 @@
         },
         {
             "type": "Feature",
-            "id": 30,
+            "id": 25,
             "properties": {
                 "name": "Monroe & Knickerbocker",
-                "timestamp": "2013-07-21T04:00:15.524Z",
+                "timestamp": "2013-07-21T05:00:12.922Z",
                 "bikes": "11",
                 "slots": "8",
                 "marker-color": "#70E588"
@@ -561,10 +471,100 @@
         },
         {
             "type": "Feature",
+            "id": 26,
+            "properties": {
+                "name": "E. Wilson & MLK",
+                "timestamp": "2013-07-21T05:00:12.960Z",
+                "bikes": "6",
+                "slots": "7",
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -89.38105,
+                    43.07293
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 27,
+            "properties": {
+                "name": "W. Washington & Regent St.  ",
+                "timestamp": "2013-07-21T05:00:13.068Z",
+                "bikes": "10",
+                "slots": "7",
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -89.39429,
+                    43.06737
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 28,
+            "properties": {
+                "name": "E. Gorham @ James Madison Park",
+                "timestamp": "2013-07-21T05:00:13.149Z",
+                "bikes": "11",
+                "slots": "12",
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -89.38384,
+                    43.08043
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 29,
+            "properties": {
+                "name": "Union South",
+                "timestamp": "2013-07-21T05:00:13.260Z",
+                "bikes": "2",
+                "slots": "20",
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -89.40772,
+                    43.07204
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 30,
+            "properties": {
+                "name": "N. Lake St. @ University Ave.",
+                "timestamp": "2013-07-21T05:00:13.286Z",
+                "bikes": "2",
+                "slots": "21",
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -89.39727,
+                    43.07298
+                ]
+            }
+        },
+        {
+            "type": "Feature",
             "id": 31,
             "properties": {
                 "name": "W. Mifflin @ Central Library",
-                "timestamp": "2013-07-21T04:00:15.591Z",
+                "timestamp": "2013-07-21T05:00:13.389Z",
                 "bikes": "4",
                 "slots": "3",
                 "marker-color": "#FFFF63"
