@@ -5,548 +5,8 @@
             "type": "Feature",
             "id": 0,
             "properties": {
-                "name": "S.A. Museum of Art",
-                "timestamp": "2013-07-23T19:55:06.532Z",
-                "bikes": "9",
-                "slots": "6",
-                "marker-color": "#70E588"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -98.48236,
-                    29.43701
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": 1,
-            "properties": {
-                "name": "S.A. Central Library",
-                "timestamp": "2013-07-23T19:55:06.535Z",
-                "bikes": "8",
-                "slots": "7",
-                "marker-color": "#70E588"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -98.49236,
-                    29.43244
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": 2,
-            "properties": {
-                "name": "Milam Park",
-                "timestamp": "2013-07-23T19:55:06.537Z",
-                "bikes": "3",
-                "slots": "4",
-                "marker-color": "#FFFF63"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -98.49987,
-                    29.42578
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": 3,
-            "properties": {
-                "name": "Main Plaza",
-                "timestamp": "2013-07-23T19:55:06.540Z",
-                "bikes": "8",
-                "slots": "3",
-                "marker-color": "#70E588"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -98.49442,
-                    29.42479
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": 4,
-            "properties": {
-                "name": "Market Square",
-                "timestamp": "2013-07-23T19:55:06.543Z",
-                "bikes": "8",
-                "slots": "7",
-                "marker-color": "#70E588"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -98.49947,
-                    29.42459
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": 5,
-            "properties": {
-                "name": "La Villita",
-                "timestamp": "2013-07-23T19:55:06.545Z",
-                "bikes": "10",
-                "slots": "3",
-                "marker-color": "#70E588"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -98.48797,
-                    29.42112
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": 6,
-            "properties": {
-                "name": "Alamo Plaza",
-                "timestamp": "2013-07-23T19:55:06.548Z",
-                "bikes": "3",
-                "slots": "4",
-                "marker-color": "#FFFF63"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -98.48703,
-                    29.4265
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": 7,
-            "properties": {
-                "name": "Ellis Alley Park and Ride",
-                "timestamp": "2013-07-23T19:55:06.551Z",
-                "bikes": "7",
-                "slots": "10",
-                "marker-color": "#70E588"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -98.48011,
-                    29.42277
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": 8,
-            "properties": {
-                "name": "S.A. Convention Ctr.",
-                "timestamp": "2013-07-23T19:55:06.554Z",
-                "bikes": "7",
-                "slots": "4",
-                "marker-color": "#70E588"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -98.48671,
-                    29.42252
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": 9,
-            "properties": {
-                "name": "Hemisfair Park/UNAM",
-                "timestamp": "2013-07-23T19:55:06.556Z",
-                "bikes": "16",
-                "slots": "7",
-                "marker-color": "#70E588"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -98.48487,
-                    29.41942
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": 10,
-            "properties": {
-                "name": "MPO",
-                "timestamp": "2013-07-23T19:55:06.559Z",
-                "bikes": "5",
-                "slots": "2",
-                "marker-color": "#70E588"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -98.48974,
-                    29.41595
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": 11,
-            "properties": {
-                "name": "Blue Star",
-                "timestamp": "2013-07-23T19:55:06.562Z",
-                "bikes": "9",
-                "slots": "6",
-                "marker-color": "#70E588"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -98.495,
-                    29.40947
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": 12,
-            "properties": {
-                "name": "Central Hub",
-                "timestamp": "2013-07-23T19:55:06.564Z",
-                "bikes": "4",
-                "slots": "3",
-                "marker-color": "#FFFF63"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -98.48801,
-                    29.41871
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": 13,
-            "properties": {
-                "name": "Pearl Brewery",
-                "timestamp": "2013-07-23T19:55:06.567Z",
-                "bikes": "6",
-                "slots": "12",
-                "marker-color": "#70E588"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -98.47946,
-                    29.44356
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": 14,
-            "properties": {
-                "name": "Bexar County Garage",
-                "timestamp": "2013-07-23T19:55:06.569Z",
-                "bikes": "4",
-                "slots": "10",
-                "marker-color": "#FFFF63"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -98.49544,
-                    29.42266
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": 15,
-            "properties": {
-                "name": "Hotel Havana",
-                "timestamp": "2013-07-23T19:55:06.572Z",
-                "bikes": "3",
-                "slots": "4",
-                "marker-color": "#FFFF63"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -98.48969,
-                    29.43084
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": 16,
-            "properties": {
-                "name": "Liberty Bar",
-                "timestamp": "2013-07-23T19:55:06.575Z",
-                "bikes": "9",
-                "slots": "9",
-                "marker-color": "#70E588"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -98.49193,
-                    29.41234
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": 17,
-            "properties": {
-                "name": "Visitor's Center",
-                "timestamp": "2013-07-23T19:55:06.577Z",
-                "bikes": "5",
-                "slots": "6",
-                "marker-color": "#70E588"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -98.48732,
-                    29.42581
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": 18,
-            "properties": {
-                "name": "Pico de Gallo",
-                "timestamp": "2013-07-23T19:55:06.580Z",
-                "bikes": "14",
-                "slots": "5",
-                "marker-color": "#70E588"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -98.50285,
-                    29.42501
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": 19,
-            "properties": {
-                "name": "VIA Super Stop",
-                "timestamp": "2013-07-23T19:55:06.583Z",
-                "bikes": "10",
-                "slots": "12",
-                "marker-color": "#70E588"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -98.4897,
-                    29.41825
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": 20,
-            "properties": {
-                "name": "202 Avenue A",
-                "timestamp": "2013-07-23T19:55:06.586Z",
-                "bikes": "7",
-                "slots": "4",
-                "marker-color": "#70E588"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -98.48084,
-                    29.4376
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": 21,
-            "properties": {
-                "name": "Hemisview",
-                "timestamp": "2013-07-23T19:55:06.588Z",
-                "bikes": "10",
-                "slots": "12",
-                "marker-color": "#70E588"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -98.48385,
-                    29.41535
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": 22,
-            "properties": {
-                "name": "SAHA",
-                "timestamp": "2013-07-23T19:55:06.591Z",
-                "bikes": "12",
-                "slots": "10",
-                "marker-color": "#70E588"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -98.49695,
-                    29.41496
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": 23,
-            "properties": {
-                "name": "Main St. @ E. Pecan St.",
-                "timestamp": "2013-07-23T19:55:06.593Z",
-                "bikes": "11",
-                "slots": "7",
-                "marker-color": "#70E588"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -98.49374,
-                    29.42849
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": 24,
-            "properties": {
-                "name": "Roosevelt Park",
-                "timestamp": "2013-07-23T19:55:06.596Z",
-                "bikes": "9",
-                "slots": "4",
-                "marker-color": "#70E588"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -98.48856,
-                    29.40057
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": 25,
-            "properties": {
-                "name": "Concepcion Park",
-                "timestamp": "2013-07-23T19:55:06.600Z",
-                "bikes": "10",
-                "slots": "8",
-                "marker-color": "#70E588"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -98.49773,
-                    29.38786
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": 26,
-            "properties": {
-                "name": "Mission Concepcion",
-                "timestamp": "2013-07-23T19:55:06.602Z",
-                "bikes": "11",
-                "slots": "7",
-                "marker-color": "#70E588"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -98.49176,
-                    29.39005
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": 27,
-            "properties": {
-                "name": "Mission Road",
-                "timestamp": "2013-07-23T19:55:06.605Z",
-                "bikes": "5",
-                "slots": "7",
-                "marker-color": "#70E588"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -98.489,
-                    29.3787
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": 28,
-            "properties": {
-                "name": "VFW Blvd",
-                "timestamp": "2013-07-23T19:55:06.608Z",
-                "bikes": "6",
-                "slots": "8",
-                "marker-color": "#70E588"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -98.47677,
-                    29.3702
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": 29,
-            "properties": {
-                "name": "Mission San Jose",
-                "timestamp": "2013-07-23T19:55:06.611Z",
-                "bikes": "9",
-                "slots": "13",
-                "marker-color": "#70E588"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -98.47955,
-                    29.36
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": 30,
-            "properties": {
                 "name": "Ace Mart",
-                "timestamp": "2013-07-23T19:55:06.613Z",
+                "timestamp": "2013-07-23T20:00:29.197Z",
                 "bikes": "12",
                 "slots": "10",
                 "marker-color": "#70E588"
@@ -561,10 +21,550 @@
         },
         {
             "type": "Feature",
+            "id": 1,
+            "properties": {
+                "name": "S.A. Museum of Art",
+                "timestamp": "2013-07-23T20:00:29.221Z",
+                "bikes": "9",
+                "slots": "6",
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -98.48236,
+                    29.43701
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 2,
+            "properties": {
+                "name": "S.A. Central Library",
+                "timestamp": "2013-07-23T20:00:29.236Z",
+                "bikes": "8",
+                "slots": "7",
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -98.49236,
+                    29.43244
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 3,
+            "properties": {
+                "name": "Milam Park",
+                "timestamp": "2013-07-23T20:00:29.251Z",
+                "bikes": "3",
+                "slots": "4",
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -98.49987,
+                    29.42578
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 4,
+            "properties": {
+                "name": "Main Plaza",
+                "timestamp": "2013-07-23T20:00:29.260Z",
+                "bikes": "8",
+                "slots": "3",
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -98.49442,
+                    29.42479
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 5,
+            "properties": {
+                "name": "Market Square",
+                "timestamp": "2013-07-23T20:00:29.273Z",
+                "bikes": "8",
+                "slots": "7",
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -98.49947,
+                    29.42459
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 6,
+            "properties": {
+                "name": "La Villita",
+                "timestamp": "2013-07-23T20:00:29.294Z",
+                "bikes": "10",
+                "slots": "3",
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -98.48797,
+                    29.42112
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 7,
+            "properties": {
+                "name": "Alamo Plaza",
+                "timestamp": "2013-07-23T20:00:29.313Z",
+                "bikes": "3",
+                "slots": "4",
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -98.48703,
+                    29.4265
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 8,
+            "properties": {
+                "name": "Ellis Alley Park and Ride",
+                "timestamp": "2013-07-23T20:00:29.326Z",
+                "bikes": "7",
+                "slots": "10",
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -98.48011,
+                    29.42277
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 9,
+            "properties": {
+                "name": "S.A. Convention Ctr.",
+                "timestamp": "2013-07-23T20:00:29.336Z",
+                "bikes": "7",
+                "slots": "4",
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -98.48671,
+                    29.42252
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 10,
+            "properties": {
+                "name": "Hemisfair Park/UNAM",
+                "timestamp": "2013-07-23T20:00:29.354Z",
+                "bikes": "16",
+                "slots": "7",
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -98.48487,
+                    29.41942
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 11,
+            "properties": {
+                "name": "MPO",
+                "timestamp": "2013-07-23T20:00:29.369Z",
+                "bikes": "5",
+                "slots": "2",
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -98.48974,
+                    29.41595
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 12,
+            "properties": {
+                "name": "Blue Star",
+                "timestamp": "2013-07-23T20:00:29.386Z",
+                "bikes": "9",
+                "slots": "6",
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -98.495,
+                    29.40947
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 13,
+            "properties": {
+                "name": "Central Hub",
+                "timestamp": "2013-07-23T20:00:29.402Z",
+                "bikes": "4",
+                "slots": "3",
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -98.48801,
+                    29.41871
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 14,
+            "properties": {
+                "name": "Pearl Brewery",
+                "timestamp": "2013-07-23T20:00:29.405Z",
+                "bikes": "6",
+                "slots": "12",
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -98.47946,
+                    29.44356
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 15,
+            "properties": {
+                "name": "Bexar County Garage",
+                "timestamp": "2013-07-23T20:00:29.407Z",
+                "bikes": "4",
+                "slots": "10",
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -98.49544,
+                    29.42266
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 16,
+            "properties": {
+                "name": "Hotel Havana",
+                "timestamp": "2013-07-23T20:00:29.411Z",
+                "bikes": "3",
+                "slots": "4",
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -98.48969,
+                    29.43084
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 17,
+            "properties": {
+                "name": "Liberty Bar",
+                "timestamp": "2013-07-23T20:00:29.416Z",
+                "bikes": "9",
+                "slots": "9",
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -98.49193,
+                    29.41234
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 18,
+            "properties": {
+                "name": "Visitor's Center",
+                "timestamp": "2013-07-23T20:00:29.429Z",
+                "bikes": "5",
+                "slots": "6",
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -98.48732,
+                    29.42581
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 19,
+            "properties": {
+                "name": "Pico de Gallo",
+                "timestamp": "2013-07-23T20:00:29.432Z",
+                "bikes": "14",
+                "slots": "5",
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -98.50285,
+                    29.42501
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 20,
+            "properties": {
+                "name": "VIA Super Stop",
+                "timestamp": "2013-07-23T20:00:29.446Z",
+                "bikes": "10",
+                "slots": "12",
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -98.4897,
+                    29.41825
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 21,
+            "properties": {
+                "name": "202 Avenue A",
+                "timestamp": "2013-07-23T20:00:29.458Z",
+                "bikes": "7",
+                "slots": "4",
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -98.48084,
+                    29.4376
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 22,
+            "properties": {
+                "name": "Hemisview",
+                "timestamp": "2013-07-23T20:00:29.472Z",
+                "bikes": "10",
+                "slots": "12",
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -98.48385,
+                    29.41535
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 23,
+            "properties": {
+                "name": "SAHA",
+                "timestamp": "2013-07-23T20:00:29.486Z",
+                "bikes": "12",
+                "slots": "10",
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -98.49695,
+                    29.41496
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 24,
+            "properties": {
+                "name": "Main St. @ E. Pecan St.",
+                "timestamp": "2013-07-23T20:00:29.499Z",
+                "bikes": "11",
+                "slots": "7",
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -98.49374,
+                    29.42849
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 25,
+            "properties": {
+                "name": "Roosevelt Park",
+                "timestamp": "2013-07-23T20:00:29.519Z",
+                "bikes": "9",
+                "slots": "4",
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -98.48856,
+                    29.40057
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 26,
+            "properties": {
+                "name": "Concepcion Park",
+                "timestamp": "2013-07-23T20:00:29.532Z",
+                "bikes": "10",
+                "slots": "8",
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -98.49773,
+                    29.38786
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 27,
+            "properties": {
+                "name": "Mission Concepcion",
+                "timestamp": "2013-07-23T20:00:29.549Z",
+                "bikes": "11",
+                "slots": "7",
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -98.49176,
+                    29.39005
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 28,
+            "properties": {
+                "name": "Mission Road",
+                "timestamp": "2013-07-23T20:00:29.557Z",
+                "bikes": "5",
+                "slots": "7",
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -98.489,
+                    29.3787
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 29,
+            "properties": {
+                "name": "VFW Blvd",
+                "timestamp": "2013-07-23T20:00:29.565Z",
+                "bikes": "6",
+                "slots": "8",
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -98.47677,
+                    29.3702
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 30,
+            "properties": {
+                "name": "Mission San Jose",
+                "timestamp": "2013-07-23T20:00:29.578Z",
+                "bikes": "9",
+                "slots": "13",
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -98.47955,
+                    29.36
+                ]
+            }
+        },
+        {
+            "type": "Feature",
             "id": 31,
             "properties": {
                 "name": "Sunset Station",
-                "timestamp": "2013-07-23T19:55:06.616Z",
+                "timestamp": "2013-07-23T20:00:29.593Z",
                 "bikes": "11",
                 "slots": "7",
                 "marker-color": "#70E588"
@@ -582,7 +582,7 @@
             "id": 32,
             "properties": {
                 "name": "SA Zoo",
-                "timestamp": "2013-07-23T19:55:06.619Z",
+                "timestamp": "2013-07-23T20:00:29.606Z",
                 "bikes": "9",
                 "slots": "13",
                 "marker-color": "#70E588"
@@ -600,7 +600,7 @@
             "id": 33,
             "properties": {
                 "name": "YMCA Tripoint",
-                "timestamp": "2013-07-23T19:55:06.623Z",
+                "timestamp": "2013-07-23T20:00:29.626Z",
                 "bikes": "8",
                 "slots": "10",
                 "marker-color": "#70E588"
@@ -618,7 +618,7 @@
             "id": 34,
             "properties": {
                 "name": "Witte @ Parking Garage",
-                "timestamp": "2013-07-23T19:55:06.626Z",
+                "timestamp": "2013-07-23T20:00:29.630Z",
                 "bikes": "9",
                 "slots": "9",
                 "marker-color": "#70E588"
@@ -636,7 +636,7 @@
             "id": 35,
             "properties": {
                 "name": "Acequia Park",
-                "timestamp": "2013-07-23T19:55:06.629Z",
+                "timestamp": "2013-07-23T20:00:29.635Z",
                 "bikes": "9",
                 "slots": "13",
                 "marker-color": "#70E588"
@@ -654,7 +654,7 @@
             "id": 36,
             "properties": {
                 "name": "Padre Park",
-                "timestamp": "2013-07-23T19:55:06.635Z",
+                "timestamp": "2013-07-23T20:00:29.652Z",
                 "bikes": "12",
                 "slots": "2",
                 "marker-color": "#70E588"
@@ -672,7 +672,7 @@
             "id": 37,
             "properties": {
                 "name": "Espada Dam",
-                "timestamp": "2013-07-23T19:55:06.638Z",
+                "timestamp": "2013-07-23T20:00:29.658Z",
                 "bikes": "0",
                 "slots": "14",
                 "marker-color": "#F85E35"
@@ -690,7 +690,7 @@
             "id": 38,
             "properties": {
                 "name": "Mission San Juan",
-                "timestamp": "2013-07-23T19:55:06.641Z",
+                "timestamp": "2013-07-23T20:00:29.667Z",
                 "bikes": "10",
                 "slots": "12",
                 "marker-color": "#70E588"
@@ -708,7 +708,7 @@
             "id": 39,
             "properties": {
                 "name": "1901 S Alamo",
-                "timestamp": "2013-07-23T19:55:06.644Z",
+                "timestamp": "2013-07-23T20:00:29.669Z",
                 "bikes": "2",
                 "slots": "5",
                 "marker-color": "#FFFF63"
@@ -726,7 +726,7 @@
             "id": 40,
             "properties": {
                 "name": "Flores @ Cesar Chavez",
-                "timestamp": "2013-07-23T19:55:06.646Z",
+                "timestamp": "2013-07-23T20:00:29.672Z",
                 "bikes": "5",
                 "slots": "4",
                 "marker-color": "#70E588"
@@ -744,7 +744,7 @@
             "id": 41,
             "properties": {
                 "name": "115 E Crockett",
-                "timestamp": "2013-07-23T19:55:06.649Z",
+                "timestamp": "2013-07-23T20:00:29.675Z",
                 "bikes": "5",
                 "slots": "4",
                 "marker-color": "#70E588"
