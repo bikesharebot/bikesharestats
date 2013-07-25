@@ -1,4 +1,635 @@
 {
     "type": "FeatureCollection",
-    "features": []
+    "features": [
+        {
+            "type": "Feature",
+            "id": 0,
+            "properties": {
+                "name": "AMBULATORIO SAN FERMÝN",
+                "timestamp": "2013-07-11T00:51:06.549Z",
+                "bikes": 2,
+                "slots": 13,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.706933,
+                    38.268924
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 1,
+            "properties": {
+                "name": "AVDA. LIBERTAD - ALJUB",
+                "timestamp": "2013-07-11T00:51:06.549Z",
+                "bikes": 9,
+                "slots": 6,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.71614,
+                    38.26175
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 2,
+            "properties": {
+                "name": "AVDA. LIBERTAD/REINA VICTORIA",
+                "timestamp": "2013-07-11T00:51:06.549Z",
+                "bikes": 5,
+                "slots": 8,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.71128,
+                    38.26573
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 3,
+            "properties": {
+                "name": "AVDA. LLAURADORS / ESLAVA",
+                "timestamp": "2013-07-11T00:51:06.549Z",
+                "bikes": 8,
+                "slots": 5,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.70548,
+                    38.25399
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 4,
+            "properties": {
+                "name": "AYUNTAMIENTO",
+                "timestamp": "2013-07-11T00:51:06.549Z",
+                "bikes": 4,
+                "slots": 13,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.699424,
+                    38.265409
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 5,
+            "properties": {
+                "name": "BIBLIOTECA SAN JOSÉ",
+                "timestamp": "2013-07-11T00:51:06.549Z",
+                "bikes": 5,
+                "slots": 10,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.701275,
+                    38.259831
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 6,
+            "properties": {
+                "name": "C. P. MARIANO BENLLIURE",
+                "timestamp": "2013-07-11T00:51:06.549Z",
+                "bikes": 5,
+                "slots": 8,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.7109,
+                    38.25923
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 7,
+            "properties": {
+                "name": "CASABLANCA",
+                "timestamp": "2013-07-11T00:51:06.549Z",
+                "bikes": 10,
+                "slots": 3,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.70319,
+                    38.2755
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 8,
+            "properties": {
+                "name": "CENTRO DE CONGRESOS",
+                "timestamp": "2013-07-11T00:51:06.549Z",
+                "bikes": 8,
+                "slots": 7,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.695433,
+                    38.264171
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 9,
+            "properties": {
+                "name": "CENTRO SALUD ALTABIX",
+                "timestamp": "2013-07-11T00:51:06.549Z",
+                "bikes": 9,
+                "slots": 6,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.68108,
+                    38.27272
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 10,
+            "properties": {
+                "name": "COMISARÝA",
+                "timestamp": "2013-07-11T00:51:06.549Z",
+                "bikes": 6,
+                "slots": 7,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.688257,
+                    38.262993
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 11,
+            "properties": {
+                "name": "CONRADO DEL CAMPO / TRINQUETE",
+                "timestamp": "2013-07-11T00:51:06.550Z",
+                "bikes": 9,
+                "slots": 4,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.70461,
+                    38.25734
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 12,
+            "properties": {
+                "name": "CORAZÓN DE JESÚS",
+                "timestamp": "2013-07-11T00:51:06.550Z",
+                "bikes": 10,
+                "slots": 3,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.70259,
+                    38.26718
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 13,
+            "properties": {
+                "name": "ESCORXADOR",
+                "timestamp": "2013-07-11T00:51:06.550Z",
+                "bikes": 8,
+                "slots": 5,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.691995,
+                    38.256839
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 14,
+            "properties": {
+                "name": "ESTACIÓN AUTOBUSES/RENFE",
+                "timestamp": "2013-07-11T00:51:06.563Z",
+                "bikes": 6,
+                "slots": 13,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.694305,
+                    38.272036
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 15,
+            "properties": {
+                "name": "HOSPITAL DEL VINALOPÓ",
+                "timestamp": "2013-07-11T00:51:06.563Z",
+                "bikes": 5,
+                "slots": 8,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.71483,
+                    38.25515
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 16,
+            "properties": {
+                "name": "HOSPITAL GENERAL",
+                "timestamp": "2013-07-11T00:51:06.563Z",
+                "bikes": 6,
+                "slots": 7,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.68586,
+                    38.25961
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 17,
+            "properties": {
+                "name": "JARDÝN DE ASPE",
+                "timestamp": "2013-07-11T00:51:06.563Z",
+                "bikes": 3,
+                "slots": 10,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.71529,
+                    38.27609
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 18,
+            "properties": {
+                "name": "JESUTINAS",
+                "timestamp": "2013-07-11T00:51:06.563Z",
+                "bikes": 2,
+                "slots": 11,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.69328,
+                    38.26674
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 19,
+            "properties": {
+                "name": "OFICINA DE TURISMO",
+                "timestamp": "2013-07-11T00:51:06.564Z",
+                "bikes": 7,
+                "slots": 6,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.696731,
+                    38.268457
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 20,
+            "properties": {
+                "name": "PABELLÓN MUNICIPAL",
+                "timestamp": "2013-07-11T00:51:06.564Z",
+                "bikes": 6,
+                "slots": 11,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.673121,
+                    38.273904
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 21,
+            "properties": {
+                "name": "PASSEIG DE GERMANIES",
+                "timestamp": "2013-07-11T00:51:06.683Z",
+                "bikes": 5,
+                "slots": 8,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.70313,
+                    38.26253
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 22,
+            "properties": {
+                "name": "PLAZA 1 DE MAYO",
+                "timestamp": "2013-07-11T00:51:06.684Z",
+                "bikes": 7,
+                "slots": 6,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.708405,
+                    38.274553
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 23,
+            "properties": {
+                "name": "PLAZA CASTILLA",
+                "timestamp": "2013-07-11T00:51:06.684Z",
+                "bikes": 12,
+                "slots": 9,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.67801,
+                    38.27662
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 24,
+            "properties": {
+                "name": "PLAZA DE CREVILLENTE",
+                "timestamp": "2013-07-11T00:51:06.684Z",
+                "bikes": 8,
+                "slots": 7,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.708752,
+                    38.261942
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 25,
+            "properties": {
+                "name": "PLAZA DE LA LONJA",
+                "timestamp": "2013-07-11T00:51:06.684Z",
+                "bikes": 13,
+                "slots": 4,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.685963,
+                    38.270117
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 26,
+            "properties": {
+                "name": "PLAZA DEL RAVAL",
+                "timestamp": "2013-07-11T00:51:06.684Z",
+                "bikes": 7,
+                "slots": 6,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.698565,
+                    38.260487
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 27,
+            "properties": {
+                "name": "POLICIA LOCAL",
+                "timestamp": "2013-07-11T00:51:06.684Z",
+                "bikes": 6,
+                "slots": 7,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.66915,
+                    38.27553
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 28,
+            "properties": {
+                "name": "POLIDEPORTIVO ALTABIX",
+                "timestamp": "2013-07-11T00:51:06.684Z",
+                "bikes": 9,
+                "slots": 4,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.67195,
+                    38.27832
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 29,
+            "properties": {
+                "name": "POLIVALENTE CARRÚS",
+                "timestamp": "2013-07-11T00:51:06.684Z",
+                "bikes": 8,
+                "slots": 5,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.713323,
+                    38.270115
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 30,
+            "properties": {
+                "name": "JUZGADOS",
+                "timestamp": "2013-07-11T00:51:06.684Z",
+                "bikes": 0,
+                "slots": 13,
+                "marker-color": "#F85E35"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.68264,
+                    38.26186
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 31,
+            "properties": {
+                "name": "SQUASH",
+                "timestamp": "2013-07-11T00:51:06.684Z",
+                "bikes": 6,
+                "slots": 9,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.6702,
+                    38.27052
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 32,
+            "properties": {
+                "name": "ANTONIO MENA/FRAY JAIME TORRES",
+                "timestamp": "2013-07-11T00:51:06.684Z",
+                "bikes": 10,
+                "slots": 5,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.70852,
+                    38.25835
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 33,
+            "properties": {
+                "name": "UMH - PABELLÓN DEPORTES",
+                "timestamp": "2013-07-11T00:51:06.685Z",
+                "bikes": 4,
+                "slots": 11,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.68589,
+                    38.27921
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 34,
+            "properties": {
+                "name": "UMH - ESCUELA OFICIAL DE IDIOMAS",
+                "timestamp": "2013-07-11T00:51:06.685Z",
+                "bikes": 5,
+                "slots": 8,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.69111,
+                    38.27425
+                ]
+            }
+        }
+    ]
 }

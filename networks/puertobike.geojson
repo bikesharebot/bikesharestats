@@ -1,4 +1,185 @@
 {
     "type": "FeatureCollection",
-    "features": []
+    "features": [
+        {
+            "type": "Feature",
+            "id": 0,
+            "properties": {
+                "name": "AUDITORIO CEU",
+                "timestamp": "2013-07-11T01:06:03.349Z",
+                "bikes": 0,
+                "slots": 10,
+                "marker-color": "#F85E35"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.108021,
+                    38.691901
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 1,
+            "properties": {
+                "name": "AVENIDA MARÍA AUXILIADORA",
+                "timestamp": "2013-07-11T01:06:03.349Z",
+                "bikes": 0,
+                "slots": 10,
+                "marker-color": "#F85E35"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.099283,
+                    38.687275
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 2,
+            "properties": {
+                "name": "CENTRO JUVENTUD - ESCUELA DANZA",
+                "timestamp": "2013-07-11T01:06:03.349Z",
+                "bikes": 0,
+                "slots": 10,
+                "marker-color": "#F85E35"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.108123,
+                    38.705472
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 3,
+            "properties": {
+                "name": "CENTRO DE CONVENCIONES",
+                "timestamp": "2013-07-11T01:06:03.349Z",
+                "bikes": 0,
+                "slots": 10,
+                "marker-color": "#F85E35"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.125831,
+                    38.681769
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 4,
+            "properties": {
+                "name": "CENTRO SOCIAL",
+                "timestamp": "2013-07-11T01:06:03.349Z",
+                "bikes": 3,
+                "slots": 7,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.088985,
+                    38.683883
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 5,
+            "properties": {
+                "name": "CENTRO VIRTUS",
+                "timestamp": "2013-07-11T01:06:03.350Z",
+                "bikes": 1,
+                "slots": 9,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.122142,
+                    38.704425
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 6,
+            "properties": {
+                "name": "ESTADIO MUNICIPAL SÝNCHEZ MENOR",
+                "timestamp": "2013-07-11T01:06:03.350Z",
+                "bikes": 0,
+                "slots": 10,
+                "marker-color": "#F85E35"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.103657,
+                    38.703426
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 7,
+            "properties": {
+                "name": "MERCADO MUNICIPAL",
+                "timestamp": "2013-07-11T01:06:03.350Z",
+                "bikes": 0,
+                "slots": 10,
+                "marker-color": "#F85E35"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.106573,
+                    38.68759
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 8,
+            "properties": {
+                "name": "PISCINA MAGDALENA",
+                "timestamp": "2013-07-11T01:06:03.389Z",
+                "bikes": 0,
+                "slots": 10,
+                "marker-color": "#F85E35"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.104642,
+                    38.68184
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 9,
+            "properties": {
+                "name": "PLAZA DE LA CONSTITUCIÓN",
+                "timestamp": "2013-07-11T01:06:03.389Z",
+                "bikes": 0,
+                "slots": 10,
+                "marker-color": "#F85E35"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.110686,
+                    38.686382
+                ]
+            }
+        }
+    ]
 }

@@ -1,4 +1,77 @@
 {
     "type": "FeatureCollection",
-    "features": []
+    "features": [
+        {
+            "type": "Feature",
+            "id": 0,
+            "properties": {
+                "name": "CENTRO SOCIAL",
+                "timestamp": "2013-07-11T00:48:11.591Z",
+                "bikes": 7,
+                "slots": 3,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.396376,
+                    38.426987
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 1,
+            "properties": {
+                "name": "PLAYA 1",
+                "timestamp": "2013-07-11T00:48:11.591Z",
+                "bikes": 6,
+                "slots": 4,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.389349,
+                    38.427393
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 2,
+            "properties": {
+                "name": "PLAYA 2",
+                "timestamp": "2013-07-11T00:48:11.591Z",
+                "bikes": 3,
+                "slots": 7,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.406905,
+                    38.396383
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 3,
+            "properties": {
+                "name": "PLAZA",
+                "timestamp": "2013-07-11T00:48:11.591Z",
+                "bikes": 1,
+                "slots": 9,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.400921,
+                    38.427702
+                ]
+            }
+        }
+    ]
 }
