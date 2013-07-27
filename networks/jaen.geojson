@@ -1,4 +1,95 @@
 {
     "type": "FeatureCollection",
-    "features": []
+    "features": [
+        {
+            "type": "Feature",
+            "id": 0,
+            "properties": {
+                "name": "PARQUE DE LA VICTORIA",
+                "timestamp": "2013-07-11T00:51:11.774Z",
+                "bikes": 2,
+                "slots": 1,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.788289,
+                    37.772561
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 1,
+            "properties": {
+                "name": "PLAZA CONSTITUCIÓN",
+                "timestamp": "2013-07-11T00:51:11.774Z",
+                "bikes": 0,
+                "slots": 10,
+                "marker-color": "#F85E35"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.787603,
+                    37.767536
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 2,
+            "properties": {
+                "name": "PLAZA DE LA CONCORDIA",
+                "timestamp": "2013-07-11T00:51:11.774Z",
+                "bikes": 0,
+                "slots": 10,
+                "marker-color": "#F85E35"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.790066,
+                    37.779291
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 3,
+            "properties": {
+                "name": "POLIDEPORTIVO",
+                "timestamp": "2013-07-11T00:51:11.774Z",
+                "bikes": 0,
+                "slots": 10,
+                "marker-color": "#F85E35"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.810356,
+                    37.782703
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 4,
+            "properties": {
+                "name": "UNIVERSIDAD DE JAEN",
+                "timestamp": "2013-07-11T00:51:11.774Z",
+                "bikes": 0,
+                "slots": 10,
+                "marker-color": "#F85E35"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.777475,
+                    37.7866
+                ]
+            }
+        }
+    ]
 }

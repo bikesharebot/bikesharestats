@@ -1,4 +1,131 @@
 {
     "type": "FeatureCollection",
-    "features": []
+    "features": [
+        {
+            "type": "Feature",
+            "id": 0,
+            "properties": {
+                "name": "BIBLIOTECA",
+                "timestamp": "2013-07-11T01:06:23.653Z",
+                "bikes": 3,
+                "slots": 4,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.473816,
+                    40.471074
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 1,
+            "properties": {
+                "name": "CATALINETES",
+                "timestamp": "2013-07-11T01:06:23.654Z",
+                "bikes": 2,
+                "slots": 5,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.476291,
+                    40.47868
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 2,
+            "properties": {
+                "name": "HOSPITAL",
+                "timestamp": "2013-07-11T01:06:23.654Z",
+                "bikes": 0,
+                "slots": 7,
+                "marker-color": "#F85E35"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.449138,
+                    40.462883
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 3,
+            "properties": {
+                "name": "INSTITUT-RENFE",
+                "timestamp": "2013-07-11T01:06:23.654Z",
+                "bikes": 4,
+                "slots": 3,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.457657,
+                    40.471749
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 4,
+            "properties": {
+                "name": "PASSEIG FORA FORAT",
+                "timestamp": "2013-07-11T01:06:23.654Z",
+                "bikes": 3,
+                "slots": 4,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.481348,
+                    40.473765
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 5,
+            "properties": {
+                "name": "PLAÇA DE BOUS",
+                "timestamp": "2013-07-11T01:06:23.654Z",
+                "bikes": 0,
+                "slots": 7,
+                "marker-color": "#F85E35"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.468751,
+                    40.465003
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 6,
+            "properties": {
+                "name": "SALINES",
+                "timestamp": "2013-07-11T01:06:23.654Z",
+                "bikes": 4,
+                "slots": 3,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.461801,
+                    40.454654
+                ]
+            }
+        }
+    ]
 }
