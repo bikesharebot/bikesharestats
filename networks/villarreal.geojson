@@ -1,4 +1,95 @@
 {
     "type": "FeatureCollection",
-    "features": []
+    "features": [
+        {
+            "type": "Feature",
+            "id": 0,
+            "properties": {
+                "name": "CALLE DE BAYARRI",
+                "timestamp": "2013-07-11T00:54:05.160Z",
+                "bikes": 0,
+                "slots": 10,
+                "marker-color": "#F85E35"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.099334,
+                    39.938733
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 1,
+            "properties": {
+                "name": "CALLE HOSPITAL",
+                "timestamp": "2013-07-11T00:54:05.161Z",
+                "bikes": 0,
+                "slots": 10,
+                "marker-color": "#F85E35"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.104581,
+                    39.934446
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 2,
+            "properties": {
+                "name": "ERMITA",
+                "timestamp": "2013-07-11T00:54:05.161Z",
+                "bikes": 0,
+                "slots": 10,
+                "marker-color": "#F85E35"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.11065,
+                    39.952043
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 3,
+            "properties": {
+                "name": "ESTACIÓN RENFE",
+                "timestamp": "2013-07-11T00:54:05.161Z",
+                "bikes": 0,
+                "slots": 20,
+                "marker-color": "#F85E35"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.097028,
+                    39.933151
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 4,
+            "properties": {
+                "name": "ESTADIO MADRIGAL",
+                "timestamp": "2013-07-11T00:54:05.161Z",
+                "bikes": 0,
+                "slots": 10,
+                "marker-color": "#F85E35"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.104972,
+                    39.944023
+                ]
+            }
+        }
+    ]
 }
