@@ -1,4 +1,113 @@
 {
     "type": "FeatureCollection",
-    "features": []
+    "features": [
+        {
+            "type": "Feature",
+            "id": 0,
+            "properties": {
+                "name": "BIBLIOTECA MUNICIPAL XERARDO DÝAZ - PORTO DO SON",
+                "timestamp": "2013-07-11T00:51:08.815Z",
+                "bikes": 1,
+                "slots": 7,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.007453,
+                    42.72492
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 1,
+            "properties": {
+                "name": "CASA DA CULTURA - PORTOSIN",
+                "timestamp": "2013-07-11T00:51:08.815Z",
+                "bikes": 0,
+                "slots": 8,
+                "marker-color": "#F85E35"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.94698,
+                    42.75864
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 2,
+            "properties": {
+                "name": "CASA DO CONCELLO - LOUSAME",
+                "timestamp": "2013-07-11T00:51:08.815Z",
+                "bikes": 3,
+                "slots": 4,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.865377,
+                    42.785368
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 3,
+            "properties": {
+                "name": "POLIDEPORTIVO MUNICIPAL - LOUSAME",
+                "timestamp": "2013-07-11T00:51:08.815Z",
+                "bikes": 0,
+                "slots": 7,
+                "marker-color": "#F85E35"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.856769,
+                    42.773536
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 4,
+            "properties": {
+                "name": "PRAZA DAS AMÉRICAS - NOIA",
+                "timestamp": "2013-07-11T00:51:08.815Z",
+                "bikes": 5,
+                "slots": 3,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.8857,
+                    42.781825
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 5,
+            "properties": {
+                "name": "RÚA BESTEIROS - NOIA",
+                "timestamp": "2013-07-11T00:51:08.815Z",
+                "bikes": 4,
+                "slots": 4,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.8888,
+                    42.784472
+                ]
+            }
+        }
+    ]
 }

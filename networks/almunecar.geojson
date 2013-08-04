@@ -1,4 +1,23 @@
 {
     "type": "FeatureCollection",
-    "features": []
+    "features": [
+        {
+            "type": "Feature",
+            "id": 0,
+            "properties": {
+                "name": "ESTACIÓN DE AUTOBUSES / POLICÍA LOCAL",
+                "timestamp": "2013-07-11T00:51:05.775Z",
+                "bikes": 0,
+                "slots": 10,
+                "marker-color": "#F85E35"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.688828,
+                    36.735789
+                ]
+            }
+        }
+    ]
 }

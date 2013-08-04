@@ -1,4 +1,131 @@
 {
     "type": "FeatureCollection",
-    "features": []
+    "features": [
+        {
+            "type": "Feature",
+            "id": 0,
+            "properties": {
+                "name": "CALLE INFANTE",
+                "timestamp": "2013-07-09T11:18:06.971Z",
+                "bikes": 6,
+                "slots": 4,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.562674,
+                    37.019413
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 1,
+            "properties": {
+                "name": "PASEO GARCÍA DEL OLMO",
+                "timestamp": "2013-07-09T11:18:06.971Z",
+                "bikes": 7,
+                "slots": 3,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.56216,
+                    37.021608
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 2,
+            "properties": {
+                "name": "PASEO REAL",
+                "timestamp": "2013-07-09T11:18:06.971Z",
+                "bikes": 5,
+                "slots": 5,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.566053,
+                    37.021742
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 3,
+            "properties": {
+                "name": "PLAZA DEL COSO VIEJO",
+                "timestamp": "2013-07-09T11:18:06.971Z",
+                "bikes": 0,
+                "slots": 0,
+                "marker-color": "#F85E35"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.55822,
+                    37.016523
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 4,
+            "properties": {
+                "name": "PLAZA SAN FRANCISCO",
+                "timestamp": "2013-07-09T11:18:06.971Z",
+                "bikes": 6,
+                "slots": 4,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.557108,
+                    37.014532
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 5,
+            "properties": {
+                "name": "POLIDEPORTIVO MAULI",
+                "timestamp": "2013-07-09T11:18:06.971Z",
+                "bikes": 6,
+                "slots": 4,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.572987,
+                    37.020227
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 6,
+            "properties": {
+                "name": "PARQUE ATALAYA GANDIA",
+                "timestamp": "2013-07-09T11:18:06.971Z",
+                "bikes": 4,
+                "slots": 4,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.567222,
+                    37.014947
+                ]
+            }
+        }
+    ]
 }

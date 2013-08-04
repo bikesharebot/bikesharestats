@@ -1,4 +1,113 @@
 {
     "type": "FeatureCollection",
-    "features": []
+    "features": [
+        {
+            "type": "Feature",
+            "id": 0,
+            "properties": {
+                "name": "AYUNTAMIENTO",
+                "timestamp": "2013-07-11T00:51:05.352Z",
+                "bikes": 0,
+                "slots": 10,
+                "marker-color": "#F85E35"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.427814,
+                    38.236703
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 1,
+            "properties": {
+                "name": "ESQUINA EL CONVENTO",
+                "timestamp": "2013-07-11T00:51:05.352Z",
+                "bikes": 1,
+                "slots": 9,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.422581,
+                    38.237147
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 2,
+            "properties": {
+                "name": "ESTACIÓN AUTOBUSES",
+                "timestamp": "2013-07-11T00:51:05.352Z",
+                "bikes": 0,
+                "slots": 10,
+                "marker-color": "#F85E35"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.413031,
+                    38.240664
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 3,
+            "properties": {
+                "name": "PARQUE MEDINA SIYASA",
+                "timestamp": "2013-07-11T00:51:05.352Z",
+                "bikes": 0,
+                "slots": 10,
+                "marker-color": "#F85E35"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.421378,
+                    38.242011
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 4,
+            "properties": {
+                "name": "PISCINA MUNICIPAL",
+                "timestamp": "2013-07-11T00:51:05.352Z",
+                "bikes": 0,
+                "slots": 10,
+                "marker-color": "#F85E35"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.41615,
+                    38.242328
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 5,
+            "properties": {
+                "name": "POLIDEPORTIVO",
+                "timestamp": "2013-07-11T00:51:05.353Z",
+                "bikes": 0,
+                "slots": 10,
+                "marker-color": "#F85E35"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.402618,
+                    38.235979
+                ]
+            }
+        }
+    ]
 }

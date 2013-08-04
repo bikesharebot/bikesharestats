@@ -1,4 +1,23 @@
 {
     "type": "FeatureCollection",
-    "features": []
+    "features": [
+        {
+            "type": "Feature",
+            "id": 0,
+            "properties": {
+                "name": "BIBLIOTECA",
+                "timestamp": "2013-07-11T00:51:13.178Z",
+                "bikes": 1,
+                "slots": 8,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.725371,
+                    42.239035
+                ]
+            }
+        }
+    ]
 }

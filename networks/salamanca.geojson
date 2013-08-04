@@ -1,4 +1,293 @@
 {
     "type": "FeatureCollection",
-    "features": []
+    "features": [
+        {
+            "type": "Feature",
+            "id": 0,
+            "properties": {
+                "name": "HILARIO GOYENECHEA (BARRIO SAN JOS?)",
+                "timestamp": "2013-07-11T00:54:03.990Z",
+                "bikes": 4,
+                "slots": 3,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.662189,
+                    40.948803
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 1,
+            "properties": {
+                "name": "CAMPUS CIENCIAS",
+                "timestamp": "2013-07-11T00:54:03.990Z",
+                "bikes": 8,
+                "slots": 7,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.670008,
+                    40.960269
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 2,
+            "properties": {
+                "name": "CAMPUS CLARETIANOS",
+                "timestamp": "2013-07-11T00:54:03.990Z",
+                "bikes": 4,
+                "slots": 7,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.660702,
+                    40.982463
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 3,
+            "properties": {
+                "name": "CAMPUS UNAMUNO",
+                "timestamp": "2013-07-11T00:54:03.990Z",
+                "bikes": 12,
+                "slots": 13,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.676897,
+                    40.965725
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 4,
+            "properties": {
+                "name": "ESTACIÓN DE AUTOBUSES",
+                "timestamp": "2013-07-11T00:54:03.990Z",
+                "bikes": 7,
+                "slots": 2,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.674858,
+                    40.970589
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 5,
+            "properties": {
+                "name": "ESTACI?N DE TRENES (VIALIA)",
+                "timestamp": "2013-07-11T00:54:03.991Z",
+                "bikes": 6,
+                "slots": 7,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.648894,
+                    40.972319
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 6,
+            "properties": {
+                "name": "LA MARINA (PARQUE JESUITAS)",
+                "timestamp": "2013-07-11T00:54:04.019Z",
+                "bikes": 5,
+                "slots": 6,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.657039,
+                    40.964597
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 7,
+            "properties": {
+                "name": "MAR?A AUXILIADORA (CORTE INGL?S)",
+                "timestamp": "2013-07-11T00:54:04.019Z",
+                "bikes": 5,
+                "slots": 8,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.657225,
+                    40.973353
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 8,
+            "properties": {
+                "name": "PARKING HOSPITAL",
+                "timestamp": "2013-07-11T00:54:04.019Z",
+                "bikes": 5,
+                "slots": 4,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.672914,
+                    40.964381
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 9,
+            "properties": {
+                "name": "PARQUE ZONA CARREFOUR (C/ LA BA?EZA)",
+                "timestamp": "2013-07-11T00:54:04.019Z",
+                "bikes": 6,
+                "slots": 3,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.665758,
+                    40.978731
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 10,
+            "properties": {
+                "name": "PLAZA DE LOS BANDOS",
+                "timestamp": "2013-07-11T00:54:04.020Z",
+                "bikes": 0,
+                "slots": 9,
+                "marker-color": "#F85E35"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.664246,
+                    40.966849
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 11,
+            "properties": {
+                "name": "PLAZA IGLESIA PIZARRALES",
+                "timestamp": "2013-07-11T00:54:04.020Z",
+                "bikes": 4,
+                "slots": 7,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.674978,
+                    40.975881
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 12,
+            "properties": {
+                "name": "PLAZA POETA IGLESIAS",
+                "timestamp": "2013-07-11T00:54:04.020Z",
+                "bikes": 0,
+                "slots": 17,
+                "marker-color": "#F85E35"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.663977,
+                    40.964439
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 13,
+            "properties": {
+                "name": "PROSPERIDAD",
+                "timestamp": "2013-07-11T00:54:04.020Z",
+                "bikes": 6,
+                "slots": 19,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.651963,
+                    40.960967
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 14,
+            "properties": {
+                "name": "PUENTE ROMANO",
+                "timestamp": "2013-07-11T00:54:04.020Z",
+                "bikes": 5,
+                "slots": 6,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.669351,
+                    40.959213
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 15,
+            "properties": {
+                "name": "TEJARES (CAJA DUERO)",
+                "timestamp": "2013-07-11T00:54:04.020Z",
+                "bikes": 6,
+                "slots": 3,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.694428,
+                    40.955072
+                ]
+            }
+        }
+    ]
 }

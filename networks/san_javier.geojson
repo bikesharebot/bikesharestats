@@ -1,4 +1,95 @@
 {
     "type": "FeatureCollection",
-    "features": []
+    "features": [
+        {
+            "type": "Feature",
+            "id": 0,
+            "properties": {
+                "name": "LA MANGA",
+                "timestamp": "2013-07-11T00:54:10.425Z",
+                "bikes": 2,
+                "slots": 8,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.7386,
+                    37.737036
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 1,
+            "properties": {
+                "name": "LA RODA",
+                "timestamp": "2013-07-11T00:54:10.425Z",
+                "bikes": 0,
+                "slots": 10,
+                "marker-color": "#F85E35"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.858953,
+                    37.770612
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 2,
+            "properties": {
+                "name": "AUDITORIO PARQUE ALMANSA",
+                "timestamp": "2013-07-11T00:54:10.425Z",
+                "bikes": 0,
+                "slots": 10,
+                "marker-color": "#F85E35"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.831528,
+                    37.804088
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 3,
+            "properties": {
+                "name": "SANTIAGO DE LA RIBERA",
+                "timestamp": "2013-07-11T00:54:10.425Z",
+                "bikes": 0,
+                "slots": 10,
+                "marker-color": "#F85E35"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.804753,
+                    37.796663
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 4,
+            "properties": {
+                "name": "UNIVERSIDAD DEL DEPORTE",
+                "timestamp": "2013-07-11T00:54:10.425Z",
+                "bikes": 0,
+                "slots": 10,
+                "marker-color": "#F85E35"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.806652,
+                    37.810121
+                ]
+            }
+        }
+    ]
 }

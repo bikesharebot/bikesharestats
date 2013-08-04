@@ -1,4 +1,95 @@
 {
     "type": "FeatureCollection",
-    "features": []
+    "features": [
+        {
+            "type": "Feature",
+            "id": 0,
+            "properties": {
+                "name": "ESTACIÓN DE AUTOBUSES",
+                "timestamp": "2013-07-11T01:12:04.716Z",
+                "bikes": 3,
+                "slots": 7,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.647178,
+                    37.579693
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 1,
+            "properties": {
+                "name": "LA REDONDA",
+                "timestamp": "2013-07-11T01:12:04.716Z",
+                "bikes": 5,
+                "slots": 4,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.634027,
+                    37.59142
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 2,
+            "properties": {
+                "name": "PLAZA LA ROSA",
+                "timestamp": "2013-07-11T01:12:04.716Z",
+                "bikes": 4,
+                "slots": 6,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.637645,
+                    37.590447
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 3,
+            "properties": {
+                "name": "POLIDEPORTIVO",
+                "timestamp": "2013-07-11T01:12:04.716Z",
+                "bikes": 6,
+                "slots": 4,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.653362,
+                    37.580203
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 4,
+            "properties": {
+                "name": "RENFE",
+                "timestamp": "2013-07-11T01:12:04.716Z",
+                "bikes": 4,
+                "slots": 5,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.634582,
+                    37.578993
+                ]
+            }
+        }
+    ]
 }

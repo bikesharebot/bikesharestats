@@ -1,4 +1,95 @@
 {
     "type": "FeatureCollection",
-    "features": []
+    "features": [
+        {
+            "type": "Feature",
+            "id": 0,
+            "properties": {
+                "name": "CASTILLO",
+                "timestamp": "2013-07-11T01:03:19.681Z",
+                "bikes": 0,
+                "slots": 10,
+                "marker-color": "#F85E35"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.19298,
+                    37.439445
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 1,
+            "properties": {
+                "name": "NIZETO ALCALÁ ZAMORA",
+                "timestamp": "2013-07-11T01:03:19.681Z",
+                "bikes": 0,
+                "slots": 10,
+                "marker-color": "#F85E35"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.211297,
+                    37.441353
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 2,
+            "properties": {
+                "name": "PABELLÓN DE DEPORTES",
+                "timestamp": "2013-07-11T01:03:19.681Z",
+                "bikes": 0,
+                "slots": 10,
+                "marker-color": "#F85E35"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.195522,
+                    37.441752
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 3,
+            "properties": {
+                "name": "PLAZA PALENQUE",
+                "timestamp": "2013-07-11T01:03:19.681Z",
+                "bikes": 0,
+                "slots": 10,
+                "marker-color": "#F85E35"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.198057,
+                    37.437215
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 4,
+            "properties": {
+                "name": "POLIDEPORTIVO",
+                "timestamp": "2013-07-11T01:03:19.681Z",
+                "bikes": 0,
+                "slots": 10,
+                "marker-color": "#F85E35"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.208085,
+                    37.442822
+                ]
+            }
+        }
+    ]
 }

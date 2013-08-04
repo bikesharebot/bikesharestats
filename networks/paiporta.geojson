@@ -1,4 +1,113 @@
 {
     "type": "FeatureCollection",
-    "features": []
+    "features": [
+        {
+            "type": "Feature",
+            "id": 0,
+            "properties": {
+                "name": "AYUNTAMIENTO",
+                "timestamp": "2013-07-11T01:33:33.675Z",
+                "bikes": 4,
+                "slots": 6,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.417871,
+                    39.429222
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 1,
+            "properties": {
+                "name": "FGV",
+                "timestamp": "2013-07-11T01:33:33.675Z",
+                "bikes": 0,
+                "slots": 10,
+                "marker-color": "#F85E35"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.418575,
+                    39.432215
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 2,
+            "properties": {
+                "name": "PLAZA XUQUER",
+                "timestamp": "2013-07-11T01:33:33.675Z",
+                "bikes": 3,
+                "slots": 7,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.422553,
+                    39.427708
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 3,
+            "properties": {
+                "name": "POLIDEPORTIVO",
+                "timestamp": "2013-07-11T01:33:33.675Z",
+                "bikes": 2,
+                "slots": 6,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.41375,
+                    39.425532
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 4,
+            "properties": {
+                "name": "POLÝGONO",
+                "timestamp": "2013-07-11T01:33:33.676Z",
+                "bikes": 2,
+                "slots": 8,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.407989,
+                    39.426899
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 5,
+            "properties": {
+                "name": "SANTA ANA",
+                "timestamp": "2013-07-11T01:33:33.676Z",
+                "bikes": 3,
+                "slots": 5,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.42052,
+                    39.42408
+                ]
+            }
+        }
+    ]
 }

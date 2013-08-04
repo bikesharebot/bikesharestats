@@ -1,4 +1,221 @@
 {
     "type": "FeatureCollection",
-    "features": []
+    "features": [
+        {
+            "type": "Feature",
+            "id": 0,
+            "properties": {
+                "name": "BIENESTAR SOCIAL",
+                "timestamp": "2013-07-11T01:03:18.978Z",
+                "bikes": 3,
+                "slots": 7,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.178831,
+                    40.630581
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 1,
+            "properties": {
+                "name": "CENTRO AGUAS VIVAS",
+                "timestamp": "2013-07-11T01:03:18.978Z",
+                "bikes": 3,
+                "slots": 7,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.165628,
+                    40.639683
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 2,
+            "properties": {
+                "name": "ESTACI?N AUTOBUSES",
+                "timestamp": "2013-07-11T01:03:18.978Z",
+                "bikes": 3,
+                "slots": 7,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.172774,
+                    40.635246
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 3,
+            "properties": {
+                "name": "PALACIO DEL INFANTADO",
+                "timestamp": "2013-07-11T01:03:18.978Z",
+                "bikes": 2,
+                "slots": 8,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.168567,
+                    40.636511
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 4,
+            "properties": {
+                "name": "PARQUE DON BOSCO",
+                "timestamp": "2013-07-11T01:03:18.978Z",
+                "bikes": 0,
+                "slots": 10,
+                "marker-color": "#F85E35"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.161469,
+                    40.625878
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 5,
+            "properties": {
+                "name": "PISCINA MUNICIPAL SONIA REYES",
+                "timestamp": "2013-07-11T01:03:18.978Z",
+                "bikes": 2,
+                "slots": 8,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.150522,
+                    40.627903
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 6,
+            "properties": {
+                "name": "PLAZA BEJANQUE",
+                "timestamp": "2013-07-11T01:03:18.979Z",
+                "bikes": 3,
+                "slots": 7,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.160572,
+                    40.632131
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 7,
+            "properties": {
+                "name": "PLAZA LUIS BRAILLE",
+                "timestamp": "2013-07-11T01:03:18.979Z",
+                "bikes": 2,
+                "slots": 8,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.167256,
+                    40.626244
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 8,
+            "properties": {
+                "name": "PLAZA DE LAS PROVINCIAS",
+                "timestamp": "2013-07-11T01:03:18.979Z",
+                "bikes": 3,
+                "slots": 7,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.148967,
+                    40.639528
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 9,
+            "properties": {
+                "name": "RENFE",
+                "timestamp": "2013-07-11T01:03:18.979Z",
+                "bikes": 1,
+                "slots": 7,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.182007,
+                    40.644062
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 10,
+            "properties": {
+                "name": "SANTO DOMINGO",
+                "timestamp": "2013-07-11T01:03:18.979Z",
+                "bikes": 2,
+                "slots": 8,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.164954,
+                    40.630199
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 11,
+            "properties": {
+                "name": "VICTIMAS DEL TERRORISMO",
+                "timestamp": "2013-07-11T01:03:18.979Z",
+                "bikes": 0,
+                "slots": 10,
+                "marker-color": "#F85E35"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.171611,
+                    40.628283
+                ]
+            }
+        }
+    ]
 }
