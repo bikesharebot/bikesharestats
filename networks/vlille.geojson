@@ -1,4 +1,3659 @@
 {
     "type": "FeatureCollection",
-    "features": []
+    "features": [
+        {
+            "type": "Feature",
+            "id": 0,
+            "properties": {
+                "name": "Lille Metropole",
+                "timestamp": "2013-08-04T18:04:55.956Z",
+                "bikes": 17,
+                "slots": 19,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.07599,
+                    50.6419
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 1,
+            "properties": {
+                "name": "Rihour",
+                "timestamp": "2013-08-04T18:04:56.782Z",
+                "bikes": 22,
+                "slots": 10,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.06247,
+                    50.6359
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 2,
+            "properties": {
+                "name": "Saint Maur",
+                "timestamp": "2013-08-04T18:04:57.608Z",
+                "bikes": 5,
+                "slots": 19,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.08162,
+                    50.6516
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 3,
+            "properties": {
+                "name": "Mons Sarts",
+                "timestamp": "2013-08-04T18:04:58.435Z",
+                "bikes": 19,
+                "slots": 5,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.09929,
+                    50.6423
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 4,
+            "properties": {
+                "name": "Mairie de Mons",
+                "timestamp": "2013-08-04T18:04:59.262Z",
+                "bikes": 10,
+                "slots": 6,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.11084,
+                    50.6424
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 5,
+            "properties": {
+                "name": "Lacordaire",
+                "timestamp": "2013-08-04T18:05:00.089Z",
+                "bikes": 8,
+                "slots": 8,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.10668,
+                    50.6398
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 6,
+            "properties": {
+                "name": "Mendes France",
+                "timestamp": "2013-08-04T18:05:00.917Z",
+                "bikes": 15,
+                "slots": 3,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.11274,
+                    50.6458
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 7,
+            "properties": {
+                "name": "Verdun",
+                "timestamp": "2013-08-04T18:05:01.749Z",
+                "bikes": 11,
+                "slots": 1,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.10231,
+                    50.6381
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 8,
+            "properties": {
+                "name": "Concorde",
+                "timestamp": "2013-08-04T18:05:02.576Z",
+                "bikes": 12,
+                "slots": 0,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.1127,
+                    50.6381
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 9,
+            "properties": {
+                "name": "Lavoisier",
+                "timestamp": "2013-08-04T18:05:03.404Z",
+                "bikes": 8,
+                "slots": 4,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.10644,
+                    50.6361
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 10,
+            "properties": {
+                "name": "General de Gaulle",
+                "timestamp": "2013-08-04T18:05:04.233Z",
+                "bikes": 3,
+                "slots": 17,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.10052,
+                    50.6453
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 11,
+            "properties": {
+                "name": "Square du Portugal",
+                "timestamp": "2013-08-04T18:05:05.082Z",
+                "bikes": 7,
+                "slots": 9,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.03067,
+                    50.6235
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 12,
+            "properties": {
+                "name": "Nouveau siecle",
+                "timestamp": "2013-08-04T18:05:05.911Z",
+                "bikes": 13,
+                "slots": 19,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.06098,
+                    50.6373
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 13,
+            "properties": {
+                "name": "Rue Bonte-Pollet",
+                "timestamp": "2013-08-04T18:05:06.747Z",
+                "bikes": 4,
+                "slots": 12,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.03423,
+                    50.6249
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 14,
+            "properties": {
+                "name": "Hellemmes Cimetieres",
+                "timestamp": "2013-08-04T18:05:07.576Z",
+                "bikes": 5,
+                "slots": 7,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.11668,
+                    50.6249
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 15,
+            "properties": {
+                "name": "Square Charles de Gaulle",
+                "timestamp": "2013-08-04T18:05:08.404Z",
+                "bikes": 6,
+                "slots": 6,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.1151,
+                    50.6268
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 16,
+            "properties": {
+                "name": "Avenue de Mormal",
+                "timestamp": "2013-08-04T18:05:09.231Z",
+                "bikes": 12,
+                "slots": 6,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.08945,
+                    50.6513
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 17,
+            "properties": {
+                "name": "Bois Habite",
+                "timestamp": "2013-08-04T18:05:10.062Z",
+                "bikes": 8,
+                "slots": 9,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.07921,
+                    50.6265
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 18,
+            "properties": {
+                "name": "De Gaulle",
+                "timestamp": "2013-08-04T18:05:10.893Z",
+                "bikes": 7,
+                "slots": 11,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.07232,
+                    50.6515
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 19,
+            "properties": {
+                "name": "Botanique",
+                "timestamp": "2013-08-04T18:05:11.723Z",
+                "bikes": 6,
+                "slots": 10,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.07834,
+                    50.6489
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 20,
+            "properties": {
+                "name": "Hippodrome",
+                "timestamp": "2013-08-04T18:05:12.553Z",
+                "bikes": 15,
+                "slots": 6,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.03137,
+                    50.6416
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 21,
+            "properties": {
+                "name": "College Lavoisier",
+                "timestamp": "2013-08-04T18:05:13.383Z",
+                "bikes": 18,
+                "slots": 0,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.02236,
+                    50.6418
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 22,
+            "properties": {
+                "name": "Lomme-Lambersart",
+                "timestamp": "2013-08-04T18:05:14.231Z",
+                "bikes": 17,
+                "slots": 1,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.0188,
+                    50.641
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 23,
+            "properties": {
+                "name": "Opera",
+                "timestamp": "2013-08-04T18:05:15.058Z",
+                "bikes": 5,
+                "slots": 20,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.0659,
+                    50.6375
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 24,
+            "properties": {
+                "name": "Lomme Mairie",
+                "timestamp": "2013-08-04T18:05:15.886Z",
+                "bikes": 11,
+                "slots": 7,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.01245,
+                    50.6394
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 25,
+            "properties": {
+                "name": "Pont superieur",
+                "timestamp": "2013-08-04T18:05:16.718Z",
+                "bikes": 0,
+                "slots": 16,
+                "marker-color": "#F85E35"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.01324,
+                    50.6449
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 26,
+            "properties": {
+                "name": "Fort de Mons",
+                "timestamp": "2013-08-04T18:05:17.545Z",
+                "bikes": 14,
+                "slots": 6,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.11858,
+                    50.6439
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 27,
+            "properties": {
+                "name": "Le Polyedre",
+                "timestamp": "2013-08-04T18:05:18.370Z",
+                "bikes": 6,
+                "slots": 10,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.11557,
+                    50.6406
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 28,
+            "properties": {
+                "name": "Flers Mairie",
+                "timestamp": "2013-08-04T18:05:19.199Z",
+                "bikes": 8,
+                "slots": 4,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.12796,
+                    50.6371
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 29,
+            "properties": {
+                "name": "Rue Louise Michel",
+                "timestamp": "2013-08-04T18:05:20.026Z",
+                "bikes": 7,
+                "slots": 9,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.12734,
+                    50.6338
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 30,
+            "properties": {
+                "name": "Flers Chateau",
+                "timestamp": "2013-08-04T18:05:20.875Z",
+                "bikes": 8,
+                "slots": 6,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.13085,
+                    50.6361
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 31,
+            "properties": {
+                "name": "Quai du Wault",
+                "timestamp": "2013-08-04T18:05:21.704Z",
+                "bikes": 8,
+                "slots": 10,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.05477,
+                    50.6367
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 32,
+            "properties": {
+                "name": "Pont de Bois",
+                "timestamp": "2013-08-04T18:05:22.533Z",
+                "bikes": 7,
+                "slots": 23,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.12789,
+                    50.6245
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 33,
+            "properties": {
+                "name": "V.Ascq Hotel de Ville",
+                "timestamp": "2013-08-04T18:05:23.363Z",
+                "bikes": 14,
+                "slots": 23,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.13197,
+                    50.6196
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 34,
+            "properties": {
+                "name": "Centre Commercial V2",
+                "timestamp": "2013-08-04T18:05:24.192Z",
+                "bikes": 3,
+                "slots": 16,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.13201,
+                    50.6161
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 35,
+            "properties": {
+                "name": "Boulevard de Valmy",
+                "timestamp": "2013-08-04T18:05:25.019Z",
+                "bikes": 8,
+                "slots": 20,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.1265,
+                    50.6191
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 36,
+            "properties": {
+                "name": "Rue des Victoires",
+                "timestamp": "2013-08-04T18:05:25.848Z",
+                "bikes": 4,
+                "slots": 12,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.13171,
+                    50.6221
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 37,
+            "properties": {
+                "name": "Flers Masquelier",
+                "timestamp": "2013-08-04T18:04:30.231Z",
+                "bikes": 13,
+                "slots": 3,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.12315,
+                    50.6375
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 38,
+            "properties": {
+                "name": "Rue Chambord",
+                "timestamp": "2013-08-04T18:04:31.057Z",
+                "bikes": 0,
+                "slots": 18,
+                "marker-color": "#F85E35"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.13387,
+                    50.6297
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 39,
+            "properties": {
+                "name": "Heron Parc",
+                "timestamp": "2013-08-04T18:04:31.885Z",
+                "bikes": 4,
+                "slots": 26,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.12609,
+                    50.6159
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 40,
+            "properties": {
+                "name": "Ladriere",
+                "timestamp": "2013-08-04T18:04:32.712Z",
+                "bikes": 14,
+                "slots": 6,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.12691,
+                    50.6313
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 41,
+            "properties": {
+                "name": "Rue de Lille",
+                "timestamp": "2013-08-04T18:04:33.560Z",
+                "bikes": 11,
+                "slots": 5,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.14471,
+                    50.6258
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 42,
+            "properties": {
+                "name": "Champ de Mars",
+                "timestamp": "2013-08-04T18:04:34.386Z",
+                "bikes": 13,
+                "slots": 27,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.05222,
+                    50.6378
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 43,
+            "properties": {
+                "name": "Rue Corneille",
+                "timestamp": "2013-08-04T18:04:35.212Z",
+                "bikes": 7,
+                "slots": 7,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.14481,
+                    50.6238
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 44,
+            "properties": {
+                "name": "Metro Triolo",
+                "timestamp": "2013-08-04T18:04:36.038Z",
+                "bikes": 3,
+                "slots": 21,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.14081,
+                    50.6168
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 45,
+            "properties": {
+                "name": "Tremiere",
+                "timestamp": "2013-08-04T18:04:36.867Z",
+                "bikes": 1,
+                "slots": 19,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.13821,
+                    50.6206
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 46,
+            "properties": {
+                "name": "Rond Point de Tournai",
+                "timestamp": "2013-08-04T18:04:37.694Z",
+                "bikes": 11,
+                "slots": 5,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.14603,
+                    50.6178
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 47,
+            "properties": {
+                "name": "Annappes Republique",
+                "timestamp": "2013-08-04T18:04:38.521Z",
+                "bikes": 15,
+                "slots": 9,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.14862,
+                    50.6258
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 48,
+            "properties": {
+                "name": "Residence",
+                "timestamp": "2013-08-04T18:04:39.349Z",
+                "bikes": 13,
+                "slots": 7,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.14528,
+                    50.6199
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 49,
+            "properties": {
+                "name": "Esplanade",
+                "timestamp": "2013-08-04T18:04:40.179Z",
+                "bikes": 18,
+                "slots": 6,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.05065,
+                    50.6449
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 50,
+            "properties": {
+                "name": "Magasin",
+                "timestamp": "2013-08-04T18:04:41.006Z",
+                "bikes": 9,
+                "slots": 7,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.0535,
+                    50.6462
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 51,
+            "properties": {
+                "name": "Halle aux sucres",
+                "timestamp": "2013-08-04T18:04:41.834Z",
+                "bikes": 0,
+                "slots": 18,
+                "marker-color": "#F85E35"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.06087,
+                    50.6447
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 52,
+            "properties": {
+                "name": "Voltaire",
+                "timestamp": "2013-08-04T18:04:42.661Z",
+                "bikes": 14,
+                "slots": 0,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.05593,
+                    50.6428
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 53,
+            "properties": {
+                "name": "Rue Royale",
+                "timestamp": "2013-08-04T18:04:43.509Z",
+                "bikes": 12,
+                "slots": 12,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.05774,
+                    50.6403
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 54,
+            "properties": {
+                "name": "Universite Catholique",
+                "timestamp": "2013-08-04T18:04:44.338Z",
+                "bikes": 2,
+                "slots": 29,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.04613,
+                    50.6322
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 55,
+            "properties": {
+                "name": "N.D. de la Treille",
+                "timestamp": "2013-08-04T18:04:45.167Z",
+                "bikes": 28,
+                "slots": 2,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.06205,
+                    50.6404
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 56,
+            "properties": {
+                "name": "Croix Mairie",
+                "timestamp": "2013-08-04T18:04:45.995Z",
+                "bikes": 2,
+                "slots": 22,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.15591,
+                    50.6791
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 57,
+            "properties": {
+                "name": "Edhec",
+                "timestamp": "2013-08-04T18:04:46.824Z",
+                "bikes": 9,
+                "slots": 21,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.16344,
+                    50.6739
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 58,
+            "properties": {
+                "name": "Victor Provo",
+                "timestamp": "2013-08-04T18:04:47.652Z",
+                "bikes": 3,
+                "slots": 17,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.16745,
+                    50.6808
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 59,
+            "properties": {
+                "name": "Jean Moulin",
+                "timestamp": "2013-08-04T18:04:48.482Z",
+                "bikes": 4,
+                "slots": 11,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.17197,
+                    50.6848
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 60,
+            "properties": {
+                "name": "Condition Publique",
+                "timestamp": "2013-08-04T18:04:49.311Z",
+                "bikes": 7,
+                "slots": 11,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.18854,
+                    50.6909
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 61,
+            "properties": {
+                "name": "Alfred Mongy",
+                "timestamp": "2013-08-04T18:04:50.140Z",
+                "bikes": 9,
+                "slots": 15,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.17481,
+                    50.688
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 62,
+            "properties": {
+                "name": "Euroteleport",
+                "timestamp": "2013-08-04T18:04:50.968Z",
+                "bikes": 19,
+                "slots": 11,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.17966,
+                    50.6914
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 63,
+            "properties": {
+                "name": "De Fourmies",
+                "timestamp": "2013-08-04T18:04:51.794Z",
+                "bikes": 11,
+                "slots": 1,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.182,
+                    50.6754
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 64,
+            "properties": {
+                "name": "Usine",
+                "timestamp": "2013-08-04T18:04:52.644Z",
+                "bikes": 14,
+                "slots": 16,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.19574,
+                    50.675
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 65,
+            "properties": {
+                "name": "Place du Concert",
+                "timestamp": "2013-08-04T18:04:53.473Z",
+                "bikes": 3,
+                "slots": 17,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.06177,
+                    50.6419
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 66,
+            "properties": {
+                "name": "Linne",
+                "timestamp": "2013-08-04T18:04:54.299Z",
+                "bikes": 5,
+                "slots": 7,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.18782,
+                    50.6769
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 67,
+            "properties": {
+                "name": "Gustave Delory",
+                "timestamp": "2013-08-04T18:04:55.128Z",
+                "bikes": 3,
+                "slots": 15,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.17452,
+                    50.6742
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 68,
+            "properties": {
+                "name": "Danielle Lesaffre",
+                "timestamp": "2013-08-04T18:03:03.606Z",
+                "bikes": 11,
+                "slots": 7,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.1822,
+                    50.6821
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 69,
+            "properties": {
+                "name": "Lannoy",
+                "timestamp": "2013-08-04T18:03:04.432Z",
+                "bikes": 1,
+                "slots": 17,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.18203,
+                    50.6886
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 70,
+            "properties": {
+                "name": "Saint Jean-Baptiste",
+                "timestamp": "2013-08-04T18:03:05.259Z",
+                "bikes": 2,
+                "slots": 10,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.17926,
+                    50.6795
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 71,
+            "properties": {
+                "name": "Fraternite",
+                "timestamp": "2013-08-04T18:03:06.085Z",
+                "bikes": 10,
+                "slots": 6,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.19412,
+                    50.6818
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 72,
+            "properties": {
+                "name": "Hopital Victor Provo",
+                "timestamp": "2013-08-04T18:03:06.913Z",
+                "bikes": 3,
+                "slots": 13,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.17256,
+                    50.6787
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 73,
+            "properties": {
+                "name": "Place Spriet",
+                "timestamp": "2013-08-04T18:03:16.761Z",
+                "bikes": 8,
+                "slots": 15,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.18514,
+                    50.6739
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 74,
+            "properties": {
+                "name": "Gare Jean Lebas",
+                "timestamp": "2013-08-04T18:03:17.606Z",
+                "bikes": 9,
+                "slots": 8,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.16422,
+                    50.6955
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 75,
+            "properties": {
+                "name": "Louise de Bettignies",
+                "timestamp": "2013-08-04T18:03:18.434Z",
+                "bikes": 1,
+                "slots": 29,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.06499,
+                    50.6412
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 76,
+            "properties": {
+                "name": "Musee Art et Industrie",
+                "timestamp": "2013-08-04T18:03:19.261Z",
+                "bikes": 6,
+                "slots": 8,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.16767,
+                    50.6938
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 77,
+            "properties": {
+                "name": "Roubaix Mairie",
+                "timestamp": "2013-08-04T18:03:20.089Z",
+                "bikes": 8,
+                "slots": 22,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.17392,
+                    50.6918
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 78,
+            "properties": {
+                "name": "Les Gobelins",
+                "timestamp": "2013-08-04T18:04:54.071Z",
+                "bikes": 4,
+                "slots": 8,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.17216,
+                    50.6941
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 79,
+            "properties": {
+                "name": "Place Trichon",
+                "timestamp": "2013-08-04T18:04:54.896Z",
+                "bikes": 14,
+                "slots": 2,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.16912,
+                    50.6903
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 80,
+            "properties": {
+                "name": "Centre Nautique",
+                "timestamp": "2013-08-04T18:04:55.722Z",
+                "bikes": 1,
+                "slots": 13,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.1627,
+                    50.6914
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 81,
+            "properties": {
+                "name": "Epeule Montesquieu",
+                "timestamp": "2013-08-04T18:04:56.550Z",
+                "bikes": 9,
+                "slots": 7,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.16327,
+                    50.684
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 82,
+            "properties": {
+                "name": "Charles de Gaulle",
+                "timestamp": "2013-08-04T18:04:57.376Z",
+                "bikes": 3,
+                "slots": 13,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.17001,
+                    50.6865
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 83,
+            "properties": {
+                "name": "Bvrd Armentieres",
+                "timestamp": "2013-08-04T18:04:58.204Z",
+                "bikes": 7,
+                "slots": 11,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.15966,
+                    50.6994
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 84,
+            "properties": {
+                "name": "Pellart",
+                "timestamp": "2013-08-04T18:04:59.030Z",
+                "bikes": 9,
+                "slots": 7,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.18078,
+                    50.6954
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 85,
+            "properties": {
+                "name": "Nations Unies",
+                "timestamp": "2013-08-04T18:04:59.878Z",
+                "bikes": 10,
+                "slots": 8,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.18509,
+                    50.6924
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 86,
+            "properties": {
+                "name": "Rue des Arts",
+                "timestamp": "2013-08-04T18:05:00.708Z",
+                "bikes": 14,
+                "slots": 4,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.06555,
+                    50.6391
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 87,
+            "properties": {
+                "name": "De la Vigne",
+                "timestamp": "2013-08-04T18:05:01.546Z",
+                "bikes": 6,
+                "slots": 5,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.18407,
+                    50.7008
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 88,
+            "properties": {
+                "name": "Motte Bossut",
+                "timestamp": "2013-08-04T18:05:02.375Z",
+                "bikes": 9,
+                "slots": 9,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.17718,
+                    50.6898
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 89,
+            "properties": {
+                "name": "Fosse aux Chenes",
+                "timestamp": "2013-08-04T18:05:03.203Z",
+                "bikes": 6,
+                "slots": 8,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.17435,
+                    50.6997
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 90,
+            "properties": {
+                "name": "Alsace",
+                "timestamp": "2013-08-04T18:05:04.032Z",
+                "bikes": 2,
+                "slots": 14,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.16138,
+                    50.7004
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 91,
+            "properties": {
+                "name": "Blanchemaille",
+                "timestamp": "2013-08-04T18:05:04.862Z",
+                "bikes": 5,
+                "slots": 11,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.16713,
+                    50.6963
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 92,
+            "properties": {
+                "name": "Chaptal",
+                "timestamp": "2013-08-04T18:02:27.129Z",
+                "bikes": 5,
+                "slots": 1,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.19264,
+                    50.6947
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 93,
+            "properties": {
+                "name": "Rue des Anges",
+                "timestamp": "2013-08-04T18:02:27.959Z",
+                "bikes": 5,
+                "slots": 5,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.15634,
+                    50.7198
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 94,
+            "properties": {
+                "name": "Theatre Tourcoing",
+                "timestamp": "2013-08-04T18:02:28.786Z",
+                "bikes": 8,
+                "slots": 9,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.15266,
+                    50.7207
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 95,
+            "properties": {
+                "name": "Bvrd de l Egalite",
+                "timestamp": "2013-08-04T18:02:29.633Z",
+                "bikes": 8,
+                "slots": 6,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.16752,
+                    50.7303
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 96,
+            "properties": {
+                "name": "Flandres Euralille",
+                "timestamp": "2013-08-04T18:02:30.459Z",
+                "bikes": 2,
+                "slots": 38,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.07101,
+                    50.637
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 97,
+            "properties": {
+                "name": "Poste",
+                "timestamp": "2013-08-04T18:02:31.286Z",
+                "bikes": 1,
+                "slots": 11,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.1634,
+                    50.7192
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 98,
+            "properties": {
+                "name": "Le Corbusier",
+                "timestamp": "2013-08-04T18:02:32.115Z",
+                "bikes": 11,
+                "slots": 7,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.17085,
+                    50.7223
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 99,
+            "properties": {
+                "name": "Tourcoing gare",
+                "timestamp": "2013-08-04T18:02:32.941Z",
+                "bikes": 3,
+                "slots": 15,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.16783,
+                    50.7168
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 100,
+            "properties": {
+                "name": "Victoire",
+                "timestamp": "2013-08-04T18:02:33.768Z",
+                "bikes": 5,
+                "slots": 7,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.15749,
+                    50.7182
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 101,
+            "properties": {
+                "name": "F Roosevelt",
+                "timestamp": "2013-08-04T18:02:34.597Z",
+                "bikes": 6,
+                "slots": 6,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.16646,
+                    50.7274
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 102,
+            "properties": {
+                "name": "Jardin Botanique",
+                "timestamp": "2013-08-04T18:02:35.423Z",
+                "bikes": 11,
+                "slots": 7,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.1657,
+                    50.7247
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 103,
+            "properties": {
+                "name": "Cavell",
+                "timestamp": "2013-08-04T18:02:36.248Z",
+                "bikes": 9,
+                "slots": 3,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.16379,
+                    50.7227
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 104,
+            "properties": {
+                "name": "Rouget de l Isle",
+                "timestamp": "2013-08-04T18:02:37.075Z",
+                "bikes": 5,
+                "slots": 10,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.16799,
+                    50.7341
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 105,
+            "properties": {
+                "name": "Rue Saint Blaise",
+                "timestamp": "2013-08-04T18:02:37.904Z",
+                "bikes": 6,
+                "slots": 6,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.15883,
+                    50.7288
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 106,
+            "properties": {
+                "name": "Rue de Menin",
+                "timestamp": "2013-08-04T18:02:38.749Z",
+                "bikes": 3,
+                "slots": 9,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.15405,
+                    50.7288
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 107,
+            "properties": {
+                "name": "Gare Lille Flandres",
+                "timestamp": "2013-08-04T18:02:39.576Z",
+                "bikes": 12,
+                "slots": 8,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.06968,
+                    50.636
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 108,
+            "properties": {
+                "name": "Tourcoing Mairie",
+                "timestamp": "2013-08-04T18:02:40.403Z",
+                "bikes": 4,
+                "slots": 18,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.16034,
+                    50.7239
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 109,
+            "properties": {
+                "name": "Colbert",
+                "timestamp": "2013-08-04T18:02:41.229Z",
+                "bikes": 2,
+                "slots": 16,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.15655,
+                    50.7255
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 110,
+            "properties": {
+                "name": "Rue des Poutrains",
+                "timestamp": "2013-08-04T18:02:42.056Z",
+                "bikes": 8,
+                "slots": 8,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.15038,
+                    50.7226
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 111,
+            "properties": {
+                "name": "Avenue Millet",
+                "timestamp": "2013-08-04T18:02:42.885Z",
+                "bikes": 7,
+                "slots": 5,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.15068,
+                    50.725
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 112,
+            "properties": {
+                "name": "Sebastopol",
+                "timestamp": "2013-08-04T18:02:43.715Z",
+                "bikes": 7,
+                "slots": 11,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.16224,
+                    50.7173
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 113,
+            "properties": {
+                "name": "Rue de Roubaix",
+                "timestamp": "2013-08-04T18:02:44.540Z",
+                "bikes": 11,
+                "slots": 1,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.16501,
+                    50.7134
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 114,
+            "properties": {
+                "name": "Pont de Neuville",
+                "timestamp": "2013-08-04T18:02:45.368Z",
+                "bikes": 6,
+                "slots": 10,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.17117,
+                    50.737
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 115,
+            "properties": {
+                "name": "Charles Wattinne",
+                "timestamp": "2013-08-04T18:02:46.195Z",
+                "bikes": 12,
+                "slots": 4,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.15718,
+                    50.7147
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 116,
+            "properties": {
+                "name": "Carliers",
+                "timestamp": "2013-08-04T18:02:47.022Z",
+                "bikes": 6,
+                "slots": 6,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.15988,
+                    50.7107
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 117,
+            "properties": {
+                "name": "Mercure",
+                "timestamp": "2013-08-04T18:02:47.870Z",
+                "bikes": 10,
+                "slots": 8,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.16052,
+                    50.7047
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 118,
+            "properties": {
+                "name": "Molinel",
+                "timestamp": "2013-08-04T18:02:48.698Z",
+                "bikes": 13,
+                "slots": 9,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.06801,
+                    50.6346
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 119,
+            "properties": {
+                "name": "Place Roussel",
+                "timestamp": "2013-08-04T18:02:49.525Z",
+                "bikes": 5,
+                "slots": 15,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.15798,
+                    50.721
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 120,
+            "properties": {
+                "name": "Phalempins",
+                "timestamp": "2013-08-04T18:02:50.351Z",
+                "bikes": 4,
+                "slots": 12,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.15766,
+                    50.7323
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 121,
+            "properties": {
+                "name": "Wattrelos Place",
+                "timestamp": "2013-08-04T18:02:51.178Z",
+                "bikes": 10,
+                "slots": 8,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.21501,
+                    50.7012
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 122,
+            "properties": {
+                "name": "Stalingrad",
+                "timestamp": "2013-08-04T18:02:52.005Z",
+                "bikes": 8,
+                "slots": 4,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.20916,
+                    50.6963
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 123,
+            "properties": {
+                "name": "Tanneurs",
+                "timestamp": "2013-08-04T18:02:52.831Z",
+                "bikes": 11,
+                "slots": 25,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.0648,
+                    50.635
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 124,
+            "properties": {
+                "name": "Palais Rameau",
+                "timestamp": "2013-08-04T18:02:53.658Z",
+                "bikes": 12,
+                "slots": 28,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.04834,
+                    50.6347
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 125,
+            "properties": {
+                "name": "St Sebastien",
+                "timestamp": "2013-08-04T18:02:54.506Z",
+                "bikes": 3,
+                "slots": 17,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.05938,
+                    50.6472
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 126,
+            "properties": {
+                "name": "Jardin Vauban",
+                "timestamp": "2013-08-04T18:02:55.335Z",
+                "bikes": 14,
+                "slots": 4,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.05045,
+                    50.6361
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 127,
+            "properties": {
+                "name": "Rue de Gand",
+                "timestamp": "2013-08-04T18:02:56.162Z",
+                "bikes": 12,
+                "slots": 8,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.06745,
+                    50.6431
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 128,
+            "properties": {
+                "name": "Pont Neuf",
+                "timestamp": "2013-08-04T18:02:56.988Z",
+                "bikes": 0,
+                "slots": 20,
+                "marker-color": "#F85E35"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.06294,
+                    50.6443
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 129,
+            "properties": {
+                "name": "Place aux Bleuets",
+                "timestamp": "2013-08-04T18:02:57.815Z",
+                "bikes": 5,
+                "slots": 11,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.06787,
+                    50.6414
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 130,
+            "properties": {
+                "name": "Port de Lille",
+                "timestamp": "2013-08-04T18:02:58.640Z",
+                "bikes": 20,
+                "slots": 6,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.03568,
+                    50.6302
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 131,
+            "properties": {
+                "name": "Place Catinat",
+                "timestamp": "2013-08-04T18:02:59.467Z",
+                "bikes": 10,
+                "slots": 10,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.04121,
+                    50.6341
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 132,
+            "properties": {
+                "name": "Leclerc",
+                "timestamp": "2013-08-04T18:03:00.292Z",
+                "bikes": 0,
+                "slots": 0,
+                "marker-color": "#F85E35"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.04331,
+                    50.629
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 133,
+            "properties": {
+                "name": "Cormontaigne",
+                "timestamp": "2013-08-04T18:03:01.122Z",
+                "bikes": 6,
+                "slots": 22,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.03991,
+                    50.6262
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 134,
+            "properties": {
+                "name": "Fulton",
+                "timestamp": "2013-08-04T18:03:01.949Z",
+                "bikes": 9,
+                "slots": 3,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.03755,
+                    50.6234
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 135,
+            "properties": {
+                "name": "Place Casquette",
+                "timestamp": "2013-08-04T18:03:02.778Z",
+                "bikes": 7,
+                "slots": 11,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.04532,
+                    50.6243
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 136,
+            "properties": {
+                "name": "Marche de Wazemmes",
+                "timestamp": "2013-08-04T18:04:17.950Z",
+                "bikes": 3,
+                "slots": 19,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.05017,
+                    50.6277
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 137,
+            "properties": {
+                "name": "Maison Folie Wazemmes",
+                "timestamp": "2013-08-04T18:04:18.776Z",
+                "bikes": 17,
+                "slots": 3,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.04896,
+                    50.6247
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 138,
+            "properties": {
+                "name": "Metro Gambetta",
+                "timestamp": "2013-08-04T18:04:19.604Z",
+                "bikes": 2,
+                "slots": 14,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.05173,
+                    50.6261
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 139,
+            "properties": {
+                "name": "Buisson",
+                "timestamp": "2013-08-04T18:04:20.431Z",
+                "bikes": 3,
+                "slots": 13,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.088,
+                    50.6565
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 140,
+            "properties": {
+                "name": "Place Philippe Lebon",
+                "timestamp": "2013-08-04T18:04:21.259Z",
+                "bikes": 1,
+                "slots": 17,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.06197,
+                    50.6276
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 141,
+            "properties": {
+                "name": "Theatre Sebastopol",
+                "timestamp": "2013-08-04T18:04:22.085Z",
+                "bikes": 21,
+                "slots": 3,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.05829,
+                    50.629
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 142,
+            "properties": {
+                "name": "Gambetta Utrecht",
+                "timestamp": "2013-08-04T18:04:22.912Z",
+                "bikes": 6,
+                "slots": 12,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.05371,
+                    50.6291
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 143,
+            "properties": {
+                "name": "Brule Maison",
+                "timestamp": "2013-08-04T18:04:23.739Z",
+                "bikes": 0,
+                "slots": 18,
+                "marker-color": "#F85E35"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.05667,
+                    50.6265
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 144,
+            "properties": {
+                "name": "Artois",
+                "timestamp": "2013-08-04T18:04:24.566Z",
+                "bikes": 15,
+                "slots": 3,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.0612,
+                    50.6263
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 145,
+            "properties": {
+                "name": "Boulevard Louis XIV",
+                "timestamp": "2013-08-04T18:04:25.394Z",
+                "bikes": 12,
+                "slots": 12,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.06923,
+                    50.6282
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 146,
+            "properties": {
+                "name": "Porte de Douai",
+                "timestamp": "2013-08-04T18:04:26.221Z",
+                "bikes": 21,
+                "slots": 11,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.0722,
+                    50.6183
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 147,
+            "properties": {
+                "name": "Place Deliot",
+                "timestamp": "2013-08-04T18:04:27.067Z",
+                "bikes": 3,
+                "slots": 21,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.06839,
+                    50.6196
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 148,
+            "properties": {
+                "name": "Massena",
+                "timestamp": "2013-08-04T18:04:27.897Z",
+                "bikes": 2,
+                "slots": 30,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.05474,
+                    50.6316
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 149,
+            "properties": {
+                "name": "Rue d'Arras",
+                "timestamp": "2013-08-04T18:04:28.723Z",
+                "bikes": 6,
+                "slots": 19,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.067,
+                    50.6222
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 150,
+            "properties": {
+                "name": "JB Lebas",
+                "timestamp": "2013-08-04T18:04:29.552Z",
+                "bikes": 21,
+                "slots": 11,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.06869,
+                    50.6248
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 151,
+            "properties": {
+                "name": "Place Colette Besson",
+                "timestamp": "2013-08-04T18:04:30.379Z",
+                "bikes": 6,
+                "slots": 16,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.0638,
+                    50.6228
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 152,
+            "properties": {
+                "name": "Porte des Postes",
+                "timestamp": "2013-08-04T18:04:31.206Z",
+                "bikes": 0,
+                "slots": 38,
+                "marker-color": "#F85E35"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.04925,
+                    50.6186
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 153,
+            "properties": {
+                "name": "Metro Wazemmes",
+                "timestamp": "2013-08-04T18:04:32.037Z",
+                "bikes": 13,
+                "slots": 5,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.05156,
+                    50.6234
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 154,
+            "properties": {
+                "name": "Porte d'Arras",
+                "timestamp": "2013-08-04T18:04:32.863Z",
+                "bikes": 9,
+                "slots": 14,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.06176,
+                    50.6178
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 155,
+            "properties": {
+                "name": "Bd Victor Hugo",
+                "timestamp": "2013-08-04T18:04:33.690Z",
+                "bikes": 4,
+                "slots": 14,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.05547,
+                    50.6203
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 156,
+            "properties": {
+                "name": "Barthelemy Delespaul",
+                "timestamp": "2013-08-04T18:04:34.516Z",
+                "bikes": 6,
+                "slots": 12,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.0589,
+                    50.6242
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 157,
+            "properties": {
+                "name": "Porte de Valenciennes",
+                "timestamp": "2013-08-04T18:04:35.342Z",
+                "bikes": 3,
+                "slots": 21,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.07895,
+                    50.6209
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 158,
+            "properties": {
+                "name": "Belfort",
+                "timestamp": "2013-08-04T18:04:36.188Z",
+                "bikes": 8,
+                "slots": 22,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.07713,
+                    50.6222
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 159,
+            "properties": {
+                "name": "Republique Beaux Arts",
+                "timestamp": "2013-08-04T18:04:37.015Z",
+                "bikes": 14,
+                "slots": 10,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.0603,
+                    50.6309
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 160,
+            "properties": {
+                "name": "Trevise",
+                "timestamp": "2013-08-04T18:04:37.841Z",
+                "bikes": 9,
+                "slots": 11,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.07236,
+                    50.6212
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 161,
+            "properties": {
+                "name": "Lille Grand Palais",
+                "timestamp": "2013-08-04T18:04:38.670Z",
+                "bikes": 13,
+                "slots": 11,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.07522,
+                    50.6292
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 162,
+            "properties": {
+                "name": "Zenith",
+                "timestamp": "2013-08-04T18:04:39.496Z",
+                "bikes": 8,
+                "slots": 22,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.07644,
+                    50.633
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 163,
+            "properties": {
+                "name": "Hotel de Region",
+                "timestamp": "2013-08-04T18:04:40.326Z",
+                "bikes": 12,
+                "slots": 20,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.07822,
+                    50.6297
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 164,
+            "properties": {
+                "name": "Mairie de Lille",
+                "timestamp": "2013-08-04T18:04:41.155Z",
+                "bikes": 7,
+                "slots": 13,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.07139,
+                    50.6318
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 165,
+            "properties": {
+                "name": "Place Tacq",
+                "timestamp": "2013-08-04T18:04:41.983Z",
+                "bikes": 16,
+                "slots": 2,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.03548,
+                    50.6211
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 166,
+            "properties": {
+                "name": "Delesalle Mediatheque",
+                "timestamp": "2013-08-04T18:04:42.812Z",
+                "bikes": 4,
+                "slots": 14,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.06627,
+                    50.6324
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 167,
+            "properties": {
+                "name": "Montebello",
+                "timestamp": "2013-08-04T18:04:43.638Z",
+                "bikes": 0,
+                "slots": 24,
+                "marker-color": "#F85E35"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.04534,
+                    50.622
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 168,
+            "properties": {
+                "name": "Nationale Rue du Port",
+                "timestamp": "2013-08-04T18:04:44.465Z",
+                "bikes": 21,
+                "slots": 3,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.04778,
+                    50.6308
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 169,
+            "properties": {
+                "name": "Chasseurs de Driant",
+                "timestamp": "2013-08-04T18:04:45.315Z",
+                "bikes": 14,
+                "slots": 8,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.03254,
+                    50.6189
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 170,
+            "properties": {
+                "name": "Place de Strasbourg",
+                "timestamp": "2013-08-04T18:04:46.166Z",
+                "bikes": 6,
+                "slots": 10,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.05531,
+                    50.6337
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 171,
+            "properties": {
+                "name": "Cite Administrative",
+                "timestamp": "2013-08-04T18:04:46.992Z",
+                "bikes": 8,
+                "slots": 8,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.07399,
+                    50.6342
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 172,
+            "properties": {
+                "name": "Bois Blancs",
+                "timestamp": "2013-08-04T18:04:47.819Z",
+                "bikes": 9,
+                "slots": 13,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.03078,
+                    50.634
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 173,
+            "properties": {
+                "name": "Canteleu",
+                "timestamp": "2013-08-04T18:04:48.646Z",
+                "bikes": 11,
+                "slots": 7,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.02431,
+                    50.6373
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 174,
+            "properties": {
+                "name": "St Maurice Pellevoisin",
+                "timestamp": "2013-08-04T18:04:49.475Z",
+                "bikes": 0,
+                "slots": 23,
+                "marker-color": "#F85E35"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.08798,
+                    50.6423
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 175,
+            "properties": {
+                "name": "Faubourg de Roubaix",
+                "timestamp": "2013-08-04T18:04:50.303Z",
+                "bikes": 13,
+                "slots": 4,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.08249,
+                    50.641
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 176,
+            "properties": {
+                "name": "Eugene Jacquet",
+                "timestamp": "2013-08-04T18:04:51.130Z",
+                "bikes": 12,
+                "slots": 9,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.08489,
+                    50.6373
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 177,
+            "properties": {
+                "name": "Fives",
+                "timestamp": "2013-08-04T18:04:51.958Z",
+                "bikes": 14,
+                "slots": 10,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.08965,
+                    50.633
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 178,
+            "properties": {
+                "name": "Mont de Terre",
+                "timestamp": "2013-08-04T18:04:52.785Z",
+                "bikes": 7,
+                "slots": 11,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.09136,
+                    50.623
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 179,
+            "properties": {
+                "name": "Hotel de Police",
+                "timestamp": "2013-08-04T18:04:53.612Z",
+                "bikes": 12,
+                "slots": 6,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.04852,
+                    50.6155
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 180,
+            "properties": {
+                "name": "Cimetiere du Sud",
+                "timestamp": "2013-08-04T18:04:54.459Z",
+                "bikes": 8,
+                "slots": 12,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.04722,
+                    50.6131
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 181,
+            "properties": {
+                "name": "Place Richebe",
+                "timestamp": "2013-08-04T18:04:55.285Z",
+                "bikes": 31,
+                "slots": 1,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.06231,
+                    50.6324
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 182,
+            "properties": {
+                "name": "Petit Maroc",
+                "timestamp": "2013-08-04T18:04:56.112Z",
+                "bikes": 10,
+                "slots": 20,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.08436,
+                    50.6199
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 183,
+            "properties": {
+                "name": "Guinguette",
+                "timestamp": "2013-08-04T18:04:56.938Z",
+                "bikes": 7,
+                "slots": 3,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.11509,
+                    50.6353
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 184,
+            "properties": {
+                "name": "Gare Lille Europe",
+                "timestamp": "2013-08-04T18:04:57.766Z",
+                "bikes": 12,
+                "slots": 20,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.0752,
+                    50.64
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 185,
+            "properties": {
+                "name": "EuraTechnologies",
+                "timestamp": "2013-08-04T18:04:58.593Z",
+                "bikes": 7,
+                "slots": 17,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.02066,
+                    50.6341
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 186,
+            "properties": {
+                "name": "Hellemmes",
+                "timestamp": "2013-08-04T18:04:59.421Z",
+                "bikes": 8,
+                "slots": 16,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.10927,
+                    50.6272
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 187,
+            "properties": {
+                "name": "Chanzy",
+                "timestamp": "2013-08-04T18:05:00.247Z",
+                "bikes": 11,
+                "slots": 1,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.10073,
+                    50.6252
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 188,
+            "properties": {
+                "name": "Roger Salengro",
+                "timestamp": "2013-08-04T18:05:01.074Z",
+                "bikes": 5,
+                "slots": 7,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.10402,
+                    50.6287
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 189,
+            "properties": {
+                "name": "Jules Guesde",
+                "timestamp": "2013-08-04T18:05:01.915Z",
+                "bikes": 10,
+                "slots": 2,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.11067,
+                    50.6324
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 190,
+            "properties": {
+                "name": "Rue Nationale",
+                "timestamp": "2013-08-04T18:05:02.747Z",
+                "bikes": 14,
+                "slots": 16,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.05802,
+                    50.6351
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 191,
+            "properties": {
+                "name": "Boulevard de Metz",
+                "timestamp": "2013-08-04T18:05:03.596Z",
+                "bikes": 12,
+                "slots": 6,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.0413,
+                    50.6193
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 192,
+            "properties": {
+                "name": "Rue de Toul",
+                "timestamp": "2013-08-04T18:05:04.445Z",
+                "bikes": 9,
+                "slots": 27,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.04499,
+                    50.6339
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 193,
+            "properties": {
+                "name": "Louviere",
+                "timestamp": "2013-08-04T18:05:05.274Z",
+                "bikes": 14,
+                "slots": 6,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.08605,
+                    50.6451
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 194,
+            "properties": {
+                "name": "Square des Meres",
+                "timestamp": "2013-08-04T18:04:10.459Z",
+                "bikes": 16,
+                "slots": 9,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.09654,
+                    50.6342
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 195,
+            "properties": {
+                "name": "Rue de la Gaite",
+                "timestamp": "2013-08-04T18:04:11.289Z",
+                "bikes": 11,
+                "slots": 7,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.09111,
+                    50.6367
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 196,
+            "properties": {
+                "name": "Stade Ballet",
+                "timestamp": "2013-08-04T18:04:12.117Z",
+                "bikes": 8,
+                "slots": 10,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.08815,
+                    50.6289
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 197,
+            "properties": {
+                "name": "Marx Dormoy",
+                "timestamp": "2013-08-04T18:04:12.944Z",
+                "bikes": 16,
+                "slots": 8,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.03398,
+                    50.6358
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 198,
+            "properties": {
+                "name": "Marbrerie",
+                "timestamp": "2013-08-04T18:04:13.772Z",
+                "bikes": 11,
+                "slots": 7,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.09704,
+                    50.6304
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 199,
+            "properties": {
+                "name": "Romarin",
+                "timestamp": "2013-08-04T18:04:14.599Z",
+                "bikes": 4,
+                "slots": 14,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.07512,
+                    50.6454
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 200,
+            "properties": {
+                "name": "La Madeleine Gare",
+                "timestamp": "2013-08-04T18:04:15.427Z",
+                "bikes": 16,
+                "slots": 1,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.07406,
+                    50.6594
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 201,
+            "properties": {
+                "name": "Place du Marche",
+                "timestamp": "2013-08-04T18:04:16.257Z",
+                "bikes": 2,
+                "slots": 22,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.06876,
+                    50.6549
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 202,
+            "properties": {
+                "name": "La Madeleine Mairie",
+                "timestamp": "2013-08-04T18:04:17.102Z",
+                "bikes": 5,
+                "slots": 19,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.07381,
+                    50.6546
+                ]
+            }
+        }
+    ]
 }
