@@ -6,7 +6,7 @@
             "id": 0,
             "properties": {
                 "name": "Sterling Community Center",
-                "timestamp": "2013-08-04T10:18:45.876Z",
+                "timestamp": "2013-08-04T10:24:08.276Z",
                 "bikes": "3",
                 "slots": "6",
                 "marker-color": "#FFFF63"
@@ -24,7 +24,7 @@
             "id": 1,
             "properties": {
                 "name": "County Square",
-                "timestamp": "2013-08-04T10:18:45.878Z",
+                "timestamp": "2013-08-04T10:24:08.279Z",
                 "bikes": "0",
                 "slots": "9",
                 "marker-color": "#F85E35"
@@ -41,44 +41,8 @@
             "type": "Feature",
             "id": 2,
             "properties": {
-                "name": "College & Main",
-                "timestamp": "2013-08-04T10:18:45.880Z",
-                "bikes": "4",
-                "slots": "5",
-                "marker-color": "#FFFF63"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -82.39797,
-                    34.85399
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": 3,
-            "properties": {
-                "name": "Rhett & River",
-                "timestamp": "2013-08-04T10:18:45.882Z",
-                "bikes": "9",
-                "slots": "0",
-                "marker-color": "#70E588"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -82.40448,
-                    34.84501
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": 4,
-            "properties": {
                 "name": "City Hall",
-                "timestamp": "2013-08-04T10:18:45.884Z",
+                "timestamp": "2013-08-04T10:24:08.281Z",
                 "bikes": "6",
                 "slots": "1",
                 "marker-color": "#70E588"
@@ -93,10 +57,46 @@
         },
         {
             "type": "Feature",
+            "id": 3,
+            "properties": {
+                "name": "College & Main",
+                "timestamp": "2013-08-04T10:24:08.283Z",
+                "bikes": "4",
+                "slots": "5",
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.39797,
+                    34.85399
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 4,
+            "properties": {
+                "name": "Rhett & River",
+                "timestamp": "2013-08-04T10:24:08.285Z",
+                "bikes": "9",
+                "slots": "0",
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.40448,
+                    34.84501
+                ]
+            }
+        },
+        {
+            "type": "Feature",
             "id": 5,
             "properties": {
                 "name": "Transit Center",
-                "timestamp": "2013-08-04T10:18:45.886Z",
+                "timestamp": "2013-08-04T10:24:08.287Z",
                 "bikes": "5",
                 "slots": "3",
                 "marker-color": "#70E588"
