@@ -1,4 +1,599 @@
 {
     "type": "FeatureCollection",
-    "features": []
+    "features": [
+        {
+            "type": "Feature",
+            "id": 0,
+            "properties": {
+                "name": "PREŠERNOV TRG-PETKOVŠKOVO NABREŽJE",
+                "timestamp": "2013-08-05T01:05:09.221Z",
+                "bikes": 0,
+                "slots": 20,
+                "marker-color": "#F85E35"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.506542,
+                    46.051367
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 1,
+            "properties": {
+                "name": "POGAČARJEV TRG-TRŽNICA",
+                "timestamp": "2013-08-05T01:05:10.929Z",
+                "bikes": 7,
+                "slots": 11,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.507186,
+                    46.051093
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 2,
+            "properties": {
+                "name": "KONGRESNI TRG-ŠUBIČEVA ULICA",
+                "timestamp": "2013-08-05T01:05:12.637Z",
+                "bikes": 0,
+                "slots": 20,
+                "marker-color": "#F85E35"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.504623,
+                    46.050388
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 3,
+            "properties": {
+                "name": "CANKARJEVA UL.-NAMA",
+                "timestamp": "2013-08-05T01:05:14.598Z",
+                "bikes": 11,
+                "slots": 11,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.503257,
+                    46.052431
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 4,
+            "properties": {
+                "name": "BREG",
+                "timestamp": "2013-08-05T01:05:16.354Z",
+                "bikes": 2,
+                "slots": 18,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.505148,
+                    46.046498
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 5,
+            "properties": {
+                "name": "GRUDNOVO NABREŽJE-KARLOVŠKA C.",
+                "timestamp": "2013-08-05T01:05:18.093Z",
+                "bikes": 4,
+                "slots": 14,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.506196,
+                    46.045748
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 6,
+            "properties": {
+                "name": "MIKLOŠIČEV PARK",
+                "timestamp": "2013-08-05T01:05:19.813Z",
+                "bikes": 1,
+                "slots": 17,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.50706,
+                    46.054168
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 7,
+            "properties": {
+                "name": "BAVARSKI DVOR",
+                "timestamp": "2013-08-05T01:04:23.733Z",
+                "bikes": 10,
+                "slots": 12,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.50551,
+                    46.05682
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 8,
+            "properties": {
+                "name": "TRG OF-KOLODVORSKA UL.",
+                "timestamp": "2013-08-05T01:04:25.513Z",
+                "bikes": 1,
+                "slots": 25,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.510265,
+                    46.057421
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 9,
+            "properties": {
+                "name": "MASARYKOVA DDC",
+                "timestamp": "2013-08-05T01:04:27.268Z",
+                "bikes": 4,
+                "slots": 14,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.514264,
+                    46.05763
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 10,
+            "properties": {
+                "name": "VILHARJEVA CESTA",
+                "timestamp": "2013-08-05T01:04:29.048Z",
+                "bikes": 5,
+                "slots": 15,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.51302,
+                    46.06005
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 11,
+            "properties": {
+                "name": "PARK NAVJE-ŽELEZNA CESTA",
+                "timestamp": "2013-08-05T01:04:30.807Z",
+                "bikes": 14,
+                "slots": 6,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.51315,
+                    46.06361
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 12,
+            "properties": {
+                "name": "TRG MDB",
+                "timestamp": "2013-08-05T01:04:32.656Z",
+                "bikes": 9,
+                "slots": 7,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.495687,
+                    46.047565
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 13,
+            "properties": {
+                "name": "PARKIRIŠČE NUK 2-FF",
+                "timestamp": "2013-08-05T01:04:34.513Z",
+                "bikes": 9,
+                "slots": 11,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.501256,
+                    46.046377
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 14,
+            "properties": {
+                "name": "AMBROŽEV TRG",
+                "timestamp": "2013-08-05T01:04:36.366Z",
+                "bikes": 10,
+                "slots": 8,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.516308,
+                    46.049877
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 15,
+            "properties": {
+                "name": "GH ŠENTPETER-NJEGOŠEVA C.",
+                "timestamp": "2013-08-05T01:04:38.075Z",
+                "bikes": 2,
+                "slots": 22,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.51928,
+                    46.05257
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 16,
+            "properties": {
+                "name": "ILIRSKA ULICA",
+                "timestamp": "2013-08-05T01:04:39.843Z",
+                "bikes": 14,
+                "slots": 4,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.513479,
+                    46.053144
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 17,
+            "properties": {
+                "name": "TRŽAŠKA C.-ILIRIJA",
+                "timestamp": "2013-08-05T01:04:41.598Z",
+                "bikes": 15,
+                "slots": 5,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.486699,
+                    46.044629
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 18,
+            "properties": {
+                "name": "TIVOLI",
+                "timestamp": "2013-08-05T01:04:43.320Z",
+                "bikes": 8,
+                "slots": 12,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4982,
+                    46.05952
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 19,
+            "properties": {
+                "name": "STARA CERKEV",
+                "timestamp": "2013-08-05T01:04:44.992Z",
+                "bikes": 14,
+                "slots": 0,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.494588,
+                    46.06342
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 20,
+            "properties": {
+                "name": "KINO ŠIŠKA",
+                "timestamp": "2013-08-05T01:04:46.731Z",
+                "bikes": 14,
+                "slots": 12,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.48971,
+                    46.06928
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 21,
+            "properties": {
+                "name": "ŠPICA",
+                "timestamp": "2013-08-05T01:04:48.448Z",
+                "bikes": 5,
+                "slots": 13,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.512044,
+                    46.040213
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 22,
+            "properties": {
+                "name": "BARJANSKA C.-CENTER STAREJŠIH TRNOVO",
+                "timestamp": "2013-08-05T01:04:50.169Z",
+                "bikes": 14,
+                "slots": 6,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.49951,
+                    46.04081
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 23,
+            "properties": {
+                "name": "ZALOŠKA C.-GRABLOVIČEVA C.",
+                "timestamp": "2013-08-05T01:04:51.850Z",
+                "bikes": 9,
+                "slots": 7,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.52978,
+                    46.05441
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 24,
+            "properties": {
+                "name": "TRŽNICA MOSTE",
+                "timestamp": "2013-08-05T01:04:53.531Z",
+                "bikes": 16,
+                "slots": 5,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.534156,
+                    46.055801
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 25,
+            "properties": {
+                "name": "ROŽNA DOLINA-ŠKRABČEVA UL.",
+                "timestamp": "2013-08-05T01:04:55.284Z",
+                "bikes": 17,
+                "slots": 0,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.49273,
+                    46.051439
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 26,
+            "properties": {
+                "name": "DUNAJSKA C.-PS PETROL",
+                "timestamp": "2013-08-05T01:04:57.009Z",
+                "bikes": 4,
+                "slots": 15,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.509112,
+                    46.065136
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 27,
+            "properties": {
+                "name": "PLEČNIKOV STADION",
+                "timestamp": "2013-08-05T01:04:58.743Z",
+                "bikes": 18,
+                "slots": 0,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.51052,
+                    46.06942
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 28,
+            "properties": {
+                "name": "DUNAJSKA C.-PS MERCATOR",
+                "timestamp": "2013-08-05T01:05:00.504Z",
+                "bikes": 11,
+                "slots": 7,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.511134,
+                    46.074193
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 29,
+            "properties": {
+                "name": "VOJKOVA C.-BOŽIČEVA C.",
+                "timestamp": "2013-08-05T01:05:02.256Z",
+                "bikes": 0,
+                "slots": 22,
+                "marker-color": "#F85E35"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.51959,
+                    46.07586
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 30,
+            "properties": {
+                "name": "ŠPORTNI CENTER STOŽICE",
+                "timestamp": "2013-08-05T01:05:04.032Z",
+                "bikes": 21,
+                "slots": 4,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.52016,
+                    46.08259
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 31,
+            "properties": {
+                "name": "KOPRSKA ULICA",
+                "timestamp": "2013-08-05T01:05:05.751Z",
+                "bikes": 5,
+                "slots": 3,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.482468,
+                    46.033408
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 32,
+            "properties": {
+                "name": "MERCATOR CENTER ŠIŠKA",
+                "timestamp": "2013-08-05T01:05:07.530Z",
+                "bikes": 9,
+                "slots": 13,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.475439,
+                    46.087079
+                ]
+            }
+        }
+    ]
 }

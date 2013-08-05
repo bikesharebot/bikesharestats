@@ -1,4 +1,2723 @@
 {
     "type": "FeatureCollection",
-    "features": []
+    "features": [
+        {
+            "type": "Feature",
+            "id": 0,
+            "properties": {
+                "name": "1 - EDWARD ST / QUEEN ST",
+                "timestamp": "2013-08-05T01:04:27.463Z",
+                "bikes": 5,
+                "slots": 10,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153.02682,
+                    -27.46812
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 1,
+            "properties": {
+                "name": "2 - QUEEN ST / EAGLE ST",
+                "timestamp": "2013-08-05T01:04:28.290Z",
+                "bikes": 17,
+                "slots": 5,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153.029597,
+                    -27.466369
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 2,
+            "properties": {
+                "name": "3 - CREEK STREET / ELIZABETH STREET",
+                "timestamp": "2013-08-05T01:04:29.115Z",
+                "bikes": 19,
+                "slots": 2,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153.029126,
+                    -27.467925
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 3,
+            "properties": {
+                "name": "4 - CHARLOTTE STREET / EAGLE STREET",
+                "timestamp": "2013-08-05T01:04:29.941Z",
+                "bikes": 22,
+                "slots": 1,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153.029834,
+                    -27.468675
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 4,
+            "properties": {
+                "name": "5 - MARKET STREET / MARY STREET",
+                "timestamp": "2013-08-05T01:04:30.769Z",
+                "bikes": 11,
+                "slots": 10,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153.029828,
+                    -27.469702
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 5,
+            "properties": {
+                "name": "6 - ALICE STREET / EDWARD STREET",
+                "timestamp": "2013-08-05T01:04:31.593Z",
+                "bikes": 11,
+                "slots": 10,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153.030639,
+                    -27.472291
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 6,
+            "properties": {
+                "name": "7 - MARGARET STREET / EDWARD STREET",
+                "timestamp": "2013-08-05T01:04:32.418Z",
+                "bikes": 16,
+                "slots": 13,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153.029647,
+                    -27.47148
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 7,
+            "properties": {
+                "name": "8 - MARY STREET / EDWARD STREET",
+                "timestamp": "2013-08-05T01:04:33.257Z",
+                "bikes": 7,
+                "slots": 5,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153.028839,
+                    -27.470801
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 8,
+            "properties": {
+                "name": "9 - CHARLOTTE STREET / EDWARD STREET",
+                "timestamp": "2013-08-05T01:04:34.083Z",
+                "bikes": 11,
+                "slots": 10,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153.02822,
+                    -27.469924
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 9,
+            "properties": {
+                "name": "10 - EDWARD STREET / QUEEN STREET",
+                "timestamp": "2013-08-05T01:04:34.908Z",
+                "bikes": 9,
+                "slots": 6,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153.026744,
+                    -27.468206
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 10,
+            "properties": {
+                "name": "11 - KING GEORGE SQUARE / ANN ST",
+                "timestamp": "2013-08-05T01:04:35.735Z",
+                "bikes": 15,
+                "slots": 4,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153.024635,
+                    -27.468422
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 11,
+            "properties": {
+                "name": "12 - ALBERT ST MALL / ADELAIDE ST",
+                "timestamp": "2013-08-05T01:04:36.561Z",
+                "bikes": 7,
+                "slots": 8,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153.02461,
+                    -27.468963
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 12,
+            "properties": {
+                "name": "13 - ALBERT STREET MALL / ADELAIDE STREET",
+                "timestamp": "2013-08-05T01:04:37.387Z",
+                "bikes": 17,
+                "slots": 1,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153.024719,
+                    -27.469183
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 13,
+            "properties": {
+                "name": "14 - ALBERT STREET MALL / ELIZABETH STREET",
+                "timestamp": "2013-08-05T01:04:38.228Z",
+                "bikes": 0,
+                "slots": 21,
+                "marker-color": "#F85E35"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153.025627,
+                    -27.47011
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 14,
+            "properties": {
+                "name": "15 - ALBERT STREET MALL / ELIZABETH STREET",
+                "timestamp": "2013-08-05T01:04:39.054Z",
+                "bikes": 11,
+                "slots": 7,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153.025852,
+                    -27.47019
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 15,
+            "properties": {
+                "name": "31 - ROMA STREET / TURBOT STREET",
+                "timestamp": "2013-08-05T01:04:39.881Z",
+                "bikes": 3,
+                "slots": 8,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153.022243,
+                    -27.467629
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 16,
+            "properties": {
+                "name": "100 - MELBOURNE ST / EDMONDSTONE ST",
+                "timestamp": "2013-08-05T01:04:40.706Z",
+                "bikes": 8,
+                "slots": 0,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153.013024,
+                    -27.476781
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 17,
+            "properties": {
+                "name": "149 - MACQUARIE ST / GUYATT PARK",
+                "timestamp": "2013-08-05T01:04:41.535Z",
+                "bikes": 13,
+                "slots": 8,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153.001556,
+                    -27.493629
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 18,
+            "properties": {
+                "name": "30 - ROMA STREET / ANN STREET",
+                "timestamp": "2013-08-05T01:04:42.360Z",
+                "bikes": 3,
+                "slots": 8,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153.023122,
+                    -27.467907
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 19,
+            "properties": {
+                "name": "33 - ROMA STREET / HERSCHEL STREET",
+                "timestamp": "2013-08-05T01:04:43.188Z",
+                "bikes": 9,
+                "slots": 7,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153.019898,
+                    -27.466684
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 20,
+            "properties": {
+                "name": "50 - GIPPS ST / WICKHAM ST",
+                "timestamp": "2013-08-05T01:04:44.017Z",
+                "bikes": 13,
+                "slots": 8,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153.03208,
+                    -27.458641
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 21,
+            "properties": {
+                "name": "74 - MERTHYR RD / JAMES ST",
+                "timestamp": "2013-08-05T01:04:44.846Z",
+                "bikes": 16,
+                "slots": 7,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153.049608,
+                    -27.463526
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 22,
+            "properties": {
+                "name": "81 - LANGSHAW ST / BRUNSWICK ST",
+                "timestamp": "2013-08-05T01:04:45.675Z",
+                "bikes": 12,
+                "slots": 9,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153.043754,
+                    -27.465911
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 23,
+            "properties": {
+                "name": "123 - CHARLOTTE STREET / ALBERT STREET",
+                "timestamp": "2013-08-05T01:04:46.504Z",
+                "bikes": 11,
+                "slots": 8,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153.026526,
+                    -27.471408
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 24,
+            "properties": {
+                "name": "131 - SHAFSTON AVE / THORN ST",
+                "timestamp": "2013-08-05T01:04:47.329Z",
+                "bikes": 15,
+                "slots": 15,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153.039428,
+                    -27.476818
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 25,
+            "properties": {
+                "name": "134 - RAILWAY TCE / CRIBB ST",
+                "timestamp": "2013-08-05T01:04:48.157Z",
+                "bikes": 8,
+                "slots": 9,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153.007364,
+                    -27.468845
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 26,
+            "properties": {
+                "name": "135 - PARK RD / RAILWAY TCE",
+                "timestamp": "2013-08-05T01:04:48.981Z",
+                "bikes": 19,
+                "slots": 0,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153.004147,
+                    -27.469535
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 27,
+            "properties": {
+                "name": "145 - CORONATION DR / ARCHER ST",
+                "timestamp": "2013-08-05T01:04:49.810Z",
+                "bikes": 5,
+                "slots": 16,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    152.993501,
+                    -27.485836
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 28,
+            "properties": {
+                "name": "18 - ALICE STREET / ALBERT STREET",
+                "timestamp": "2013-08-05T01:04:50.638Z",
+                "bikes": 11,
+                "slots": 12,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153.028636,
+                    -27.473592
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 29,
+            "properties": {
+                "name": "17 - MARGARET STREET / ALBERT STREET",
+                "timestamp": "2013-08-05T01:04:51.469Z",
+                "bikes": 11,
+                "slots": 0,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153.028373,
+                    -27.472494
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 30,
+            "properties": {
+                "name": "19 - GARDENS POINT ROAD / ADJ. BRIDGE",
+                "timestamp": "2013-08-05T01:04:52.298Z",
+                "bikes": 20,
+                "slots": 0,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153.028853,
+                    -27.479004
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 31,
+            "properties": {
+                "name": "20 - GARDENS POINT RD / SE OF GOODWILL BRIDGE",
+                "timestamp": "2013-08-05T01:04:53.128Z",
+                "bikes": 16,
+                "slots": 0,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153.028296,
+                    -27.478846
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 32,
+            "properties": {
+                "name": "21 - BOTANICAL GARDENS / QUT",
+                "timestamp": "2013-08-05T01:04:53.955Z",
+                "bikes": 25,
+                "slots": 8,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153.0288,
+                    -27.475922
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 33,
+            "properties": {
+                "name": "22 - WILLIAM ST / ALICE ST",
+                "timestamp": "2013-08-05T01:04:54.780Z",
+                "bikes": 15,
+                "slots": 7,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153.026438,
+                    -27.475024
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 34,
+            "properties": {
+                "name": "23 - MARY STREET / GEORGE STREET",
+                "timestamp": "2013-08-05T01:04:55.604Z",
+                "bikes": 15,
+                "slots": 6,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153.025988,
+                    -27.473021
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 35,
+            "properties": {
+                "name": "24 - SIR WILLIAM MCGREGOR DR / SIR FRED SCHONNELL",
+                "timestamp": "2013-08-05T01:04:56.429Z",
+                "bikes": 19,
+                "slots": 5,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153.011679,
+                    -27.494233
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 36,
+            "properties": {
+                "name": "25 - REDDACLIFF PL / QUEEN ST",
+                "timestamp": "2013-08-05T01:04:57.253Z",
+                "bikes": 7,
+                "slots": 19,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153.022991,
+                    -27.471332
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 37,
+            "properties": {
+                "name": "26 - NORTH QUAY / REDDACLIFF PLACE",
+                "timestamp": "2013-08-05T01:04:58.076Z",
+                "bikes": 12,
+                "slots": 3,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153.02257,
+                    -27.471297
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 38,
+            "properties": {
+                "name": "28 - GEORGE ST / ADELAIDE ST",
+                "timestamp": "2013-08-05T01:04:58.900Z",
+                "bikes": 12,
+                "slots": 5,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153.022603,
+                    -27.469902
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 39,
+            "properties": {
+                "name": "29 - GEORGE STREET / ANN STREET",
+                "timestamp": "2013-08-05T01:04:59.724Z",
+                "bikes": 11,
+                "slots": 10,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153.021808,
+                    -27.469075
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 40,
+            "properties": {
+                "name": "32 - TANK ST / GEORGE ST",
+                "timestamp": "2013-08-05T01:05:00.550Z",
+                "bikes": 10,
+                "slots": 7,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153.019801,
+                    -27.468678
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 41,
+            "properties": {
+                "name": "37 - UPPER ROMA ST / EAGLE TCE",
+                "timestamp": "2013-08-05T01:05:01.380Z",
+                "bikes": 2,
+                "slots": 22,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153.01476,
+                    -27.466032
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 42,
+            "properties": {
+                "name": "43 - QUEEN ST / WHARF ST",
+                "timestamp": "2013-08-05T01:05:02.211Z",
+                "bikes": 9,
+                "slots": 15,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153.030991,
+                    -27.465043
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 43,
+            "properties": {
+                "name": "44 - QUEEN STREET / ADELAIDE STREET",
+                "timestamp": "2013-08-05T01:05:03.039Z",
+                "bikes": 5,
+                "slots": 11,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153.031142,
+                    -27.463405
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 44,
+            "properties": {
+                "name": "48 - ANN ST / GOTHA ST",
+                "timestamp": "2013-08-05T01:05:03.889Z",
+                "bikes": 4,
+                "slots": 6,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153.032768,
+                    -27.46048
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 45,
+            "properties": {
+                "name": "49 - ANN STREET / GIPPS STREET",
+                "timestamp": "2013-08-05T01:05:04.717Z",
+                "bikes": 5,
+                "slots": 15,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153.033445,
+                    -27.459833
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 46,
+            "properties": {
+                "name": "51 - BRUNSWICK ST / ALFRED ST",
+                "timestamp": "2013-08-05T01:05:05.547Z",
+                "bikes": 10,
+                "slots": 13,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153.032779,
+                    -27.45663
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 47,
+            "properties": {
+                "name": "52 - BRUNSWICK ST MALL / WICKHAM ST",
+                "timestamp": "2013-08-05T01:05:06.376Z",
+                "bikes": 11,
+                "slots": 3,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153.033841,
+                    -27.457512
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 48,
+            "properties": {
+                "name": "53 - BOWEN TCE / BRADFIELD HWY",
+                "timestamp": "2013-08-05T01:05:07.219Z",
+                "bikes": 19,
+                "slots": 7,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153.036085,
+                    -27.461608
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 49,
+            "properties": {
+                "name": "54 - MCLACHLAN ST / WINN ST",
+                "timestamp": "2013-08-05T01:05:08.045Z",
+                "bikes": 9,
+                "slots": 16,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153.036866,
+                    -27.457825
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 50,
+            "properties": {
+                "name": "55 - ALDEN ST / WICKHAM ST",
+                "timestamp": "2013-08-05T01:05:08.881Z",
+                "bikes": 8,
+                "slots": 7,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153.03453,
+                    -27.456085
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 51,
+            "properties": {
+                "name": "57 - BRIDGE ST / WICKHAM ST",
+                "timestamp": "2013-08-05T01:05:09.707Z",
+                "bikes": 11,
+                "slots": 5,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153.036154,
+                    -27.454746
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 52,
+            "properties": {
+                "name": "58 - EAST ST / ANN ST",
+                "timestamp": "2013-08-05T01:05:10.537Z",
+                "bikes": 31,
+                "slots": 7,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153.037775,
+                    -27.455472
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 53,
+            "properties": {
+                "name": "59 - JAMES ST / MCLACHLAN ST",
+                "timestamp": "2013-08-05T01:05:11.363Z",
+                "bikes": 14,
+                "slots": 6,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153.039196,
+                    -27.456276
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 54,
+            "properties": {
+                "name": "60 - WICKHAM STREET / BROOKES STREET",
+                "timestamp": "2013-08-05T01:05:12.195Z",
+                "bikes": 12,
+                "slots": 5,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153.037559,
+                    -27.453127
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 55,
+            "properties": {
+                "name": "61 - WICKHAM ST / MURRI WAY",
+                "timestamp": "2013-08-05T01:05:13.025Z",
+                "bikes": 20,
+                "slots": 3,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153.039562,
+                    -27.451793
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 56,
+            "properties": {
+                "name": "62 - ANN ST / CHESTER ST",
+                "timestamp": "2013-08-05T01:05:13.861Z",
+                "bikes": 12,
+                "slots": 3,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153.0401,
+                    -27.453195
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 57,
+            "properties": {
+                "name": "63 - ANN ST / MURRI WAY",
+                "timestamp": "2013-08-05T01:05:14.702Z",
+                "bikes": 15,
+                "slots": 3,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153.040565,
+                    -27.452468
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 58,
+            "properties": {
+                "name": "64 - SKYRING TCE / CUNNINGHAM ST",
+                "timestamp": "2013-08-05T01:05:15.532Z",
+                "bikes": 16,
+                "slots": 10,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153.04444,
+                    -27.449812
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 59,
+            "properties": {
+                "name": "65 - CHERMSIDE ST / COMMERCIAL RD",
+                "timestamp": "2013-08-05T01:05:16.359Z",
+                "bikes": 16,
+                "slots": 4,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153.046802,
+                    -27.454482
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 60,
+            "properties": {
+                "name": "66 - COMMERCIAL RD / SKYRING TCE",
+                "timestamp": "2013-08-05T01:05:17.183Z",
+                "bikes": 10,
+                "slots": 9,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153.048107,
+                    -27.45296
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 61,
+            "properties": {
+                "name": "68 - VERNON TCE / ETHEL ST",
+                "timestamp": "2013-08-05T01:05:18.008Z",
+                "bikes": 11,
+                "slots": 10,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153.049519,
+                    -27.454394
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 62,
+            "properties": {
+                "name": "70 - MACQUARIE ST / BEESTON ST",
+                "timestamp": "2013-08-05T01:05:18.833Z",
+                "bikes": 10,
+                "slots": 7,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153.050239,
+                    -27.459091
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 63,
+            "properties": {
+                "name": "71 - HASTINGS ST / MACQUARIE ST",
+                "timestamp": "2013-08-05T01:05:19.658Z",
+                "bikes": 8,
+                "slots": 13,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153.049861,
+                    -27.460927
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 64,
+            "properties": {
+                "name": "72 - LAMINGTON ST / POWERHOUSE",
+                "timestamp": "2013-08-05T01:05:20.483Z",
+                "bikes": 0,
+                "slots": 20,
+                "marker-color": "#F85E35"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153.053644,
+                    -27.467785
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 65,
+            "properties": {
+                "name": "75 - BROWNE ST / JAMES ST",
+                "timestamp": "2013-08-05T01:03:16.258Z",
+                "bikes": 11,
+                "slots": 11,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153.047049,
+                    -27.461852
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 66,
+            "properties": {
+                "name": "76 - WATERLOO ST (GASWORKS PARK) / NEWSTEAD TCE",
+                "timestamp": "2013-08-05T01:03:17.083Z",
+                "bikes": 14,
+                "slots": 8,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153.045685,
+                    -27.448096
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 67,
+            "properties": {
+                "name": "77 - JAMES ST / HARCOURT ST",
+                "timestamp": "2013-08-05T01:03:17.907Z",
+                "bikes": 11,
+                "slots": 12,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153.04173,
+                    -27.458262
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 68,
+            "properties": {
+                "name": "78 - MALT ST / BRUNSWICK ST",
+                "timestamp": "2013-08-05T01:03:18.733Z",
+                "bikes": 6,
+                "slots": 8,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153.037875,
+                    -27.461058
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 69,
+            "properties": {
+                "name": "79 - BALFOUR ST / BRUNSWICK ST",
+                "timestamp": "2013-08-05T01:03:19.559Z",
+                "bikes": 11,
+                "slots": 9,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153.041031,
+                    -27.463431
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 70,
+            "properties": {
+                "name": "80 - BARKER ST / BRUNSWICK ST",
+                "timestamp": "2013-08-05T01:03:20.383Z",
+                "bikes": 4,
+                "slots": 17,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153.042547,
+                    -27.464712
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 71,
+            "properties": {
+                "name": "83 - SYDNEY ST / BRUNSWICK ST",
+                "timestamp": "2013-08-05T01:03:21.209Z",
+                "bikes": 17,
+                "slots": 6,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153.048251,
+                    -27.46844
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 72,
+            "properties": {
+                "name": "84 - NEW FARM FERRY TERMINAL / NEW FARM PARK",
+                "timestamp": "2013-08-05T01:03:22.035Z",
+                "bikes": 19,
+                "slots": 10,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153.051981,
+                    -27.471473
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 73,
+            "properties": {
+                "name": "87 - MERTHYR RD / REGINALD ST",
+                "timestamp": "2013-08-05T01:03:22.859Z",
+                "bikes": 12,
+                "slots": 5,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153.043525,
+                    -27.469931
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 74,
+            "properties": {
+                "name": "102 - BESANT ST / VULTURE ST",
+                "timestamp": "2013-08-05T01:03:23.685Z",
+                "bikes": 16,
+                "slots": 14,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153.014585,
+                    -27.480885
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 75,
+            "properties": {
+                "name": "103 - VULTURE ST / THOMAS ST",
+                "timestamp": "2013-08-05T01:03:24.509Z",
+                "bikes": 5,
+                "slots": 15,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153.011121,
+                    -27.480768
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 76,
+            "properties": {
+                "name": "105 - DORNOCH TCE / HARDGRAVE RD",
+                "timestamp": "2013-08-05T01:03:25.334Z",
+                "bikes": 18,
+                "slots": 11,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153.007281,
+                    -27.487155
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 77,
+            "properties": {
+                "name": "106 - ORLEIGH ST / HOOGLEY ST",
+                "timestamp": "2013-08-05T01:03:26.175Z",
+                "bikes": 21,
+                "slots": 1,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153.002573,
+                    -27.48983
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 78,
+            "properties": {
+                "name": "110 - JANE ST / MONTAGUE RD",
+                "timestamp": "2013-08-05T01:03:26.999Z",
+                "bikes": 3,
+                "slots": 18,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153.006181,
+                    -27.478214
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 79,
+            "properties": {
+                "name": "111 - DONKIN ST / MONTAGUE RD",
+                "timestamp": "2013-08-05T01:03:27.825Z",
+                "bikes": 14,
+                "slots": 5,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153.008255,
+                    -27.476581
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 80,
+            "properties": {
+                "name": "112 - BANK ST / MOLLISON ST",
+                "timestamp": "2013-08-05T01:03:28.652Z",
+                "bikes": 20,
+                "slots": 1,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153.010047,
+                    -27.476716
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 81,
+            "properties": {
+                "name": "114 - COLCHESTER STREET / ERNEST STREET",
+                "timestamp": "2013-08-05T01:03:29.478Z",
+                "bikes": 13,
+                "slots": 7,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153.021076,
+                    -27.47989
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 82,
+            "properties": {
+                "name": "126 - JANE ST / BOUNDARY ST",
+                "timestamp": "2013-08-05T01:03:30.302Z",
+                "bikes": 18,
+                "slots": 0,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153.012406,
+                    -27.479659
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 83,
+            "properties": {
+                "name": "128 - BOUQUET ST / MONTAGUE RD",
+                "timestamp": "2013-08-05T01:03:31.128Z",
+                "bikes": 12,
+                "slots": 17,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153.013322,
+                    -27.47189
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 84,
+            "properties": {
+                "name": "129 - LOWER RIVER TERRACE / PARKLANDS",
+                "timestamp": "2013-08-05T01:03:31.953Z",
+                "bikes": 32,
+                "slots": 0,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153.033398,
+                    -27.479634
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 85,
+            "properties": {
+                "name": "130 - O'CONNEL ST / LAMBERT ST",
+                "timestamp": "2013-08-05T01:03:32.783Z",
+                "bikes": 8,
+                "slots": 9,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153.037681,
+                    -27.474937
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 86,
+            "properties": {
+                "name": "132 - LITTLE CRIBB ST / BOOMERANG ST",
+                "timestamp": "2013-08-05T01:03:33.609Z",
+                "bikes": 19,
+                "slots": 1,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153.009987,
+                    -27.467954
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 87,
+            "properties": {
+                "name": "136 - PARK RD / DOUGLAS ST",
+                "timestamp": "2013-08-05T01:03:34.433Z",
+                "bikes": 14,
+                "slots": 9,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153.004602,
+                    -27.470987
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 88,
+            "properties": {
+                "name": "137 - KILROE ST / DORSEY ST",
+                "timestamp": "2013-08-05T01:03:35.261Z",
+                "bikes": 11,
+                "slots": 7,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153.001821,
+                    -27.472385
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 89,
+            "properties": {
+                "name": "138 - ROY ST / LANG PDE",
+                "timestamp": "2013-08-05T01:03:36.086Z",
+                "bikes": 25,
+                "slots": 0,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153.000606,
+                    -27.473961
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 90,
+            "properties": {
+                "name": "139 - BI-CENTENNIAL BIKE WAY / LANG PDE",
+                "timestamp": "2013-08-05T01:03:36.912Z",
+                "bikes": 0,
+                "slots": 18,
+                "marker-color": "#F85E35"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153.002459,
+                    -27.476076
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 91,
+            "properties": {
+                "name": "141 - LAND ST / CORONATION DR",
+                "timestamp": "2013-08-05T01:03:37.737Z",
+                "bikes": 28,
+                "slots": 7,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    152.99738,
+                    -27.479415
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 92,
+            "properties": {
+                "name": "142 - SYLVAN RD / CORONATION DR",
+                "timestamp": "2013-08-05T01:03:38.561Z",
+                "bikes": 3,
+                "slots": 14,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    152.99574,
+                    -27.482062
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 93,
+            "properties": {
+                "name": "144 - JEPHSON ST / SHERWOOD RD",
+                "timestamp": "2013-08-05T01:03:39.385Z",
+                "bikes": 16,
+                "slots": 13,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    152.990655,
+                    -27.484916
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 94,
+            "properties": {
+                "name": "146 - BRISBANE ST / GLEN RD",
+                "timestamp": "2013-08-05T01:03:40.212Z",
+                "bikes": 0,
+                "slots": 19,
+                "marker-color": "#F85E35"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    152.993052,
+                    -27.487187
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 95,
+            "properties": {
+                "name": "147 - SANDFORD ST / BRISBANE ST",
+                "timestamp": "2013-08-05T01:03:41.038Z",
+                "bikes": 18,
+                "slots": 8,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    152.994808,
+                    -27.490825
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 96,
+            "properties": {
+                "name": "148 - SANDFORD ST / AUSTRAL ST",
+                "timestamp": "2013-08-05T01:03:41.861Z",
+                "bikes": 7,
+                "slots": 15,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    152.99681,
+                    -27.492467
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 97,
+            "properties": {
+                "name": "150 - MACQUARIE ST / MUNRO ST",
+                "timestamp": "2013-08-05T01:03:42.685Z",
+                "bikes": 6,
+                "slots": 10,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153.00612,
+                    -27.49285
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 98,
+            "properties": {
+                "name": "82 - BRUNSWICK ST / MERTHYR RD",
+                "timestamp": "2013-08-05T01:03:43.533Z",
+                "bikes": 20,
+                "slots": 1,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153.0467,
+                    -27.467498
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 99,
+            "properties": {
+                "name": "16 - MARY STREET / ALBERT STREET",
+                "timestamp": "2013-08-05T01:03:44.361Z",
+                "bikes": 8,
+                "slots": 1,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153.027193,
+                    -27.472044
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 100,
+            "properties": {
+                "name": "27 - BLAIR DRIVE / SIR WILLIAM MACGREGOR DRIVE",
+                "timestamp": "2013-08-05T01:03:45.191Z",
+                "bikes": 25,
+                "slots": 4,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153.016495,
+                    -27.494549
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 101,
+            "properties": {
+                "name": "34 - MAKERSTON STREET / ROMA STREET",
+                "timestamp": "2013-08-05T01:03:46.020Z",
+                "bikes": 13,
+                "slots": 8,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153.018649,
+                    -27.466911
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 102,
+            "properties": {
+                "name": "35 - ROMA STREET / MAKERSTON STREET",
+                "timestamp": "2013-08-05T01:03:46.845Z",
+                "bikes": 9,
+                "slots": 2,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153.018506,
+                    -27.46637
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 103,
+            "properties": {
+                "name": "36 - ROMA STREET / GARRICK STREET",
+                "timestamp": "2013-08-05T01:03:47.673Z",
+                "bikes": 10,
+                "slots": 7,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153.017351,
+                    -27.466307
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 104,
+            "properties": {
+                "name": "38 - ANN STREET / CREEK STREET",
+                "timestamp": "2013-08-05T01:03:48.504Z",
+                "bikes": 7,
+                "slots": 15,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153.026667,
+                    -27.465858
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 105,
+            "properties": {
+                "name": "39 - TURBOT ST / WICKHAM TCE",
+                "timestamp": "2013-08-05T01:03:49.331Z",
+                "bikes": 7,
+                "slots": 12,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153.026714,
+                    -27.464681
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 106,
+            "properties": {
+                "name": "40 - ANN STREET / CREEK STREET",
+                "timestamp": "2013-08-05T01:03:50.187Z",
+                "bikes": 7,
+                "slots": 9,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153.027679,
+                    -27.464986
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 107,
+            "properties": {
+                "name": "41 - ANN ST / WHARF STREET",
+                "timestamp": "2013-08-05T01:03:51.012Z",
+                "bikes": 8,
+                "slots": 12,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153.028835,
+                    -27.463883
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 108,
+            "properties": {
+                "name": "42 - WHARF STREET / ADELAIDE STREET",
+                "timestamp": "2013-08-05T01:03:51.839Z",
+                "bikes": 5,
+                "slots": 14,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153.029361,
+                    -27.464647
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 109,
+            "properties": {
+                "name": "45 - TURBOT ST / BOWEN ST",
+                "timestamp": "2013-08-05T01:03:52.667Z",
+                "bikes": 8,
+                "slots": 12,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153.029087,
+                    -27.462665
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 110,
+            "properties": {
+                "name": "46 - ANN ST / BOUNDARY ST",
+                "timestamp": "2013-08-05T01:03:53.508Z",
+                "bikes": 2,
+                "slots": 16,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153.031782,
+                    -27.461984
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 111,
+            "properties": {
+                "name": "47 - TURBOT ST / BARRY PDE",
+                "timestamp": "2013-08-05T01:03:54.332Z",
+                "bikes": 10,
+                "slots": 6,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153.031077,
+                    -27.46123
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 112,
+            "properties": {
+                "name": "56 - CONSTANCE ST / ST PAULS TCE",
+                "timestamp": "2013-08-05T01:03:55.160Z",
+                "bikes": 16,
+                "slots": 6,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153.034,
+                    -27.454089
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 113,
+            "properties": {
+                "name": "67 - VERNON TCE / COMMERCIAL RD",
+                "timestamp": "2013-08-05T01:03:55.990Z",
+                "bikes": 20,
+                "slots": 3,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153.048607,
+                    -27.452918
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 114,
+            "properties": {
+                "name": "69 - VERNON TCE / FLORENCE ST",
+                "timestamp": "2013-08-05T01:03:56.815Z",
+                "bikes": 10,
+                "slots": 13,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153.050013,
+                    -27.455907
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 115,
+            "properties": {
+                "name": "73 - LAMINGTON ST / REFINERY PDE",
+                "timestamp": "2013-08-05T01:03:57.644Z",
+                "bikes": 4,
+                "slots": 17,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153.0509,
+                    -27.465285
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 116,
+            "properties": {
+                "name": "85 - OXLADE DR / TURNER AVE",
+                "timestamp": "2013-08-05T01:03:58.468Z",
+                "bikes": 9,
+                "slots": 11,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153.048757,
+                    -27.473304
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 117,
+            "properties": {
+                "name": "86 - SYDNEY ST / MORAY ST",
+                "timestamp": "2013-08-05T01:03:59.295Z",
+                "bikes": 10,
+                "slots": 10,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153.045216,
+                    -27.471386
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 118,
+            "properties": {
+                "name": "88 - SYDNEY ST FERRY TERMINAL / PARK",
+                "timestamp": "2013-08-05T01:04:00.180Z",
+                "bikes": 20,
+                "slots": 10,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153.042728,
+                    -27.474531
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 119,
+            "properties": {
+                "name": "89 - HOLMAN ST / MAIN ST",
+                "timestamp": "2013-08-05T01:04:01.004Z",
+                "bikes": 8,
+                "slots": 10,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153.034329,
+                    -27.465733
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 120,
+            "properties": {
+                "name": "90 - MAIN ST / ROTHERHAM ST (MAHONEY PARK)",
+                "timestamp": "2013-08-05T01:04:01.831Z",
+                "bikes": 28,
+                "slots": 15,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153.035533,
+                    -27.469296
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 121,
+            "properties": {
+                "name": "91 - MAIN ST / DARRAGH ST",
+                "timestamp": "2013-08-05T01:04:02.656Z",
+                "bikes": 13,
+                "slots": 8,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153.036046,
+                    -27.47059
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 122,
+            "properties": {
+                "name": "92 - THORNTON ST FERRY TERMINAL / MAIN ST",
+                "timestamp": "2013-08-05T01:04:03.485Z",
+                "bikes": 8,
+                "slots": 13,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153.034306,
+                    -27.471025
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 123,
+            "properties": {
+                "name": "93 - GREY ST / QCA",
+                "timestamp": "2013-08-05T01:04:04.313Z",
+                "bikes": 18,
+                "slots": 2,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153.02368,
+                    -27.48148
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 124,
+            "properties": {
+                "name": "94 - GLENELG ST / MERIVALE ST",
+                "timestamp": "2013-08-05T01:04:05.142Z",
+                "bikes": 16,
+                "slots": 3,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153.019123,
+                    -27.478653
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 125,
+            "properties": {
+                "name": "95 - STANLEY ST / MELBOURNE ST",
+                "timestamp": "2013-08-05T01:04:05.969Z",
+                "bikes": 21,
+                "slots": 0,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153.020361,
+                    -27.475028
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 126,
+            "properties": {
+                "name": "96 - GREY ST / MELBOURNE ST",
+                "timestamp": "2013-08-05T01:04:06.794Z",
+                "bikes": 22,
+                "slots": 1,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153.018694,
+                    -27.474722
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 127,
+            "properties": {
+                "name": "97 - THYNNE ROAD / COLLEGE ROAD",
+                "timestamp": "2013-08-05T01:04:07.617Z",
+                "bikes": 23,
+                "slots": 0,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153.017137,
+                    -27.499634
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 128,
+            "properties": {
+                "name": "98 - KURILPA POINT / MONTAGUE RD",
+                "timestamp": "2013-08-05T01:04:08.445Z",
+                "bikes": 16,
+                "slots": 4,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153.016696,
+                    -27.469658
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 129,
+            "properties": {
+                "name": "99 - CORDELIA ST / PEEL ST",
+                "timestamp": "2013-08-05T01:04:09.273Z",
+                "bikes": 11,
+                "slots": 9,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153.014541,
+                    -27.474011
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 130,
+            "properties": {
+                "name": "101 - RUSSELL ST / EDMONDSTONE ST",
+                "timestamp": "2013-08-05T01:04:10.100Z",
+                "bikes": 20,
+                "slots": 2,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153.015173,
+                    -27.478235
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 131,
+            "properties": {
+                "name": "104 - HARDGRAVE RD / SKINNER ST",
+                "timestamp": "2013-08-05T01:04:10.929Z",
+                "bikes": 12,
+                "slots": 7,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153.006981,
+                    -27.482082
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 132,
+            "properties": {
+                "name": "107 - DRURY ST / MONTAGUE RD",
+                "timestamp": "2013-08-05T01:04:11.756Z",
+                "bikes": 9,
+                "slots": 12,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    152.999585,
+                    -27.48872
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 133,
+            "properties": {
+                "name": "108 - ROGERS ST / MONTAGUE RD",
+                "timestamp": "2013-08-05T01:04:12.585Z",
+                "bikes": 0,
+                "slots": 18,
+                "marker-color": "#F85E35"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153.002382,
+                    -27.485078
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 134,
+            "properties": {
+                "name": "109 - MONTAGUE RD / SKINNER ST",
+                "timestamp": "2013-08-05T01:04:13.411Z",
+                "bikes": 6,
+                "slots": 7,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153.00436,
+                    -27.48172
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 135,
+            "properties": {
+                "name": "1101 - KING GEORGE SQUARE 2",
+                "timestamp": "2013-08-05T01:04:14.244Z",
+                "bikes": 17,
+                "slots": 42,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 136,
+            "properties": {
+                "name": "115 - MONTAGUE RD / BRERETON ST",
+                "timestamp": "2013-08-05T01:04:15.074Z",
+                "bikes": 9,
+                "slots": 3,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153.01115,
+                    -27.474236
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 137,
+            "properties": {
+                "name": "116 - CORDELIA ST / ERNEST ST",
+                "timestamp": "2013-08-05T01:04:15.901Z",
+                "bikes": 8,
+                "slots": 11,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153.019156,
+                    -27.481085
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 138,
+            "properties": {
+                "name": "118 - MELBOURNE ST / MERIVALE ST",
+                "timestamp": "2013-08-05T01:04:16.727Z",
+                "bikes": 14,
+                "slots": 2,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153.016698,
+                    -27.474866
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 139,
+            "properties": {
+                "name": "120 - BOUNDARY STREET / VULTURE STREET",
+                "timestamp": "2013-08-05T01:04:17.551Z",
+                "bikes": 7,
+                "slots": 6,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153.011831,
+                    -27.482562
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 140,
+            "properties": {
+                "name": "119 - SIDON ST / LITTLE STANLEY ST",
+                "timestamp": "2013-08-05T01:04:18.376Z",
+                "bikes": 12,
+                "slots": 2,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153.025448,
+                    -27.48182
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 141,
+            "properties": {
+                "name": "113 - EDMONDSTONE ST / VULTURE ST",
+                "timestamp": "2013-08-05T01:04:19.200Z",
+                "bikes": 10,
+                "slots": 12,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153.016163,
+                    -27.480126
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 142,
+            "properties": {
+                "name": "117 - VULTURE ST / TRIBUNE ST",
+                "timestamp": "2013-08-05T01:04:20.024Z",
+                "bikes": 10,
+                "slots": 10,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153.020958,
+                    -27.482183
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 143,
+            "properties": {
+                "name": "121 - STANLEY ST / ANNERLEY ROAD",
+                "timestamp": "2013-08-05T01:04:20.849Z",
+                "bikes": 16,
+                "slots": 1,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153.026933,
+                    -27.483256
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 144,
+            "properties": {
+                "name": "122 - LOWER RIVER TCE / ELLIS ST",
+                "timestamp": "2013-08-05T01:04:21.673Z",
+                "bikes": 13,
+                "slots": 2,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153.028774,
+                    -27.482254
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 145,
+            "properties": {
+                "name": "124 - ANNERLEY ROAD / GROVE ST",
+                "timestamp": "2013-08-05T01:04:22.499Z",
+                "bikes": 10,
+                "slots": 23,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153.027184,
+                    -27.491334
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 146,
+            "properties": {
+                "name": "125 - ANNERLEY RD / BOGGO RD",
+                "timestamp": "2013-08-05T01:04:23.331Z",
+                "bikes": 11,
+                "slots": 11,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153.028026,
+                    -27.49493
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 147,
+            "properties": {
+                "name": "127 - GLADSTONE RD / ANNERLEY RD",
+                "timestamp": "2013-08-05T01:04:24.156Z",
+                "bikes": 4,
+                "slots": 19,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153.027325,
+                    -27.497923
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 148,
+            "properties": {
+                "name": "133 - CORONATION DR / GO BETWEEN BRIDGE",
+                "timestamp": "2013-08-05T01:04:24.981Z",
+                "bikes": 22,
+                "slots": 0,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153.011115,
+                    -27.468839
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 149,
+            "properties": {
+                "name": "140 - DUNMORE TCE / KINGSFORD ST",
+                "timestamp": "2013-08-05T01:04:25.807Z",
+                "bikes": 2,
+                "slots": 15,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153.000701,
+                    -27.475987
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 150,
+            "properties": {
+                "name": "143 - REGATTA FERRY TERMINAL / SYLVAN RD",
+                "timestamp": "2013-08-05T01:04:26.636Z",
+                "bikes": 3,
+                "slots": 13,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    152.996776,
+                    -27.482598
+                ]
+            }
+        }
+    ]
 }
