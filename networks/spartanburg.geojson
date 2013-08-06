@@ -5,26 +5,8 @@
             "type": "Feature",
             "id": 0,
             "properties": {
-                "name": "Morgan Square",
-                "timestamp": "2013-08-06T12:55:31.237Z",
-                "bikes": "6",
-                "slots": "3",
-                "marker-color": "#70E588"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -81.93345,
-                    34.94867
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": 1,
-            "properties": {
                 "name": "Rail Trail",
-                "timestamp": "2013-08-06T12:55:31.239Z",
+                "timestamp": "2013-08-06T13:01:00.312Z",
                 "bikes": "7",
                 "slots": "4",
                 "marker-color": "#70E588"
@@ -39,10 +21,10 @@
         },
         {
             "type": "Feature",
-            "id": 2,
+            "id": 1,
             "properties": {
                 "name": "Wofford College",
-                "timestamp": "2013-08-06T12:55:31.241Z",
+                "timestamp": "2013-08-06T13:01:00.314Z",
                 "bikes": "8",
                 "slots": "3",
                 "marker-color": "#70E588"
@@ -57,10 +39,28 @@
         },
         {
             "type": "Feature",
+            "id": 2,
+            "properties": {
+                "name": "Morgan Square",
+                "timestamp": "2013-08-06T13:01:00.316Z",
+                "bikes": "6",
+                "slots": "3",
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.93345,
+                    34.94867
+                ]
+            }
+        },
+        {
+            "type": "Feature",
             "id": 3,
             "properties": {
                 "name": "Converse College",
-                "timestamp": "2013-08-06T12:55:31.245Z",
+                "timestamp": "2013-08-06T13:01:00.318Z",
                 "bikes": "8",
                 "slots": "3",
                 "marker-color": "#70E588"
