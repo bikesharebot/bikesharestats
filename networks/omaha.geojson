@@ -1,4 +1,95 @@
 {
     "type": "FeatureCollection",
-    "features": []
+    "features": [
+        {
+            "type": "Feature",
+            "id": 0,
+            "properties": {
+                "name": "62nd & Dodge",
+                "timestamp": "2013-08-08T22:04:51.679Z",
+                "bikes": "4",
+                "slots": "6",
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.00853,
+                    41.25832
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 1,
+            "properties": {
+                "name": "67th & Pine",
+                "timestamp": "2013-08-08T22:04:51.682Z",
+                "bikes": "3",
+                "slots": "1",
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.01428,
+                    41.24494
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 2,
+            "properties": {
+                "name": "66th & Center",
+                "timestamp": "2013-08-08T22:04:51.685Z",
+                "bikes": "3",
+                "slots": "5",
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.0135,
+                    41.23805
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 3,
+            "properties": {
+                "name": "67th & Frances",
+                "timestamp": "2013-08-08T22:04:51.688Z",
+                "bikes": "5",
+                "slots": "5",
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.01512,
+                    41.24009
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 4,
+            "properties": {
+                "name": "Aksarben Drive",
+                "timestamp": "2013-08-08T22:04:51.689Z",
+                "bikes": "5",
+                "slots": "3",
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.01792,
+                    41.24112
+                ]
+            }
+        }
+    ]
 }
