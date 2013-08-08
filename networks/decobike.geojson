@@ -5,17 +5,17 @@
             "type": "Feature",
             "id": 0,
             "properties": {
-                "name": "19th Street & Dade Blvd (Publix)",
-                "timestamp": "2013-08-07T23:55:24.897Z",
-                "bikes": 4,
-                "slots": 11,
+                "name": "Washington Ave & 7th Street",
+                "timestamp": "2013-08-08T00:00:51.050Z",
+                "bikes": 3,
+                "slots": 8,
                 "marker-color": "#FFFF63"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -80.13936,
-                    25.794822
+                    -80.13394,
+                    25.776876
                 ]
             }
         },
@@ -23,62 +23,8 @@
             "type": "Feature",
             "id": 1,
             "properties": {
-                "name": "Sunset Dr & 20th Street",
-                "timestamp": "2013-08-07T23:55:24.897Z",
-                "bikes": 6,
-                "slots": 8,
-                "marker-color": "#70E588"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -80.14138,
-                    25.79523
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": 2,
-            "properties": {
-                "name": "West Ave & 20th Street (Publix on the Bay)",
-                "timestamp": "2013-08-07T23:55:24.898Z",
-                "bikes": 8,
-                "slots": 6,
-                "marker-color": "#70E588"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -80.14295,
-                    25.795501
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": 3,
-            "properties": {
-                "name": "24th Street & Collins Ave",
-                "timestamp": "2013-08-07T23:55:24.898Z",
-                "bikes": 3,
-                "slots": 5,
-                "marker-color": "#FFFF63"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -80.12703,
-                    25.800083
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": 4,
-            "properties": {
                 "name": "Inside South Pointe Park",
-                "timestamp": "2013-08-07T23:55:24.898Z",
+                "timestamp": "2013-08-08T00:00:51.051Z",
                 "bikes": 5,
                 "slots": 11,
                 "marker-color": "#70E588"
@@ -93,12 +39,12 @@
         },
         {
             "type": "Feature",
-            "id": 5,
+            "id": 2,
             "properties": {
                 "name": "Ocean Dr & 1st Street ",
-                "timestamp": "2013-08-07T23:55:24.899Z",
-                "bikes": 10,
-                "slots": 2,
+                "timestamp": "2013-08-08T00:00:51.051Z",
+                "bikes": 9,
+                "slots": 3,
                 "marker-color": "#70E588"
             },
             "geometry": {
@@ -111,838 +57,10 @@
         },
         {
             "type": "Feature",
-            "id": 6,
-            "properties": {
-                "name": "Ocean Dr & 2nd Street",
-                "timestamp": "2013-08-07T23:55:24.899Z",
-                "bikes": 10,
-                "slots": 6,
-                "marker-color": "#70E588"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -80.13257,
-                    25.771112
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": 7,
-            "properties": {
-                "name": "Euclid Ave & 5th Street",
-                "timestamp": "2013-08-07T23:55:24.899Z",
-                "bikes": 2,
-                "slots": 13,
-                "marker-color": "#FFFF63"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -80.13497,
-                    25.7742
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": 8,
-            "properties": {
-                "name": "Ocean Dr & 5th Street ",
-                "timestamp": "2013-08-07T23:55:24.900Z",
-                "bikes": 8,
-                "slots": 7,
-                "marker-color": "#70E588"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -80.131584,
-                    25.774917
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": 9,
-            "properties": {
-                "name": "Ocean Dr & 9th Street",
-                "timestamp": "2013-08-07T23:55:24.900Z",
-                "bikes": 1,
-                "slots": 13,
-                "marker-color": "#FFFF63"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -80.13083,
-                    25.779172
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": 10,
-            "properties": {
-                "name": "Ocean Dr and 10th Street (Art Deco Welcome Center)",
-                "timestamp": "2013-08-07T23:55:24.900Z",
-                "bikes": 3,
-                "slots": 19,
-                "marker-color": "#FFFF63"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -80.12991,
-                    25.78076
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": 11,
-            "properties": {
-                "name": "13th Street & Collins Ave",
-                "timestamp": "2013-08-07T23:55:24.900Z",
-                "bikes": 1,
-                "slots": 12,
-                "marker-color": "#FFFF63"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -80.1308,
-                    25.784078
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": 12,
-            "properties": {
-                "name": "Ocean Dr at 14th Street",
-                "timestamp": "2013-08-07T23:55:24.901Z",
-                "bikes": 8,
-                "slots": 7,
-                "marker-color": "#70E588"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -80.129455,
-                    25.785034
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": 13,
-            "properties": {
-                "name": "13th Street & Washington Ave",
-                "timestamp": "2013-08-07T23:55:24.901Z",
-                "bikes": 0,
-                "slots": 15,
-                "marker-color": "#F85E35"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -80.13248,
-                    25.784225
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": 14,
-            "properties": {
-                "name": "11th Street & Washington Ave",
-                "timestamp": "2013-08-07T23:55:24.901Z",
-                "bikes": 0,
-                "slots": 10,
-                "marker-color": "#F85E35"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -80.13306,
-                    25.781921
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": 15,
-            "properties": {
-                "name": "6th Street Between Alton Rd & West Ave",
-                "timestamp": "2013-08-07T23:55:24.902Z",
-                "bikes": 8,
-                "slots": 1,
-                "marker-color": "#70E588"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -80.141136,
-                    25.775754
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": 16,
-            "properties": {
-                "name": "Pennsylvania Ave & 13th Street",
-                "timestamp": "2013-08-07T23:55:24.902Z",
-                "bikes": 1,
-                "slots": 7,
-                "marker-color": "#FFFF63"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -80.1341,
-                    25.784238
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": 17,
-            "properties": {
-                "name": "Jefferson Ave & 11th Street (Flamingo Park)",
-                "timestamp": "2013-08-07T23:55:24.902Z",
-                "bikes": 4,
-                "slots": 10,
-                "marker-color": "#FFFF63"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -80.137565,
-                    25.782184
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": 18,
-            "properties": {
-                "name": "West Ave & 10th Street (Whole Foods)",
-                "timestamp": "2013-08-07T23:55:24.902Z",
-                "bikes": 10,
-                "slots": 4,
-                "marker-color": "#70E588"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -80.142166,
-                    25.780853
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": 19,
-            "properties": {
-                "name": "12th Street & West Ave",
-                "timestamp": "2013-08-07T23:55:24.903Z",
-                "bikes": 11,
-                "slots": 5,
-                "marker-color": "#70E588"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -80.142005,
-                    25.782745
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": 20,
-            "properties": {
-                "name": "14th Court & Alton Rd",
-                "timestamp": "2013-08-07T23:55:24.903Z",
-                "bikes": 1,
-                "slots": 13,
-                "marker-color": "#FFFF63"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -80.14146,
-                    25.786298
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": 21,
-            "properties": {
-                "name": "Meridian Ave & 13th Street (Flamingo Park)",
-                "timestamp": "2013-08-07T23:55:24.903Z",
-                "bikes": 3,
-                "slots": 13,
-                "marker-color": "#FFFF63"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -80.13633,
-                    25.783657
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": 22,
-            "properties": {
-                "name": "15th Street & Alton Rd",
-                "timestamp": "2013-08-07T23:55:24.904Z",
-                "bikes": 2,
-                "slots": 13,
-                "marker-color": "#FFFF63"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -80.140754,
-                    25.787298
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": 23,
-            "properties": {
-                "name": "Bay Rd & 15th Street",
-                "timestamp": "2013-08-07T23:55:24.904Z",
-                "bikes": 8,
-                "slots": 9,
-                "marker-color": "#70E588"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -80.14355,
-                    25.78706
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": 24,
-            "properties": {
-                "name": "16th Street & Bay Rd",
-                "timestamp": "2013-08-07T23:55:24.904Z",
-                "bikes": 1,
-                "slots": 15,
-                "marker-color": "#FFFF63"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -80.143364,
-                    25.78891
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": 25,
-            "properties": {
-                "name": "16th Street & Michigan Ave",
-                "timestamp": "2013-08-07T23:55:24.904Z",
-                "bikes": 2,
-                "slots": 6,
-                "marker-color": "#FFFF63"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -80.13857,
-                    25.789037
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": 26,
-            "properties": {
-                "name": "Pennsylvania Ave & 15th Street",
-                "timestamp": "2013-08-07T23:55:24.905Z",
-                "bikes": 2,
-                "slots": 13,
-                "marker-color": "#FFFF63"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -80.13419,
-                    25.788726
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": 27,
-            "properties": {
-                "name": "15th Street & Washington Ave (5 Guys)",
-                "timestamp": "2013-08-07T23:55:24.905Z",
-                "bikes": 2,
-                "slots": 12,
-                "marker-color": "#FFFF63"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -80.13219,
-                    25.787628
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": 28,
-            "properties": {
-                "name": "Lincoln Rd & James Ave (CVS Pharmacy)",
-                "timestamp": "2013-08-07T23:55:24.905Z",
-                "bikes": 1,
-                "slots": 13,
-                "marker-color": "#FFFF63"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -80.131034,
-                    25.790662
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": 29,
-            "properties": {
-                "name": "Washington Ave & 17th Street (The Fillmore)",
-                "timestamp": "2013-08-07T23:55:24.906Z",
-                "bikes": 4,
-                "slots": 10,
-                "marker-color": "#FFFF63"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -80.13215,
-                    25.792726
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": 30,
-            "properties": {
-                "name": "Drexel Ave & Lincoln Rd (MB Community Church)",
-                "timestamp": "2013-08-07T23:55:24.906Z",
-                "bikes": 9,
-                "slots": 7,
-                "marker-color": "#70E588"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -80.13319,
-                    25.790084
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": 31,
-            "properties": {
-                "name": "Pennsylvania Ave & Lincoln Rd (H & M)",
-                "timestamp": "2013-08-07T23:55:24.906Z",
-                "bikes": 0,
-                "slots": 14,
-                "marker-color": "#F85E35"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -80.13438,
-                    25.79015
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": 32,
-            "properties": {
-                "name": "Euclid Ave & Lincoln Lane (Oribe Salon)",
-                "timestamp": "2013-08-07T23:55:24.906Z",
-                "bikes": 12,
-                "slots": 3,
-                "marker-color": "#70E588"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -80.1354,
-                    25.789955
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": 33,
-            "properties": {
-                "name": "Meridian Ave & Lincoln Lane (Macy's)",
-                "timestamp": "2013-08-07T23:55:24.907Z",
-                "bikes": 12,
-                "slots": 4,
-                "marker-color": "#70E588"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -80.136695,
-                    25.791498
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": 34,
-            "properties": {
-                "name": "Jefferson Ave & Lincoln Rd (DogBar)",
-                "timestamp": "2013-08-07T23:55:24.907Z",
-                "bikes": 7,
-                "slots": 4,
-                "marker-color": "#70E588"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -80.13775,
-                    25.791154
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": 35,
-            "properties": {
-                "name": "Lincoln Road & West Ave",
-                "timestamp": "2013-08-07T23:55:24.907Z",
-                "bikes": 5,
-                "slots": 11,
-                "marker-color": "#70E588"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -80.1423,
-                    25.79034
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": 36,
-            "properties": {
-                "name": "Venetian Causeway & Island Ave (The Standard Hotel & Spa)",
-                "timestamp": "2013-08-07T23:55:24.908Z",
-                "bikes": 15,
-                "slots": 6,
-                "marker-color": "#70E588"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -80.148155,
-                    25.791421
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": 37,
-            "properties": {
-                "name": "Purdy Ave & 18th Street (Marina)",
-                "timestamp": "2013-08-07T23:55:24.908Z",
-                "bikes": 11,
-                "slots": 5,
-                "marker-color": "#70E588"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -80.14441,
-                    25.793401
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": 38,
-            "properties": {
-                "name": "Convention Center Dr @ Hall C Entrance",
-                "timestamp": "2013-08-07T23:55:24.908Z",
-                "bikes": 0,
-                "slots": 8,
-                "marker-color": "#F85E35"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -80.134704,
-                    25.794635
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": 39,
-            "properties": {
-                "name": "17th Street & Convention Center Dr (City Hall)",
-                "timestamp": "2013-08-07T23:55:25.003Z",
-                "bikes": 3,
-                "slots": 11,
-                "marker-color": "#FFFF63"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -80.13498,
-                    25.792573
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": 40,
-            "properties": {
-                "name": "17th Street & Collins Ave",
-                "timestamp": "2013-08-07T23:55:25.004Z",
-                "bikes": 3,
-                "slots": 13,
-                "marker-color": "#FFFF63"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -80.12929,
-                    25.792316
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": 41,
-            "properties": {
-                "name": "Washington Ave & 20th Street ",
-                "timestamp": "2013-08-07T23:55:25.004Z",
-                "bikes": 1,
-                "slots": 7,
-                "marker-color": "#FFFF63"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -80.13223,
-                    25.796394
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": 42,
-            "properties": {
-                "name": "26th Street & Collins Ave",
-                "timestamp": "2013-08-07T23:55:25.004Z",
-                "bikes": 0,
-                "slots": 16,
-                "marker-color": "#F85E35"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -80.125915,
-                    25.80229
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": 43,
-            "properties": {
-                "name": "31st Street & Collins Ave",
-                "timestamp": "2013-08-07T23:55:25.005Z",
-                "bikes": 3,
-                "slots": 8,
-                "marker-color": "#FFFF63"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -80.12518,
-                    25.806837
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": 44,
-            "properties": {
-                "name": "35th Street & Collins Ave",
-                "timestamp": "2013-08-07T23:55:25.005Z",
-                "bikes": 1,
-                "slots": 15,
-                "marker-color": "#FFFF63"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -80.12346,
-                    25.809047
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": 45,
-            "properties": {
-                "name": "43rd Street & Collins Ave",
-                "timestamp": "2013-08-07T23:55:25.005Z",
-                "bikes": 7,
-                "slots": 8,
-                "marker-color": "#70E588"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -80.12305,
-                    25.81454
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": 46,
-            "properties": {
-                "name": "Chase Ave & 41st Street",
-                "timestamp": "2013-08-07T23:55:25.006Z",
-                "bikes": 8,
-                "slots": 6,
-                "marker-color": "#70E588"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -80.1317,
-                    25.81354
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": 47,
-            "properties": {
-                "name": "39th Street & Alton Rd",
-                "timestamp": "2013-08-07T23:55:25.006Z",
-                "bikes": 11,
-                "slots": 4,
-                "marker-color": "#70E588"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -80.135475,
-                    25.812151
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": 48,
-            "properties": {
-                "name": "Collins Ave & 5300 Block",
-                "timestamp": "2013-08-07T23:55:25.006Z",
-                "bikes": 14,
-                "slots": 0,
-                "marker-color": "#70E588"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -80.12224,
-                    25.830375
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": 49,
-            "properties": {
-                "name": "Lenox Ave & Lincoln Rd (Pottery Barn)",
-                "timestamp": "2013-08-07T23:55:25.007Z",
-                "bikes": 12,
-                "slots": 0,
-                "marker-color": "#70E588"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -80.14,
-                    25.790901
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": 50,
-            "properties": {
-                "name": "23rd Street & Collins Ave (Walgreens)",
-                "timestamp": "2013-08-07T23:55:25.007Z",
-                "bikes": 11,
-                "slots": 4,
-                "marker-color": "#70E588"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -80.12834,
-                    25.798538
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": 51,
-            "properties": {
-                "name": "15th Street & Collins Ave",
-                "timestamp": "2013-08-07T23:55:25.007Z",
-                "bikes": 0,
-                "slots": 15,
-                "marker-color": "#F85E35"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -80.130134,
-                    25.787584
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": 52,
+            "id": 3,
             "properties": {
                 "name": "1st Street & Alton Rd",
-                "timestamp": "2013-08-07T23:55:25.007Z",
+                "timestamp": "2013-08-08T00:00:51.051Z",
                 "bikes": 7,
                 "slots": 6,
                 "marker-color": "#70E588"
@@ -957,10 +75,28 @@
         },
         {
             "type": "Feature",
-            "id": 53,
+            "id": 4,
+            "properties": {
+                "name": "Ocean Dr & 2nd Street",
+                "timestamp": "2013-08-08T00:00:51.052Z",
+                "bikes": 9,
+                "slots": 7,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.13257,
+                    25.771112
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 5,
             "properties": {
                 "name": "Michigan Ave & 3rd Street",
-                "timestamp": "2013-08-07T23:55:25.008Z",
+                "timestamp": "2013-08-08T00:00:51.052Z",
                 "bikes": 0,
                 "slots": 12,
                 "marker-color": "#F85E35"
@@ -975,154 +111,10 @@
         },
         {
             "type": "Feature",
-            "id": 54,
-            "properties": {
-                "name": "Washington Ave & 3rd Street",
-                "timestamp": "2013-08-07T23:55:25.008Z",
-                "bikes": 5,
-                "slots": 9,
-                "marker-color": "#70E588"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -80.13476,
-                    25.773664
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": 55,
-            "properties": {
-                "name": "Michigan Ave & 5th Street",
-                "timestamp": "2013-08-07T23:55:25.008Z",
-                "bikes": 9,
-                "slots": 5,
-                "marker-color": "#70E588"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -80.13842,
-                    25.774795
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": 56,
-            "properties": {
-                "name": "9th Street & Lenox Ave",
-                "timestamp": "2013-08-07T23:55:25.009Z",
-                "bikes": 11,
-                "slots": 5,
-                "marker-color": "#70E588"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -80.14001,
-                    25.779274
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": 57,
-            "properties": {
-                "name": "46th Street & Collins Ave (Parking Lot)",
-                "timestamp": "2013-08-07T23:55:25.009Z",
-                "bikes": 14,
-                "slots": 17,
-                "marker-color": "#70E588"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -80.122314,
-                    25.820867
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": 58,
-            "properties": {
-                "name": "Collins Ave & 44th Street (Fountainbleau Hotel)",
-                "timestamp": "2013-08-07T23:55:25.009Z",
-                "bikes": 7,
-                "slots": 5,
-                "marker-color": "#70E588"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -80.123664,
-                    25.816011
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": 59,
-            "properties": {
-                "name": "40th Street & Collins Ave",
-                "timestamp": "2013-08-07T23:55:25.009Z",
-                "bikes": 0,
-                "slots": 16,
-                "marker-color": "#F85E35"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -80.12337,
-                    25.812503
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": 60,
-            "properties": {
-                "name": "Euclid Ave & 15th Street",
-                "timestamp": "2013-08-07T23:55:25.010Z",
-                "bikes": 2,
-                "slots": 13,
-                "marker-color": "#FFFF63"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -80.13545,
-                    25.787733
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": 61,
-            "properties": {
-                "name": "64th Street & Collins Ave (Parking Lot)",
-                "timestamp": "2013-08-07T23:55:25.010Z",
-                "bikes": 5,
-                "slots": 11,
-                "marker-color": "#70E588"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -80.119995,
-                    25.84744
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": 62,
+            "id": 6,
             "properties": {
                 "name": "4th Street & Alton Rd",
-                "timestamp": "2013-08-07T23:55:25.010Z",
+                "timestamp": "2013-08-08T00:00:51.052Z",
                 "bikes": 4,
                 "slots": 9,
                 "marker-color": "#FFFF63"
@@ -1137,100 +129,28 @@
         },
         {
             "type": "Feature",
-            "id": 63,
+            "id": 7,
             "properties": {
-                "name": "71st Street & Byron Ave",
-                "timestamp": "2013-08-07T23:55:25.011Z",
-                "bikes": 3,
+                "name": "Washington Ave & 3rd Street",
+                "timestamp": "2013-08-08T00:00:51.052Z",
+                "bikes": 4,
                 "slots": 10,
                 "marker-color": "#FFFF63"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -80.12321,
-                    25.85591
+                    -80.13476,
+                    25.773664
                 ]
             }
         },
         {
             "type": "Feature",
-            "id": 64,
+            "id": 8,
             "properties": {
-                "name": "76th Street & Collins Ave",
-                "timestamp": "2013-08-07T23:55:25.011Z",
-                "bikes": 0,
-                "slots": 15,
-                "marker-color": "#F85E35"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -80.120704,
-                    25.861253
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": 65,
-            "properties": {
-                "name": "73rd Street & Dickens Ave",
-                "timestamp": "2013-08-07T23:55:25.011Z",
-                "bikes": 1,
-                "slots": 13,
-                "marker-color": "#FFFF63"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -80.125305,
-                    25.857971
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": 66,
-            "properties": {
-                "name": "Sheridan Ave & 41st Street",
-                "timestamp": "2013-08-07T23:55:25.012Z",
-                "bikes": 10,
-                "slots": 4,
-                "marker-color": "#70E588"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -80.1277,
-                    25.813106
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": 67,
-            "properties": {
-                "name": "67th Street & Collins Ave",
-                "timestamp": "2013-08-07T23:55:25.012Z",
-                "bikes": 6,
-                "slots": 6,
-                "marker-color": "#70E588"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -80.12063,
-                    25.85069
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": 68,
-            "properties": {
-                "name": "73rd Street & Collins Ave",
-                "timestamp": "2013-08-07T23:55:25.012Z",
+                "name": "Euclid Ave & 5th Street",
+                "timestamp": "2013-08-08T00:00:51.053Z",
                 "bikes": 2,
                 "slots": 13,
                 "marker-color": "#FFFF63"
@@ -1238,71 +158,107 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -80.121,
-                    25.858234
+                    -80.13497,
+                    25.7742
                 ]
             }
         },
         {
             "type": "Feature",
-            "id": 69,
+            "id": 9,
             "properties": {
-                "name": "Alton Rd at 11th Street (Flamingo Park)",
-                "timestamp": "2013-08-07T23:55:25.012Z",
-                "bikes": 5,
+                "name": "Ocean Dr & 5th Street ",
+                "timestamp": "2013-08-08T00:00:51.053Z",
+                "bikes": 11,
+                "slots": 4,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.131584,
+                    25.774917
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 10,
+            "properties": {
+                "name": "Ocean Dr & 9th Street",
+                "timestamp": "2013-08-08T00:00:51.053Z",
+                "bikes": 0,
+                "slots": 14,
+                "marker-color": "#F85E35"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.13083,
+                    25.779172
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 11,
+            "properties": {
+                "name": "Ocean Dr and 10th Street (Art Deco Welcome Center)",
+                "timestamp": "2013-08-08T00:00:51.054Z",
+                "bikes": 6,
+                "slots": 16,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.12991,
+                    25.78076
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 12,
+            "properties": {
+                "name": "13th Street & Collins Ave",
+                "timestamp": "2013-08-08T00:00:51.054Z",
+                "bikes": 3,
+                "slots": 10,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.1308,
+                    25.784078
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 13,
+            "properties": {
+                "name": "Ocean Dr at 14th Street",
+                "timestamp": "2013-08-08T00:00:51.054Z",
+                "bikes": 7,
                 "slots": 8,
                 "marker-color": "#70E588"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -80.14085,
-                    25.782022
+                    -80.129455,
+                    25.785034
                 ]
             }
         },
         {
             "type": "Feature",
-            "id": 70,
-            "properties": {
-                "name": "7th Street Parking Garage",
-                "timestamp": "2013-08-07T23:55:25.013Z",
-                "bikes": 4,
-                "slots": 11,
-                "marker-color": "#FFFF63"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -80.133155,
-                    25.777061
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": 71,
-            "properties": {
-                "name": "79th Street & Collins Ave",
-                "timestamp": "2013-08-07T23:55:25.013Z",
-                "bikes": 3,
-                "slots": 12,
-                "marker-color": "#FFFF63"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -80.12122,
-                    25.8642
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": 72,
+            "id": 14,
             "properties": {
                 "name": "Ocean Dr & 14th Place",
-                "timestamp": "2013-08-07T23:55:25.013Z",
+                "timestamp": "2013-08-08T00:00:51.054Z",
                 "bikes": 10,
                 "slots": 5,
                 "marker-color": "#70E588"
@@ -1317,28 +273,46 @@
         },
         {
             "type": "Feature",
-            "id": 73,
+            "id": 15,
             "properties": {
-                "name": "Lenox Ave & 6th Street",
-                "timestamp": "2013-08-07T23:55:25.014Z",
-                "bikes": 5,
-                "slots": 10,
-                "marker-color": "#70E588"
+                "name": "13th Street & Washington Ave",
+                "timestamp": "2013-08-08T00:00:51.135Z",
+                "bikes": 0,
+                "slots": 15,
+                "marker-color": "#F85E35"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -80.13965,
-                    25.77604
+                    -80.13248,
+                    25.784225
                 ]
             }
         },
         {
             "type": "Feature",
-            "id": 74,
+            "id": 16,
             "properties": {
-                "name": "Jefferson Ave & 6th Street",
-                "timestamp": "2013-08-07T23:55:25.014Z",
+                "name": "11th Street & Washington Ave",
+                "timestamp": "2013-08-08T00:00:51.135Z",
+                "bikes": 0,
+                "slots": 10,
+                "marker-color": "#F85E35"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.13306,
+                    25.781921
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 17,
+            "properties": {
+                "name": "9th Street & Washington Ave",
+                "timestamp": "2013-08-08T00:00:51.135Z",
                 "bikes": 3,
                 "slots": 13,
                 "marker-color": "#FFFF63"
@@ -1346,17 +320,35 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -80.137184,
-                    25.775684
+                    -80.13339,
+                    25.77947
                 ]
             }
         },
         {
             "type": "Feature",
-            "id": 75,
+            "id": 18,
+            "properties": {
+                "name": "7th Street Parking Garage",
+                "timestamp": "2013-08-08T00:00:51.136Z",
+                "bikes": 4,
+                "slots": 11,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.133155,
+                    25.777061
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 19,
             "properties": {
                 "name": "Meridian Ave & 6th St",
-                "timestamp": "2013-08-07T23:55:25.014Z",
+                "timestamp": "2013-08-08T00:00:51.136Z",
                 "bikes": 0,
                 "slots": 15,
                 "marker-color": "#F85E35"
@@ -1371,64 +363,190 @@
         },
         {
             "type": "Feature",
-            "id": 76,
+            "id": 20,
             "properties": {
-                "name": "Washington Ave & 7th Street",
-                "timestamp": "2013-08-07T23:55:25.015Z",
-                "bikes": 4,
-                "slots": 7,
-                "marker-color": "#FFFF63"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -80.13394,
-                    25.776876
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": 77,
-            "properties": {
-                "name": "9th Street & Washington Ave",
-                "timestamp": "2013-08-07T23:55:25.015Z",
-                "bikes": 0,
-                "slots": 16,
-                "marker-color": "#F85E35"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -80.13339,
-                    25.77947
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": 78,
-            "properties": {
-                "name": "Trouville Esplanade & Normandy Dr",
-                "timestamp": "2013-08-07T23:55:25.015Z",
-                "bikes": 12,
-                "slots": 3,
+                "name": "Michigan Ave & 5th Street",
+                "timestamp": "2013-08-08T00:00:51.137Z",
+                "bikes": 9,
+                "slots": 5,
                 "marker-color": "#70E588"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -80.13755,
-                    25.85208
+                    -80.13842,
+                    25.774795
                 ]
             }
         },
         {
             "type": "Feature",
-            "id": 79,
+            "id": 21,
             "properties": {
-                "name": "Rue Notre Dame & Maimonedes Street",
-                "timestamp": "2013-08-07T23:55:25.015Z",
+                "name": "Lenox Ave & 6th Street",
+                "timestamp": "2013-08-08T00:00:51.137Z",
+                "bikes": 4,
+                "slots": 11,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.13965,
+                    25.77604
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 22,
+            "properties": {
+                "name": "6th Street Between Alton Rd & West Ave",
+                "timestamp": "2013-08-08T00:00:51.137Z",
+                "bikes": 7,
+                "slots": 2,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.141136,
+                    25.775754
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 23,
+            "properties": {
+                "name": "9th Street & Lenox Ave",
+                "timestamp": "2013-08-08T00:00:51.138Z",
+                "bikes": 11,
+                "slots": 5,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.14001,
+                    25.779274
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 24,
+            "properties": {
+                "name": "Pennsylvania Ave & 13th Street",
+                "timestamp": "2013-08-08T00:00:51.138Z",
+                "bikes": 2,
+                "slots": 6,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.1341,
+                    25.784238
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 25,
+            "properties": {
+                "name": "Jefferson Ave & 11th Street (Flamingo Park)",
+                "timestamp": "2013-08-08T00:00:51.138Z",
+                "bikes": 4,
+                "slots": 10,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.137565,
+                    25.782184
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 26,
+            "properties": {
+                "name": "Alton Rd at 11th Street (Flamingo Park)",
+                "timestamp": "2013-08-08T00:00:51.139Z",
+                "bikes": 5,
+                "slots": 8,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.14085,
+                    25.782022
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 27,
+            "properties": {
+                "name": "West Ave & 10th Street (Whole Foods)",
+                "timestamp": "2013-08-08T00:00:51.139Z",
+                "bikes": 10,
+                "slots": 4,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.142166,
+                    25.780853
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 28,
+            "properties": {
+                "name": "12th Street & West Ave",
+                "timestamp": "2013-08-08T00:00:51.139Z",
+                "bikes": 11,
+                "slots": 5,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.142005,
+                    25.782745
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 29,
+            "properties": {
+                "name": "14th Court & Alton Rd",
+                "timestamp": "2013-08-08T00:00:51.140Z",
+                "bikes": 1,
+                "slots": 13,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.14146,
+                    25.786298
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 30,
+            "properties": {
+                "name": "Meridian Ave & 13th Street (Flamingo Park)",
+                "timestamp": "2013-08-08T00:00:51.140Z",
                 "bikes": 4,
                 "slots": 12,
                 "marker-color": "#FFFF63"
@@ -1436,53 +554,467 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -80.13255,
-                    25.854562
+                    -80.13633,
+                    25.783657
                 ]
             }
         },
         {
             "type": "Feature",
-            "id": 80,
+            "id": 31,
             "properties": {
-                "name": "Vichy Dr & 71st Street",
-                "timestamp": "2013-08-07T23:55:25.016Z",
-                "bikes": 7,
-                "slots": 8,
+                "name": "15th Street & Alton Rd",
+                "timestamp": "2013-08-08T00:00:51.140Z",
+                "bikes": 2,
+                "slots": 13,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.140754,
+                    25.787298
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 32,
+            "properties": {
+                "name": "Bay Rd & 15th Street",
+                "timestamp": "2013-08-08T00:00:51.141Z",
+                "bikes": 10,
+                "slots": 7,
                 "marker-color": "#70E588"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -80.13087,
-                    25.854936
+                    -80.14355,
+                    25.78706
                 ]
             }
         },
         {
             "type": "Feature",
-            "id": 81,
+            "id": 33,
             "properties": {
-                "name": "Collins Ave & 93rd Street",
-                "timestamp": "2013-08-07T23:55:25.016Z",
+                "name": "16th Street & Bay Rd",
+                "timestamp": "2013-08-08T00:00:51.141Z",
+                "bikes": 1,
+                "slots": 15,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.143364,
+                    25.78891
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 34,
+            "properties": {
+                "name": "16th Street & Michigan Ave",
+                "timestamp": "2013-08-08T00:00:51.141Z",
+                "bikes": 2,
+                "slots": 6,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.13857,
+                    25.789037
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 35,
+            "properties": {
+                "name": "Euclid Ave & 15th Street",
+                "timestamp": "2013-08-08T00:00:51.163Z",
+                "bikes": 0,
+                "slots": 15,
+                "marker-color": "#F85E35"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.13545,
+                    25.787733
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 36,
+            "properties": {
+                "name": "Pennsylvania Ave & 15th Street",
+                "timestamp": "2013-08-08T00:00:51.163Z",
+                "bikes": 1,
+                "slots": 14,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.13419,
+                    25.788726
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 37,
+            "properties": {
+                "name": "15th Street & Washington Ave (5 Guys)",
+                "timestamp": "2013-08-08T00:00:51.164Z",
+                "bikes": 2,
+                "slots": 12,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.13219,
+                    25.787628
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 38,
+            "properties": {
+                "name": "15th Street & Collins Ave",
+                "timestamp": "2013-08-08T00:00:51.164Z",
+                "bikes": 0,
+                "slots": 15,
+                "marker-color": "#F85E35"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.130134,
+                    25.787584
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 39,
+            "properties": {
+                "name": "Lincoln Rd & James Ave (CVS Pharmacy)",
+                "timestamp": "2013-08-08T00:00:51.164Z",
+                "bikes": 1,
+                "slots": 13,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.131034,
+                    25.790662
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 40,
+            "properties": {
+                "name": "Washington Ave & 17th Street (The Fillmore)",
+                "timestamp": "2013-08-08T00:00:51.164Z",
+                "bikes": 4,
+                "slots": 10,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.13215,
+                    25.792726
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 41,
+            "properties": {
+                "name": "Drexel Ave & Lincoln Rd (MB Community Church)",
+                "timestamp": "2013-08-08T00:00:51.165Z",
                 "bikes": 9,
+                "slots": 7,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.13319,
+                    25.790084
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 42,
+            "properties": {
+                "name": "Pennsylvania Ave & Lincoln Rd (H & M)",
+                "timestamp": "2013-08-08T00:00:51.165Z",
+                "bikes": 0,
+                "slots": 14,
+                "marker-color": "#F85E35"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.13438,
+                    25.79015
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 43,
+            "properties": {
+                "name": "Euclid Ave & Lincoln Lane (Oribe Salon)",
+                "timestamp": "2013-08-08T00:00:51.166Z",
+                "bikes": 12,
+                "slots": 3,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.1354,
+                    25.789955
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 44,
+            "properties": {
+                "name": "Meridian Ave & Lincoln Lane (Macy's)",
+                "timestamp": "2013-08-08T00:00:51.166Z",
+                "bikes": 12,
+                "slots": 4,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.136695,
+                    25.791498
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 45,
+            "properties": {
+                "name": "Jefferson Ave & Lincoln Rd (DogBar)",
+                "timestamp": "2013-08-08T00:00:51.166Z",
+                "bikes": 6,
+                "slots": 5,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.13775,
+                    25.791154
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 46,
+            "properties": {
+                "name": "Lenox Ave & Lincoln Rd (Pottery Barn)",
+                "timestamp": "2013-08-08T00:00:51.167Z",
+                "bikes": 12,
+                "slots": 0,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.14,
+                    25.790901
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 47,
+            "properties": {
+                "name": "Lincoln Road & West Ave",
+                "timestamp": "2013-08-08T00:00:51.167Z",
+                "bikes": 4,
+                "slots": 12,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.1423,
+                    25.79034
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 48,
+            "properties": {
+                "name": "Venetian Causeway & Island Ave (The Standard Hotel & Spa)",
+                "timestamp": "2013-08-08T00:00:51.168Z",
+                "bikes": 15,
                 "slots": 6,
                 "marker-color": "#70E588"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -80.12221,
-                    25.88108
+                    -80.148155,
+                    25.791421
                 ]
             }
         },
         {
             "type": "Feature",
-            "id": 82,
+            "id": 49,
+            "properties": {
+                "name": "Purdy Ave & 18th Street (Marina)",
+                "timestamp": "2013-08-08T00:00:51.168Z",
+                "bikes": 11,
+                "slots": 5,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.14441,
+                    25.793401
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 50,
+            "properties": {
+                "name": "Convention Center Dr @ Hall C Entrance",
+                "timestamp": "2013-08-08T00:00:51.168Z",
+                "bikes": 0,
+                "slots": 8,
+                "marker-color": "#F85E35"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.134704,
+                    25.794635
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 51,
+            "properties": {
+                "name": "17th Street & Convention Center Dr (City Hall)",
+                "timestamp": "2013-08-08T00:00:51.169Z",
+                "bikes": 2,
+                "slots": 12,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.13498,
+                    25.792573
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 52,
+            "properties": {
+                "name": "17th Street & Collins Ave",
+                "timestamp": "2013-08-08T00:00:51.169Z",
+                "bikes": 3,
+                "slots": 13,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.12929,
+                    25.792316
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 53,
+            "properties": {
+                "name": "Washington Ave & 20th Street ",
+                "timestamp": "2013-08-08T00:00:51.171Z",
+                "bikes": 1,
+                "slots": 7,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.13223,
+                    25.796394
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 54,
+            "properties": {
+                "name": "23rd Street & Collins Ave (Walgreens)",
+                "timestamp": "2013-08-08T00:00:51.171Z",
+                "bikes": 11,
+                "slots": 4,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.12834,
+                    25.798538
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 55,
+            "properties": {
+                "name": "Jefferson Ave & 6th Street",
+                "timestamp": "2013-08-08T00:00:51.171Z",
+                "bikes": 3,
+                "slots": 13,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.137184,
+                    25.775684
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 56,
             "properties": {
                 "name": "Ocean Dr & 7th Street",
-                "timestamp": "2013-08-07T23:55:25.016Z",
+                "timestamp": "2013-08-08T00:00:51.171Z",
                 "bikes": 6,
                 "slots": 9,
                 "marker-color": "#70E588"
@@ -1497,10 +1029,10 @@
         },
         {
             "type": "Feature",
-            "id": 83,
+            "id": 57,
             "properties": {
                 "name": "Ocean Dr & 12th Street",
-                "timestamp": "2013-08-07T23:55:25.017Z",
+                "timestamp": "2013-08-08T00:00:51.172Z",
                 "bikes": 2,
                 "slots": 14,
                 "marker-color": "#FFFF63"
@@ -1515,10 +1047,10 @@
         },
         {
             "type": "Feature",
-            "id": 84,
+            "id": 58,
             "properties": {
                 "name": "22nd Street & Collins Ave (W Hotel)",
-                "timestamp": "2013-08-07T23:55:25.017Z",
+                "timestamp": "2013-08-08T00:00:51.172Z",
                 "bikes": 9,
                 "slots": 6,
                 "marker-color": "#70E588"
@@ -1533,12 +1065,12 @@
         },
         {
             "type": "Feature",
-            "id": 85,
+            "id": 59,
             "properties": {
                 "name": "14th Street & West Ave",
-                "timestamp": "2013-08-07T23:55:25.017Z",
-                "bikes": 3,
-                "slots": 12,
+                "timestamp": "2013-08-08T00:00:51.173Z",
+                "bikes": 4,
+                "slots": 11,
                 "marker-color": "#FFFF63"
             },
             "geometry": {
@@ -1551,12 +1083,12 @@
         },
         {
             "type": "Feature",
-            "id": 86,
+            "id": 60,
             "properties": {
                 "name": "18th Street & West Ave (Fresh Market)",
-                "timestamp": "2013-08-07T23:55:25.018Z",
+                "timestamp": "2013-08-08T00:00:51.173Z",
                 "bikes": 3,
-                "slots": 12,
+                "slots": 10,
                 "marker-color": "#FFFF63"
             },
             "geometry": {
@@ -1569,10 +1101,10 @@
         },
         {
             "type": "Feature",
-            "id": 87,
+            "id": 61,
             "properties": {
                 "name": "8th Street & Jefferson Ave",
-                "timestamp": "2013-08-07T23:55:25.018Z",
+                "timestamp": "2013-08-08T00:00:51.174Z",
                 "bikes": 5,
                 "slots": 11,
                 "marker-color": "#70E588"
@@ -1587,46 +1119,10 @@
         },
         {
             "type": "Feature",
-            "id": 88,
-            "properties": {
-                "name": "25th Street & Collins Ave",
-                "timestamp": "2013-08-07T23:55:25.018Z",
-                "bikes": 2,
-                "slots": 14,
-                "marker-color": "#FFFF63"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -80.1256,
-                    25.80087
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": 89,
-            "properties": {
-                "name": "94th Street & Harding Ave",
-                "timestamp": "2013-08-07T23:55:25.018Z",
-                "bikes": 1,
-                "slots": 7,
-                "marker-color": "#FFFF63"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -80.12386,
-                    25.88338
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": 90,
+            "id": 62,
             "properties": {
                 "name": "Behind Surfcomber Hotel @Boardwalk",
-                "timestamp": "2013-08-07T23:55:25.019Z",
+                "timestamp": "2013-08-08T00:00:51.174Z",
                 "bikes": 7,
                 "slots": 5,
                 "marker-color": "#70E588"
@@ -1641,10 +1137,514 @@
         },
         {
             "type": "Feature",
+            "id": 63,
+            "properties": {
+                "name": "19th Street & Dade Blvd (Publix)",
+                "timestamp": "2013-08-08T00:00:51.174Z",
+                "bikes": 5,
+                "slots": 10,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.13936,
+                    25.794822
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 64,
+            "properties": {
+                "name": "Sunset Dr & 20th Street",
+                "timestamp": "2013-08-08T00:00:51.175Z",
+                "bikes": 6,
+                "slots": 8,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.14138,
+                    25.79523
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 65,
+            "properties": {
+                "name": "West Ave & 20th Street (Publix on the Bay)",
+                "timestamp": "2013-08-08T00:00:51.175Z",
+                "bikes": 8,
+                "slots": 6,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.14295,
+                    25.795501
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 66,
+            "properties": {
+                "name": "25th Street & Collins Ave",
+                "timestamp": "2013-08-08T00:00:51.175Z",
+                "bikes": 2,
+                "slots": 14,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.1256,
+                    25.80087
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 67,
+            "properties": {
+                "name": "24th Street & Collins Ave",
+                "timestamp": "2013-08-08T00:00:51.175Z",
+                "bikes": 3,
+                "slots": 5,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.12703,
+                    25.800083
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 68,
+            "properties": {
+                "name": "26th Street & Collins Ave",
+                "timestamp": "2013-08-08T00:00:51.178Z",
+                "bikes": 0,
+                "slots": 16,
+                "marker-color": "#F85E35"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.125915,
+                    25.80229
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 69,
+            "properties": {
+                "name": "31st Street & Collins Ave",
+                "timestamp": "2013-08-08T00:00:51.179Z",
+                "bikes": 3,
+                "slots": 8,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.12518,
+                    25.806837
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 70,
+            "properties": {
+                "name": "35th Street & Collins Ave",
+                "timestamp": "2013-08-08T00:00:51.179Z",
+                "bikes": 1,
+                "slots": 15,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.12346,
+                    25.809047
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 71,
+            "properties": {
+                "name": "40th Street & Collins Ave",
+                "timestamp": "2013-08-08T00:00:51.179Z",
+                "bikes": 0,
+                "slots": 16,
+                "marker-color": "#F85E35"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.12337,
+                    25.812503
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 72,
+            "properties": {
+                "name": "43rd Street & Collins Ave",
+                "timestamp": "2013-08-08T00:00:51.180Z",
+                "bikes": 7,
+                "slots": 8,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.12305,
+                    25.81454
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 73,
+            "properties": {
+                "name": "Collins Ave & 44th Street (Fountainbleau Hotel)",
+                "timestamp": "2013-08-08T00:00:51.180Z",
+                "bikes": 7,
+                "slots": 5,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.123664,
+                    25.816011
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 74,
+            "properties": {
+                "name": "46th Street & Collins Ave (Parking Lot)",
+                "timestamp": "2013-08-08T00:00:51.180Z",
+                "bikes": 14,
+                "slots": 17,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.122314,
+                    25.820867
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 75,
+            "properties": {
+                "name": "Sheridan Ave & 41st Street",
+                "timestamp": "2013-08-08T00:00:51.180Z",
+                "bikes": 9,
+                "slots": 5,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.1277,
+                    25.813106
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 76,
+            "properties": {
+                "name": "Chase Ave & 41st Street",
+                "timestamp": "2013-08-08T00:00:51.181Z",
+                "bikes": 8,
+                "slots": 6,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.1317,
+                    25.81354
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 77,
+            "properties": {
+                "name": "39th Street & Alton Rd",
+                "timestamp": "2013-08-08T00:00:51.181Z",
+                "bikes": 12,
+                "slots": 3,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.135475,
+                    25.812151
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 78,
+            "properties": {
+                "name": "Collins Ave & 5300 Block",
+                "timestamp": "2013-08-08T00:00:51.181Z",
+                "bikes": 14,
+                "slots": 0,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.12224,
+                    25.830375
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 79,
+            "properties": {
+                "name": "64th Street & Collins Ave (Parking Lot)",
+                "timestamp": "2013-08-08T00:00:51.182Z",
+                "bikes": 5,
+                "slots": 11,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.119995,
+                    25.84744
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 80,
+            "properties": {
+                "name": "67th Street & Collins Ave",
+                "timestamp": "2013-08-08T00:00:51.182Z",
+                "bikes": 6,
+                "slots": 6,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.12063,
+                    25.85069
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 81,
+            "properties": {
+                "name": "71st Street & Byron Ave",
+                "timestamp": "2013-08-08T00:00:51.182Z",
+                "bikes": 3,
+                "slots": 10,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.12321,
+                    25.85591
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 82,
+            "properties": {
+                "name": "73rd Street & Collins Ave",
+                "timestamp": "2013-08-08T00:00:51.183Z",
+                "bikes": 2,
+                "slots": 13,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.121,
+                    25.858234
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 83,
+            "properties": {
+                "name": "76th Street & Collins Ave",
+                "timestamp": "2013-08-08T00:00:51.183Z",
+                "bikes": 0,
+                "slots": 15,
+                "marker-color": "#F85E35"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.120704,
+                    25.861253
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 84,
+            "properties": {
+                "name": "79th Street & Collins Ave",
+                "timestamp": "2013-08-08T00:00:51.183Z",
+                "bikes": 3,
+                "slots": 12,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.12122,
+                    25.8642
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 85,
+            "properties": {
+                "name": "73rd Street & Dickens Ave",
+                "timestamp": "2013-08-08T00:00:51.183Z",
+                "bikes": 1,
+                "slots": 13,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.125305,
+                    25.857971
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 86,
+            "properties": {
+                "name": "Rue Notre Dame & Maimonedes Street",
+                "timestamp": "2013-08-08T00:00:51.184Z",
+                "bikes": 4,
+                "slots": 12,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.13255,
+                    25.854562
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 87,
+            "properties": {
+                "name": "Trouville Esplanade & Normandy Dr",
+                "timestamp": "2013-08-08T00:00:51.184Z",
+                "bikes": 12,
+                "slots": 3,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.13755,
+                    25.85208
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 88,
+            "properties": {
+                "name": "Vichy Dr & 71st Street",
+                "timestamp": "2013-08-08T00:00:51.184Z",
+                "bikes": 7,
+                "slots": 8,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.13087,
+                    25.854936
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 89,
+            "properties": {
+                "name": "Collins Ave & 93rd Street",
+                "timestamp": "2013-08-08T00:00:51.185Z",
+                "bikes": 9,
+                "slots": 6,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.12221,
+                    25.88108
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 90,
+            "properties": {
+                "name": "94th Street & Harding Ave",
+                "timestamp": "2013-08-08T00:00:51.185Z",
+                "bikes": 3,
+                "slots": 5,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.12386,
+                    25.88338
+                ]
+            }
+        },
+        {
+            "type": "Feature",
             "id": 91,
             "properties": {
                 "name": "W Bay Harbor Dr & 97th Street",
-                "timestamp": "2013-08-07T23:55:25.019Z",
+                "timestamp": "2013-08-08T00:00:51.186Z",
                 "bikes": 5,
                 "slots": 11,
                 "marker-color": "#70E588"
@@ -1661,26 +1661,8 @@
             "type": "Feature",
             "id": 92,
             "properties": {
-                "name": "95th Street BTW E Bay Harbor Dr and Bay Harbor Ter",
-                "timestamp": "2013-08-07T23:55:25.019Z",
-                "bikes": 10,
-                "slots": 6,
-                "marker-color": "#70E588"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -80.12978,
-                    25.88579
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": 93,
-            "properties": {
                 "name": "103rd Street btw W and E Bay Harbor Dr",
-                "timestamp": "2013-08-07T23:55:25.020Z",
+                "timestamp": "2013-08-08T00:00:51.186Z",
                 "bikes": 7,
                 "slots": 9,
                 "marker-color": "#70E588"
@@ -1690,6 +1672,24 @@
                 "coordinates": [
                     -80.13242,
                     25.893302
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 93,
+            "properties": {
+                "name": "95th Street BTW E Bay Harbor Dr and Bay Harbor Ter",
+                "timestamp": "2013-08-08T00:00:51.187Z",
+                "bikes": 10,
+                "slots": 6,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.12978,
+                    25.88579
                 ]
             }
         }
