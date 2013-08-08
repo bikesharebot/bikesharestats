@@ -5,26 +5,8 @@
             "type": "Feature",
             "id": 0,
             "properties": {
-                "name": "Convention Center @ 17th St. ",
-                "timestamp": "2013-08-08T17:23:01.115Z",
-                "bikes": "5",
-                "slots": "6",
-                "marker-color": "#70E588"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -80.12385,
-                    26.10032
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": 1,
-            "properties": {
                 "name": "Esplanade Park",
-                "timestamp": "2013-08-08T17:23:01.117Z",
+                "timestamp": "2013-08-08T17:27:42.643Z",
                 "bikes": "7",
                 "slots": "4",
                 "marker-color": "#70E588"
@@ -39,10 +21,10 @@
         },
         {
             "type": "Feature",
-            "id": 2,
+            "id": 1,
             "properties": {
                 "name": "Seabreeze & Las Olas",
-                "timestamp": "2013-08-08T17:23:01.119Z",
+                "timestamp": "2013-08-08T17:27:42.645Z",
                 "bikes": "9",
                 "slots": "2",
                 "marker-color": "#70E588"
@@ -57,10 +39,10 @@
         },
         {
             "type": "Feature",
-            "id": 3,
+            "id": 2,
             "properties": {
                 "name": "Beach Community Center",
-                "timestamp": "2013-08-08T17:23:01.121Z",
+                "timestamp": "2013-08-08T17:27:42.647Z",
                 "bikes": "3",
                 "slots": "4",
                 "marker-color": "#FFFF63"
@@ -75,10 +57,10 @@
         },
         {
             "type": "Feature",
-            "id": 4,
+            "id": 3,
             "properties": {
                 "name": "Sebastian Lot",
-                "timestamp": "2013-08-08T17:23:01.123Z",
+                "timestamp": "2013-08-08T17:27:42.649Z",
                 "bikes": "6",
                 "slots": "7",
                 "marker-color": "#70E588"
@@ -93,10 +75,10 @@
         },
         {
             "type": "Feature",
-            "id": 5,
+            "id": 4,
             "properties": {
                 "name": "Willingham Park",
-                "timestamp": "2013-08-08T17:23:01.125Z",
+                "timestamp": "2013-08-08T17:27:42.651Z",
                 "bikes": "11",
                 "slots": "11",
                 "marker-color": "#70E588"
@@ -111,10 +93,10 @@
         },
         {
             "type": "Feature",
-            "id": 6,
+            "id": 5,
             "properties": {
                 "name": "Las Olas Circle",
-                "timestamp": "2013-08-08T17:23:01.126Z",
+                "timestamp": "2013-08-08T17:27:42.652Z",
                 "bikes": "6",
                 "slots": "5",
                 "marker-color": "#70E588"
@@ -129,10 +111,10 @@
         },
         {
             "type": "Feature",
-            "id": 7,
+            "id": 6,
             "properties": {
                 "name": "Earl Lifshey",
-                "timestamp": "2013-08-08T17:23:01.129Z",
+                "timestamp": "2013-08-08T17:27:42.654Z",
                 "bikes": "7",
                 "slots": "3",
                 "marker-color": "#70E588"
@@ -147,10 +129,10 @@
         },
         {
             "type": "Feature",
-            "id": 8,
+            "id": 7,
             "properties": {
                 "name": "Holiday Park at Sunrise",
-                "timestamp": "2013-08-08T17:23:01.132Z",
+                "timestamp": "2013-08-08T17:27:42.656Z",
                 "bikes": "5",
                 "slots": "6",
                 "marker-color": "#70E588"
@@ -165,10 +147,10 @@
         },
         {
             "type": "Feature",
-            "id": 9,
+            "id": 8,
             "properties": {
                 "name": "George English Park",
-                "timestamp": "2013-08-08T17:23:01.133Z",
+                "timestamp": "2013-08-08T17:27:42.658Z",
                 "bikes": "6",
                 "slots": "5",
                 "marker-color": "#70E588"
@@ -183,10 +165,10 @@
         },
         {
             "type": "Feature",
-            "id": 10,
+            "id": 9,
             "properties": {
                 "name": "DC Alexander Park",
-                "timestamp": "2013-08-08T17:23:01.135Z",
+                "timestamp": "2013-08-08T17:27:42.659Z",
                 "bikes": "8",
                 "slots": "3",
                 "marker-color": "#70E588"
@@ -201,10 +183,10 @@
         },
         {
             "type": "Feature",
-            "id": 11,
+            "id": 10,
             "properties": {
                 "name": "540 Building",
-                "timestamp": "2013-08-08T17:23:01.137Z",
+                "timestamp": "2013-08-08T17:27:42.665Z",
                 "bikes": "7",
                 "slots": "6",
                 "marker-color": "#70E588"
@@ -219,10 +201,10 @@
         },
         {
             "type": "Feature",
-            "id": 12,
+            "id": 11,
             "properties": {
                 "name": "Sunrise & Ocean",
-                "timestamp": "2013-08-08T17:23:01.138Z",
+                "timestamp": "2013-08-08T17:27:42.667Z",
                 "bikes": "8",
                 "slots": "3",
                 "marker-color": "#70E588"
@@ -237,10 +219,28 @@
         },
         {
             "type": "Feature",
+            "id": 12,
+            "properties": {
+                "name": "Convention Center @ 17th St. ",
+                "timestamp": "2013-08-08T17:27:42.669Z",
+                "bikes": "4",
+                "slots": "7",
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.12385,
+                    26.10032
+                ]
+            }
+        },
+        {
+            "type": "Feature",
             "id": 13,
             "properties": {
                 "name": "Arts Park",
-                "timestamp": "2013-08-08T17:23:01.140Z",
+                "timestamp": "2013-08-08T17:27:42.671Z",
                 "bikes": "5",
                 "slots": "6",
                 "marker-color": "#70E588"
@@ -258,7 +258,7 @@
             "id": 14,
             "properties": {
                 "name": "Nevada Parking Lot",
-                "timestamp": "2013-08-08T17:23:01.142Z",
+                "timestamp": "2013-08-08T17:27:42.673Z",
                 "bikes": "5",
                 "slots": "4",
                 "marker-color": "#70E588"
@@ -276,10 +276,10 @@
             "id": 15,
             "properties": {
                 "name": "Broadwalk at Jefferson St.",
-                "timestamp": "2013-08-08T17:23:01.144Z",
-                "bikes": "4",
-                "slots": "6",
-                "marker-color": "#FFFF63"
+                "timestamp": "2013-08-08T17:27:42.676Z",
+                "bikes": "6",
+                "slots": "4",
+                "marker-color": "#70E588"
             },
             "geometry": {
                 "type": "Point",
@@ -294,7 +294,7 @@
             "id": 16,
             "properties": {
                 "name": "Pompano Beach City Hall",
-                "timestamp": "2013-08-08T17:23:01.147Z",
+                "timestamp": "2013-08-08T17:27:42.678Z",
                 "bikes": "3",
                 "slots": "2",
                 "marker-color": "#FFFF63"
@@ -312,7 +312,7 @@
             "id": 17,
             "properties": {
                 "name": "Hillsboro Inlet",
-                "timestamp": "2013-08-08T17:23:01.148Z",
+                "timestamp": "2013-08-08T17:27:42.680Z",
                 "bikes": "4",
                 "slots": "3",
                 "marker-color": "#FFFF63"
@@ -330,7 +330,7 @@
             "id": 18,
             "properties": {
                 "name": "Aquatic Center",
-                "timestamp": "2013-08-08T17:23:01.151Z",
+                "timestamp": "2013-08-08T17:27:42.682Z",
                 "bikes": "7",
                 "slots": "4",
                 "marker-color": "#70E588"
@@ -348,7 +348,7 @@
             "id": 19,
             "properties": {
                 "name": "North Ocean Park",
-                "timestamp": "2013-08-08T17:23:01.152Z",
+                "timestamp": "2013-08-08T17:27:42.684Z",
                 "bikes": "4",
                 "slots": "3",
                 "marker-color": "#FFFF63"
@@ -366,7 +366,7 @@
             "id": 20,
             "properties": {
                 "name": "Dania Beach Pier",
-                "timestamp": "2013-08-08T17:23:01.154Z",
+                "timestamp": "2013-08-08T17:27:42.685Z",
                 "bikes": "6",
                 "slots": "4",
                 "marker-color": "#70E588"
@@ -384,7 +384,7 @@
             "id": 21,
             "properties": {
                 "name": "Lauderdale by the Sea",
-                "timestamp": "2013-08-08T17:23:01.156Z",
+                "timestamp": "2013-08-08T17:27:42.687Z",
                 "bikes": "6",
                 "slots": "4",
                 "marker-color": "#70E588"
@@ -402,7 +402,7 @@
             "id": 22,
             "properties": {
                 "name": "Hallandale Beach Water Tower",
-                "timestamp": "2013-08-08T17:23:01.157Z",
+                "timestamp": "2013-08-08T17:27:42.689Z",
                 "bikes": "9",
                 "slots": "2",
                 "marker-color": "#70E588"
@@ -420,7 +420,7 @@
             "id": 23,
             "properties": {
                 "name": "Hollywood North Beach",
-                "timestamp": "2013-08-08T17:23:01.159Z",
+                "timestamp": "2013-08-08T17:27:42.691Z",
                 "bikes": "5",
                 "slots": "6",
                 "marker-color": "#70E588"
@@ -438,7 +438,7 @@
             "id": 24,
             "properties": {
                 "name": "Las Olas & SE 8th Ave",
-                "timestamp": "2013-08-08T17:23:01.161Z",
+                "timestamp": "2013-08-08T17:27:42.693Z",
                 "bikes": "4",
                 "slots": "7",
                 "marker-color": "#FFFF63"
