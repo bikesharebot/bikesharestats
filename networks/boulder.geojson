@@ -6,7 +6,7 @@
             "id": 0,
             "properties": {
                 "name": "33rd & Fisher",
-                "timestamp": "2013-08-08T10:33:05.143Z",
+                "timestamp": "2013-08-08T10:37:48.496Z",
                 "bikes": "6",
                 "slots": "7",
                 "marker-color": "#70E588"
@@ -23,152 +23,8 @@
             "type": "Feature",
             "id": 1,
             "properties": {
-                "name": "10th & Walnut",
-                "timestamp": "2013-08-08T10:33:05.145Z",
-                "bikes": "6",
-                "slots": "5",
-                "marker-color": "#70E588"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -105.2823,
-                    40.0163
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": 2,
-            "properties": {
-                "name": "15th & Pearl",
-                "timestamp": "2013-08-08T10:33:05.147Z",
-                "bikes": "1",
-                "slots": "14",
-                "marker-color": "#FFFF63"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -105.27584,
-                    40.01872
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": 3,
-            "properties": {
-                "name": "11th & Pearl",
-                "timestamp": "2013-08-08T10:33:05.149Z",
-                "bikes": "9",
-                "slots": "6",
-                "marker-color": "#70E588"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -105.28123,
-                    40.01754
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": 4,
-            "properties": {
-                "name": "13th & Spruce",
-                "timestamp": "2013-08-08T10:33:05.150Z",
-                "bikes": "1",
-                "slots": "8",
-                "marker-color": "#FFFF63"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -105.2789,
-                    40.01909
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": 5,
-            "properties": {
-                "name": "UCAR Center Green",
-                "timestamp": "2013-08-08T10:33:05.152Z",
-                "bikes": "3",
-                "slots": "10",
-                "marker-color": "#FFFF63"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -105.24611,
-                    40.03154
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": 6,
-            "properties": {
-                "name": "Library @ Arapahoe",
-                "timestamp": "2013-08-08T10:33:05.155Z",
-                "bikes": "8",
-                "slots": "3",
-                "marker-color": "#70E588"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -105.28087,
-                    40.01377
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": 7,
-            "properties": {
-                "name": "26th @ Pearl",
-                "timestamp": "2013-08-08T10:33:05.158Z",
-                "bikes": "7",
-                "slots": "2",
-                "marker-color": "#70E588"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -105.25984,
-                    40.0216
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": 8,
-            "properties": {
-                "name": "Municipal Building",
-                "timestamp": "2013-08-08T10:33:05.160Z",
-                "bikes": "9",
-                "slots": "0",
-                "marker-color": "#70E588"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -105.27959,
-                    40.01508
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": 9,
-            "properties": {
                 "name": "UCAR Mitchell Lane",
-                "timestamp": "2013-08-08T10:33:05.162Z",
+                "timestamp": "2013-08-08T10:37:48.499Z",
                 "bikes": "4",
                 "slots": "11",
                 "marker-color": "#FFFF63"
@@ -183,10 +39,154 @@
         },
         {
             "type": "Feature",
+            "id": 2,
+            "properties": {
+                "name": "10th & Walnut",
+                "timestamp": "2013-08-08T10:37:48.501Z",
+                "bikes": "6",
+                "slots": "5",
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.2823,
+                    40.0163
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 3,
+            "properties": {
+                "name": "15th & Pearl",
+                "timestamp": "2013-08-08T10:37:48.503Z",
+                "bikes": "1",
+                "slots": "14",
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.27584,
+                    40.01872
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 4,
+            "properties": {
+                "name": "11th & Pearl",
+                "timestamp": "2013-08-08T10:37:48.505Z",
+                "bikes": "9",
+                "slots": "6",
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.28123,
+                    40.01754
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 5,
+            "properties": {
+                "name": "13th & Spruce",
+                "timestamp": "2013-08-08T10:37:48.507Z",
+                "bikes": "1",
+                "slots": "8",
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.2789,
+                    40.01909
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 6,
+            "properties": {
+                "name": "UCAR Center Green",
+                "timestamp": "2013-08-08T10:37:48.509Z",
+                "bikes": "3",
+                "slots": "10",
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.24611,
+                    40.03154
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 7,
+            "properties": {
+                "name": "Library @ Arapahoe",
+                "timestamp": "2013-08-08T10:37:48.512Z",
+                "bikes": "8",
+                "slots": "3",
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.28087,
+                    40.01377
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 8,
+            "properties": {
+                "name": "26th @ Pearl",
+                "timestamp": "2013-08-08T10:37:48.514Z",
+                "bikes": "7",
+                "slots": "2",
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.25984,
+                    40.0216
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 9,
+            "properties": {
+                "name": "Municipal Building",
+                "timestamp": "2013-08-08T10:37:48.517Z",
+                "bikes": "9",
+                "slots": "0",
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.27959,
+                    40.01508
+                ]
+            }
+        },
+        {
+            "type": "Feature",
             "id": 10,
             "properties": {
                 "name": "Broadway & Alpine",
-                "timestamp": "2013-08-08T10:33:05.164Z",
+                "timestamp": "2013-08-08T10:37:48.519Z",
                 "bikes": "3",
                 "slots": "10",
                 "marker-color": "#FFFF63"
@@ -204,7 +204,7 @@
             "id": 11,
             "properties": {
                 "name": "19th @ Boulder Creek",
-                "timestamp": "2013-08-08T10:33:05.165Z",
+                "timestamp": "2013-08-08T10:37:48.521Z",
                 "bikes": "4",
                 "slots": "8",
                 "marker-color": "#FFFF63"
@@ -222,7 +222,7 @@
             "id": 12,
             "properties": {
                 "name": "Twenty Ninth Street South",
-                "timestamp": "2013-08-08T10:33:05.167Z",
+                "timestamp": "2013-08-08T10:37:48.525Z",
                 "bikes": "6",
                 "slots": "3",
                 "marker-color": "#70E588"
@@ -240,7 +240,7 @@
             "id": 13,
             "properties": {
                 "name": "The Village",
-                "timestamp": "2013-08-08T10:33:05.169Z",
+                "timestamp": "2013-08-08T10:37:48.527Z",
                 "bikes": "7",
                 "slots": "7",
                 "marker-color": "#70E588"
@@ -258,7 +258,7 @@
             "id": 14,
             "properties": {
                 "name": "6th & Canyon",
-                "timestamp": "2013-08-08T10:33:05.172Z",
+                "timestamp": "2013-08-08T10:37:48.529Z",
                 "bikes": "8",
                 "slots": "3",
                 "marker-color": "#70E588"
@@ -276,7 +276,7 @@
             "id": 15,
             "properties": {
                 "name": "RTD",
-                "timestamp": "2013-08-08T10:33:05.174Z",
+                "timestamp": "2013-08-08T10:37:48.531Z",
                 "bikes": "13",
                 "slots": "2",
                 "marker-color": "#70E588"
@@ -294,7 +294,7 @@
             "id": 16,
             "properties": {
                 "name": "Wilderness Place",
-                "timestamp": "2013-08-08T10:33:05.175Z",
+                "timestamp": "2013-08-08T10:37:48.533Z",
                 "bikes": "0",
                 "slots": "11",
                 "marker-color": "#F85E35"
@@ -312,7 +312,7 @@
             "id": 17,
             "properties": {
                 "name": "North Boulder Recreation Center",
-                "timestamp": "2013-08-08T10:33:05.177Z",
+                "timestamp": "2013-08-08T10:37:48.536Z",
                 "bikes": "7",
                 "slots": "6",
                 "marker-color": "#70E588"
@@ -330,7 +330,7 @@
             "id": 18,
             "properties": {
                 "name": "Broadway & Euclid",
-                "timestamp": "2013-08-08T10:33:05.179Z",
+                "timestamp": "2013-08-08T10:37:48.539Z",
                 "bikes": "3",
                 "slots": "14",
                 "marker-color": "#FFFF63"
@@ -348,7 +348,7 @@
             "id": 19,
             "properties": {
                 "name": "Broadway & University",
-                "timestamp": "2013-08-08T10:33:05.181Z",
+                "timestamp": "2013-08-08T10:37:48.541Z",
                 "bikes": "8",
                 "slots": "5",
                 "marker-color": "#70E588"
@@ -366,7 +366,7 @@
             "id": 20,
             "properties": {
                 "name": "Broadway & Iris",
-                "timestamp": "2013-08-08T10:33:05.182Z",
+                "timestamp": "2013-08-08T10:37:48.542Z",
                 "bikes": "2",
                 "slots": "11",
                 "marker-color": "#FFFF63"
@@ -384,7 +384,7 @@
             "id": 21,
             "properties": {
                 "name": "Twenty Ninth Street North",
-                "timestamp": "2013-08-08T10:33:05.184Z",
+                "timestamp": "2013-08-08T10:37:48.544Z",
                 "bikes": "9",
                 "slots": "5",
                 "marker-color": "#70E588"
