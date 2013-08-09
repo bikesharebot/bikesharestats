@@ -6,7 +6,7 @@
             "id": 0,
             "properties": {
                 "name": "3rd & Milwaukee",
-                "timestamp": "2013-08-09T06:01:12.281Z",
+                "timestamp": "2013-08-09T06:06:05.811Z",
                 "bikes": "3",
                 "slots": "10",
                 "marker-color": "#FFFF63"
@@ -23,368 +23,8 @@
             "type": "Feature",
             "id": 1,
             "properties": {
-                "name": "Broadway & Walnut",
-                "timestamp": "2013-08-09T06:01:12.282Z",
-                "bikes": "7",
-                "slots": "6",
-                "marker-color": "#70E588"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -104.98736,
-                    39.75822
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": 2,
-            "properties": {
-                "name": "Denver Public Library ",
-                "timestamp": "2013-08-09T06:01:12.284Z",
-                "bikes": "6",
-                "slots": "13",
-                "marker-color": "#70E588"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -104.9887,
-                    39.73713
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": 3,
-            "properties": {
-                "name": "12th & Sherman",
-                "timestamp": "2013-08-09T06:01:12.286Z",
-                "bikes": "3",
-                "slots": "10",
-                "marker-color": "#FFFF63"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -104.98469,
-                    39.7358
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": 4,
-            "properties": {
-                "name": "16th & Sherman",
-                "timestamp": "2013-08-09T06:01:12.287Z",
-                "bikes": "3",
-                "slots": "10",
-                "marker-color": "#FFFF63"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -104.98495,
-                    39.74191
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": 5,
-            "properties": {
-                "name": "Denver Museum of Nature & Science",
-                "timestamp": "2013-08-09T06:01:12.289Z",
-                "bikes": "15",
-                "slots": "6",
-                "marker-color": "#70E588"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -104.94379,
-                    39.74812
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": 6,
-            "properties": {
-                "name": "Denver Zoo",
-                "timestamp": "2013-08-09T06:01:12.291Z",
-                "bikes": "7",
-                "slots": "15",
-                "marker-color": "#70E588"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -104.94933,
-                    39.75054
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": 7,
-            "properties": {
-                "name": "1st & Broadway",
-                "timestamp": "2013-08-09T06:01:12.293Z",
-                "bikes": "14",
-                "slots": "8",
-                "marker-color": "#70E588"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -104.98774,
-                    39.71825
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": 8,
-            "properties": {
-                "name": "Bayaud & Pennsylvania",
-                "timestamp": "2013-08-09T06:01:12.294Z",
-                "bikes": "4",
-                "slots": "7",
-                "marker-color": "#FFFF63"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -104.9812,
-                    39.71481
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": 9,
-            "properties": {
-                "name": "6th & Clarkson",
-                "timestamp": "2013-08-09T06:01:12.296Z",
-                "bikes": "13",
-                "slots": "4",
-                "marker-color": "#70E588"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -104.97789,
-                    39.72569
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": 10,
-            "properties": {
-                "name": "15th & Curtis",
-                "timestamp": "2013-08-09T06:01:12.298Z",
-                "bikes": "0",
-                "slots": "15",
-                "marker-color": "#F85E35"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -104.99592,
-                    39.74641
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": 11,
-            "properties": {
-                "name": "32nd & Julian",
-                "timestamp": "2013-08-09T06:01:12.300Z",
-                "bikes": "11",
-                "slots": "12",
-                "marker-color": "#70E588"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -105.03236,
-                    39.76201
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": 12,
-            "properties": {
-                "name": "Colfax & Gaylord",
-                "timestamp": "2013-08-09T06:01:12.303Z",
-                "bikes": "6",
-                "slots": "9",
-                "marker-color": "#70E588"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -104.96096,
-                    39.73983
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": 13,
-            "properties": {
-                "name": "Colfax & Steele",
-                "timestamp": "2013-08-09T06:01:12.304Z",
-                "bikes": "5",
-                "slots": "17",
-                "marker-color": "#70E588"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -104.95019,
-                    39.74055
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": 14,
-            "properties": {
-                "name": "1551 Lafayette",
-                "timestamp": "2013-08-09T06:01:12.306Z",
-                "bikes": "7",
-                "slots": "10",
-                "marker-color": "#70E588"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -104.97101,
-                    39.74078
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": 15,
-            "properties": {
-                "name": "12th & Columbine",
-                "timestamp": "2013-08-09T06:01:12.308Z",
-                "bikes": "4",
-                "slots": "9",
-                "marker-color": "#FFFF63"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -104.95728,
-                    39.73508
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": 16,
-            "properties": {
-                "name": "13th & Marion",
-                "timestamp": "2013-08-09T06:01:12.310Z",
-                "bikes": "9",
-                "slots": "6",
-                "marker-color": "#70E588"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -104.97191,
-                    39.73662
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": 17,
-            "properties": {
-                "name": "13th & Speer",
-                "timestamp": "2013-08-09T06:01:12.312Z",
-                "bikes": "6",
-                "slots": "11",
-                "marker-color": "#70E588"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -104.99674,
-                    39.73708
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": 18,
-            "properties": {
-                "name": "17th & Pearl",
-                "timestamp": "2013-08-09T06:01:12.314Z",
-                "bikes": "4",
-                "slots": "13",
-                "marker-color": "#FFFF63"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -104.98007,
-                    39.74336
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": 19,
-            "properties": {
-                "name": "23rd & Clay",
-                "timestamp": "2013-08-09T06:01:12.316Z",
-                "bikes": "6",
-                "slots": "7",
-                "marker-color": "#70E588"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -105.0206,
-                    39.75137
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": 20,
-            "properties": {
-                "name": "Colfax & Columbine",
-                "timestamp": "2013-08-09T06:01:12.318Z",
-                "bikes": "5",
-                "slots": "10",
-                "marker-color": "#70E588"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -104.95812,
-                    39.74032
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": 21,
-            "properties": {
                 "name": "9th & Downing",
-                "timestamp": "2013-08-09T06:01:12.320Z",
+                "timestamp": "2013-08-09T06:06:05.813Z",
                 "bikes": "11",
                 "slots": "0",
                 "marker-color": "#70E588"
@@ -399,10 +39,10 @@
         },
         {
             "type": "Feature",
-            "id": 22,
+            "id": 2,
             "properties": {
                 "name": "11th & Broadway",
-                "timestamp": "2013-08-09T06:01:12.322Z",
+                "timestamp": "2013-08-09T06:06:05.815Z",
                 "bikes": "8",
                 "slots": "3",
                 "marker-color": "#70E588"
@@ -417,10 +57,10 @@
         },
         {
             "type": "Feature",
-            "id": 23,
+            "id": 3,
             "properties": {
                 "name": "13th & Pearl",
-                "timestamp": "2013-08-09T06:01:12.324Z",
+                "timestamp": "2013-08-09T06:06:05.816Z",
                 "bikes": "10",
                 "slots": "3",
                 "marker-color": "#70E588"
@@ -435,10 +75,10 @@
         },
         {
             "type": "Feature",
-            "id": 24,
+            "id": 4,
             "properties": {
                 "name": "15th & Cleveland",
-                "timestamp": "2013-08-09T06:01:12.326Z",
+                "timestamp": "2013-08-09T06:06:05.818Z",
                 "bikes": "3",
                 "slots": "8",
                 "marker-color": "#FFFF63"
@@ -453,10 +93,10 @@
         },
         {
             "type": "Feature",
-            "id": 25,
+            "id": 5,
             "properties": {
                 "name": "16th & Boulder",
-                "timestamp": "2013-08-09T06:01:12.327Z",
+                "timestamp": "2013-08-09T06:06:05.820Z",
                 "bikes": "8",
                 "slots": "6",
                 "marker-color": "#70E588"
@@ -471,10 +111,10 @@
         },
         {
             "type": "Feature",
-            "id": 26,
+            "id": 6,
             "properties": {
                 "name": "16th & Little Raven",
-                "timestamp": "2013-08-09T06:01:12.329Z",
+                "timestamp": "2013-08-09T06:06:05.822Z",
                 "bikes": "2",
                 "slots": "11",
                 "marker-color": "#FFFF63"
@@ -489,10 +129,10 @@
         },
         {
             "type": "Feature",
-            "id": 27,
+            "id": 7,
             "properties": {
                 "name": "16th & Platte",
-                "timestamp": "2013-08-09T06:01:12.331Z",
+                "timestamp": "2013-08-09T06:06:05.824Z",
                 "bikes": "10",
                 "slots": "9",
                 "marker-color": "#70E588"
@@ -507,10 +147,10 @@
         },
         {
             "type": "Feature",
-            "id": 28,
+            "id": 8,
             "properties": {
                 "name": "17th & Curtis",
-                "timestamp": "2013-08-09T06:01:12.333Z",
+                "timestamp": "2013-08-09T06:06:05.826Z",
                 "bikes": "6",
                 "slots": "13",
                 "marker-color": "#70E588"
@@ -525,10 +165,10 @@
         },
         {
             "type": "Feature",
-            "id": 29,
+            "id": 9,
             "properties": {
                 "name": "17th & Larimer",
-                "timestamp": "2013-08-09T06:01:12.334Z",
+                "timestamp": "2013-08-09T06:06:05.827Z",
                 "bikes": "6",
                 "slots": "9",
                 "marker-color": "#70E588"
@@ -543,10 +183,10 @@
         },
         {
             "type": "Feature",
-            "id": 30,
+            "id": 10,
             "properties": {
                 "name": "19th & Market",
-                "timestamp": "2013-08-09T06:01:12.336Z",
+                "timestamp": "2013-08-09T06:06:05.829Z",
                 "bikes": "6",
                 "slots": "9",
                 "marker-color": "#70E588"
@@ -561,10 +201,10 @@
         },
         {
             "type": "Feature",
-            "id": 31,
+            "id": 11,
             "properties": {
                 "name": "19th & Pearl",
-                "timestamp": "2013-08-09T06:01:12.337Z",
+                "timestamp": "2013-08-09T06:06:05.831Z",
                 "bikes": "8",
                 "slots": "15",
                 "marker-color": "#70E588"
@@ -579,10 +219,10 @@
         },
         {
             "type": "Feature",
-            "id": 32,
+            "id": 12,
             "properties": {
                 "name": "19th & Wynkoop",
-                "timestamp": "2013-08-09T06:01:12.339Z",
+                "timestamp": "2013-08-09T06:06:05.832Z",
                 "bikes": "6",
                 "slots": "5",
                 "marker-color": "#70E588"
@@ -597,10 +237,10 @@
         },
         {
             "type": "Feature",
-            "id": 33,
+            "id": 13,
             "properties": {
                 "name": "22nd & Market",
-                "timestamp": "2013-08-09T06:01:12.341Z",
+                "timestamp": "2013-08-09T06:06:05.835Z",
                 "bikes": "10",
                 "slots": "3",
                 "marker-color": "#70E588"
@@ -615,10 +255,10 @@
         },
         {
             "type": "Feature",
-            "id": 34,
+            "id": 14,
             "properties": {
                 "name": "25th & Lawrence",
-                "timestamp": "2013-08-09T06:01:12.343Z",
+                "timestamp": "2013-08-09T06:06:05.838Z",
                 "bikes": "4",
                 "slots": "5",
                 "marker-color": "#FFFF63"
@@ -633,10 +273,10 @@
         },
         {
             "type": "Feature",
-            "id": 35,
+            "id": 15,
             "properties": {
                 "name": "28th & Larimer",
-                "timestamp": "2013-08-09T06:01:12.344Z",
+                "timestamp": "2013-08-09T06:06:05.840Z",
                 "bikes": "4",
                 "slots": "5",
                 "marker-color": "#FFFF63"
@@ -651,10 +291,28 @@
         },
         {
             "type": "Feature",
-            "id": 36,
+            "id": 16,
+            "properties": {
+                "name": "Broadway & Walnut",
+                "timestamp": "2013-08-09T06:06:05.842Z",
+                "bikes": "7",
+                "slots": "6",
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -104.98736,
+                    39.75822
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 17,
             "properties": {
                 "name": "Buchtel and High",
-                "timestamp": "2013-08-09T06:01:12.346Z",
+                "timestamp": "2013-08-09T06:06:05.844Z",
                 "bikes": "12",
                 "slots": "7",
                 "marker-color": "#70E588"
@@ -669,10 +327,10 @@
         },
         {
             "type": "Feature",
-            "id": 37,
+            "id": 18,
             "properties": {
                 "name": "Cherry Creek Mall",
-                "timestamp": "2013-08-09T06:01:12.348Z",
+                "timestamp": "2013-08-09T06:06:05.845Z",
                 "bikes": "7",
                 "slots": "8",
                 "marker-color": "#70E588"
@@ -687,10 +345,10 @@
         },
         {
             "type": "Feature",
-            "id": 38,
+            "id": 19,
             "properties": {
                 "name": "Denver Health",
-                "timestamp": "2013-08-09T06:01:12.349Z",
+                "timestamp": "2013-08-09T06:06:05.848Z",
                 "bikes": "9",
                 "slots": "2",
                 "marker-color": "#70E588"
@@ -705,10 +363,10 @@
         },
         {
             "type": "Feature",
-            "id": 39,
+            "id": 20,
             "properties": {
                 "name": "DU Driscoll Center",
-                "timestamp": "2013-08-09T06:01:12.351Z",
+                "timestamp": "2013-08-09T06:06:05.850Z",
                 "bikes": "2",
                 "slots": "13",
                 "marker-color": "#FFFF63"
@@ -723,10 +381,10 @@
         },
         {
             "type": "Feature",
-            "id": 40,
+            "id": 21,
             "properties": {
                 "name": "Ellsworth & Madison",
-                "timestamp": "2013-08-09T06:01:12.353Z",
+                "timestamp": "2013-08-09T06:06:05.852Z",
                 "bikes": "3",
                 "slots": "8",
                 "marker-color": "#FFFF63"
@@ -741,10 +399,10 @@
         },
         {
             "type": "Feature",
-            "id": 41,
+            "id": 22,
             "properties": {
                 "name": "Florida & S. Pearl",
-                "timestamp": "2013-08-09T06:01:12.354Z",
+                "timestamp": "2013-08-09T06:06:05.853Z",
                 "bikes": "6",
                 "slots": "3",
                 "marker-color": "#70E588"
@@ -759,10 +417,10 @@
         },
         {
             "type": "Feature",
-            "id": 42,
+            "id": 23,
             "properties": {
                 "name": "Louisiana / Pearl Light Rail",
-                "timestamp": "2013-08-09T06:01:12.356Z",
+                "timestamp": "2013-08-09T06:06:05.855Z",
                 "bikes": "3",
                 "slots": "12",
                 "marker-color": "#FFFF63"
@@ -777,10 +435,10 @@
         },
         {
             "type": "Feature",
-            "id": 43,
+            "id": 24,
             "properties": {
                 "name": "Market Street Station",
-                "timestamp": "2013-08-09T06:01:12.357Z",
+                "timestamp": "2013-08-09T06:06:05.857Z",
                 "bikes": "12",
                 "slots": "9",
                 "marker-color": "#70E588"
@@ -795,10 +453,10 @@
         },
         {
             "type": "Feature",
-            "id": 44,
+            "id": 25,
             "properties": {
                 "name": "Pepsi Center",
-                "timestamp": "2013-08-09T06:01:12.359Z",
+                "timestamp": "2013-08-09T06:06:05.858Z",
                 "bikes": "3",
                 "slots": "16",
                 "marker-color": "#FFFF63"
@@ -813,10 +471,10 @@
         },
         {
             "type": "Feature",
-            "id": 45,
+            "id": 26,
             "properties": {
                 "name": "REI",
-                "timestamp": "2013-08-09T06:01:12.361Z",
+                "timestamp": "2013-08-09T06:06:05.860Z",
                 "bikes": "10",
                 "slots": "9",
                 "marker-color": "#70E588"
@@ -831,10 +489,10 @@
         },
         {
             "type": "Feature",
-            "id": 46,
+            "id": 27,
             "properties": {
                 "name": "Webb Building",
-                "timestamp": "2013-08-09T06:01:12.363Z",
+                "timestamp": "2013-08-09T06:06:05.862Z",
                 "bikes": "3",
                 "slots": "8",
                 "marker-color": "#FFFF63"
@@ -849,10 +507,10 @@
         },
         {
             "type": "Feature",
-            "id": 47,
+            "id": 28,
             "properties": {
                 "name": "1550 Glenarm",
-                "timestamp": "2013-08-09T06:01:12.364Z",
+                "timestamp": "2013-08-09T06:06:05.864Z",
                 "bikes": "5",
                 "slots": "8",
                 "marker-color": "#70E588"
@@ -867,10 +525,10 @@
         },
         {
             "type": "Feature",
-            "id": 48,
+            "id": 29,
             "properties": {
                 "name": "14th & Welton",
-                "timestamp": "2013-08-09T06:01:12.366Z",
+                "timestamp": "2013-08-09T06:06:05.867Z",
                 "bikes": "10",
                 "slots": "9",
                 "marker-color": "#70E588"
@@ -885,10 +543,10 @@
         },
         {
             "type": "Feature",
-            "id": 49,
+            "id": 30,
             "properties": {
                 "name": "Five Points",
-                "timestamp": "2013-08-09T06:01:12.368Z",
+                "timestamp": "2013-08-09T06:06:05.869Z",
                 "bikes": "4",
                 "slots": "3",
                 "marker-color": "#FFFF63"
@@ -903,10 +561,10 @@
         },
         {
             "type": "Feature",
-            "id": 50,
+            "id": 31,
             "properties": {
                 "name": "Park Ave West & Tremont ",
-                "timestamp": "2013-08-09T06:01:12.369Z",
+                "timestamp": "2013-08-09T06:06:05.871Z",
                 "bikes": "7",
                 "slots": "8",
                 "marker-color": "#70E588"
@@ -921,10 +579,10 @@
         },
         {
             "type": "Feature",
-            "id": 51,
+            "id": 32,
             "properties": {
                 "name": "15th & Delgany",
-                "timestamp": "2013-08-09T06:01:12.371Z",
+                "timestamp": "2013-08-09T06:06:05.873Z",
                 "bikes": "1",
                 "slots": "6",
                 "marker-color": "#FFFF63"
@@ -939,10 +597,10 @@
         },
         {
             "type": "Feature",
-            "id": 52,
+            "id": 33,
             "properties": {
                 "name": "Denver Botanic Gardens",
-                "timestamp": "2013-08-09T06:01:12.373Z",
+                "timestamp": "2013-08-09T06:06:05.874Z",
                 "bikes": "10",
                 "slots": "9",
                 "marker-color": "#70E588"
@@ -957,10 +615,28 @@
         },
         {
             "type": "Feature",
-            "id": 53,
+            "id": 34,
+            "properties": {
+                "name": "Denver Public Library ",
+                "timestamp": "2013-08-09T06:06:05.876Z",
+                "bikes": "6",
+                "slots": "13",
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -104.9887,
+                    39.73713
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 35,
             "properties": {
                 "name": "1350 Larimer",
-                "timestamp": "2013-08-09T06:01:12.374Z",
+                "timestamp": "2013-08-09T06:06:05.878Z",
                 "bikes": "4",
                 "slots": "11",
                 "marker-color": "#FFFF63"
@@ -975,10 +651,10 @@
         },
         {
             "type": "Feature",
-            "id": 54,
+            "id": 36,
             "properties": {
                 "name": "7th & Grant",
-                "timestamp": "2013-08-09T06:01:12.376Z",
+                "timestamp": "2013-08-09T06:06:05.880Z",
                 "bikes": "9",
                 "slots": "6",
                 "marker-color": "#70E588"
@@ -993,10 +669,28 @@
         },
         {
             "type": "Feature",
-            "id": 55,
+            "id": 37,
+            "properties": {
+                "name": "12th & Sherman",
+                "timestamp": "2013-08-09T06:06:05.881Z",
+                "bikes": "3",
+                "slots": "10",
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -104.98469,
+                    39.7358
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 38,
             "properties": {
                 "name": "4th & Walnut",
-                "timestamp": "2013-08-09T06:01:12.378Z",
+                "timestamp": "2013-08-09T06:06:05.883Z",
                 "bikes": "7",
                 "slots": "2",
                 "marker-color": "#70E588"
@@ -1011,10 +705,10 @@
         },
         {
             "type": "Feature",
-            "id": 56,
+            "id": 39,
             "properties": {
                 "name": "1450 Wazee",
-                "timestamp": "2013-08-09T06:01:12.380Z",
+                "timestamp": "2013-08-09T06:06:05.885Z",
                 "bikes": "5",
                 "slots": "6",
                 "marker-color": "#70E588"
@@ -1029,10 +723,10 @@
         },
         {
             "type": "Feature",
-            "id": 57,
+            "id": 40,
             "properties": {
                 "name": "2045 Franklin",
-                "timestamp": "2013-08-09T06:01:12.381Z",
+                "timestamp": "2013-08-09T06:06:05.886Z",
                 "bikes": "5",
                 "slots": "8",
                 "marker-color": "#70E588"
@@ -1047,10 +741,10 @@
         },
         {
             "type": "Feature",
-            "id": 58,
+            "id": 41,
             "properties": {
                 "name": "18th & California",
-                "timestamp": "2013-08-09T06:01:12.383Z",
+                "timestamp": "2013-08-09T06:06:05.888Z",
                 "bikes": "2",
                 "slots": "9",
                 "marker-color": "#FFFF63"
@@ -1065,10 +759,28 @@
         },
         {
             "type": "Feature",
-            "id": 59,
+            "id": 42,
+            "properties": {
+                "name": "16th & Sherman",
+                "timestamp": "2013-08-09T06:06:05.890Z",
+                "bikes": "3",
+                "slots": "10",
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -104.98495,
+                    39.74191
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 43,
             "properties": {
                 "name": "14th & Elati",
-                "timestamp": "2013-08-09T06:01:12.385Z",
+                "timestamp": "2013-08-09T06:06:05.891Z",
                 "bikes": "7",
                 "slots": "4",
                 "marker-color": "#70E588"
@@ -1083,10 +795,10 @@
         },
         {
             "type": "Feature",
-            "id": 60,
+            "id": 44,
             "properties": {
                 "name": "11th & Emerson",
-                "timestamp": "2013-08-09T06:01:12.387Z",
+                "timestamp": "2013-08-09T06:06:05.893Z",
                 "bikes": "10",
                 "slots": "1",
                 "marker-color": "#70E588"
@@ -1101,10 +813,10 @@
         },
         {
             "type": "Feature",
-            "id": 61,
+            "id": 45,
             "properties": {
                 "name": "10th & Osage",
-                "timestamp": "2013-08-09T06:01:12.388Z",
+                "timestamp": "2013-08-09T06:06:05.894Z",
                 "bikes": "8",
                 "slots": "7",
                 "marker-color": "#70E588"
@@ -1119,10 +831,10 @@
         },
         {
             "type": "Feature",
-            "id": 62,
+            "id": 46,
             "properties": {
                 "name": "22nd & Pennsylvania",
-                "timestamp": "2013-08-09T06:01:12.391Z",
+                "timestamp": "2013-08-09T06:06:05.896Z",
                 "bikes": "15",
                 "slots": "0",
                 "marker-color": "#70E588"
@@ -1137,10 +849,10 @@
         },
         {
             "type": "Feature",
-            "id": 63,
+            "id": 47,
             "properties": {
                 "name": "Louisiana & Franklin",
-                "timestamp": "2013-08-09T06:01:12.392Z",
+                "timestamp": "2013-08-09T06:06:05.898Z",
                 "bikes": "11",
                 "slots": "7",
                 "marker-color": "#70E588"
@@ -1155,10 +867,10 @@
         },
         {
             "type": "Feature",
-            "id": 64,
+            "id": 48,
             "properties": {
                 "name": "17th & Blake",
-                "timestamp": "2013-08-09T06:01:12.394Z",
+                "timestamp": "2013-08-09T06:06:05.899Z",
                 "bikes": "8",
                 "slots": "11",
                 "marker-color": "#70E588"
@@ -1173,10 +885,10 @@
         },
         {
             "type": "Feature",
-            "id": 65,
+            "id": 49,
             "properties": {
                 "name": "9th & Santa Fe",
-                "timestamp": "2013-08-09T06:01:12.395Z",
+                "timestamp": "2013-08-09T06:06:05.901Z",
                 "bikes": "7",
                 "slots": "8",
                 "marker-color": "#70E588"
@@ -1191,10 +903,10 @@
         },
         {
             "type": "Feature",
-            "id": 66,
+            "id": 50,
             "properties": {
                 "name": "9th & Curtis",
-                "timestamp": "2013-08-09T06:01:12.397Z",
+                "timestamp": "2013-08-09T06:06:05.902Z",
                 "bikes": "9",
                 "slots": "8",
                 "marker-color": "#70E588"
@@ -1209,10 +921,46 @@
         },
         {
             "type": "Feature",
-            "id": 67,
+            "id": 51,
+            "properties": {
+                "name": "Denver Museum of Nature & Science",
+                "timestamp": "2013-08-09T06:06:05.904Z",
+                "bikes": "15",
+                "slots": "6",
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -104.94379,
+                    39.74812
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 52,
+            "properties": {
+                "name": "Denver Zoo",
+                "timestamp": "2013-08-09T06:06:05.906Z",
+                "bikes": "7",
+                "slots": "15",
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -104.94933,
+                    39.75054
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 53,
             "properties": {
                 "name": "14th & Stout",
-                "timestamp": "2013-08-09T06:01:12.398Z",
+                "timestamp": "2013-08-09T06:06:05.907Z",
                 "bikes": "14",
                 "slots": "9",
                 "marker-color": "#70E588"
@@ -1227,10 +975,64 @@
         },
         {
             "type": "Feature",
-            "id": 68,
+            "id": 54,
+            "properties": {
+                "name": "1st & Broadway",
+                "timestamp": "2013-08-09T06:06:05.909Z",
+                "bikes": "14",
+                "slots": "8",
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -104.98774,
+                    39.71825
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 55,
+            "properties": {
+                "name": "Bayaud & Pennsylvania",
+                "timestamp": "2013-08-09T06:06:05.911Z",
+                "bikes": "4",
+                "slots": "7",
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -104.9812,
+                    39.71481
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 56,
+            "properties": {
+                "name": "6th & Clarkson",
+                "timestamp": "2013-08-09T06:06:05.913Z",
+                "bikes": "13",
+                "slots": "4",
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -104.97789,
+                    39.72569
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 57,
             "properties": {
                 "name": "14th & Ogden",
-                "timestamp": "2013-08-09T06:01:12.401Z",
+                "timestamp": "2013-08-09T06:06:05.915Z",
                 "bikes": "10",
                 "slots": "3",
                 "marker-color": "#70E588"
@@ -1245,10 +1047,28 @@
         },
         {
             "type": "Feature",
-            "id": 69,
+            "id": 58,
+            "properties": {
+                "name": "15th & Curtis",
+                "timestamp": "2013-08-09T06:06:05.916Z",
+                "bikes": "0",
+                "slots": "15",
+                "marker-color": "#F85E35"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -104.99592,
+                    39.74641
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 59,
             "properties": {
                 "name": "20th & Chestnut",
-                "timestamp": "2013-08-09T06:01:12.403Z",
+                "timestamp": "2013-08-09T06:06:05.918Z",
                 "bikes": "7",
                 "slots": "8",
                 "marker-color": "#70E588"
@@ -1263,10 +1083,10 @@
         },
         {
             "type": "Feature",
-            "id": 70,
+            "id": 60,
             "properties": {
                 "name": "32nd & Clay",
-                "timestamp": "2013-08-09T06:01:12.405Z",
+                "timestamp": "2013-08-09T06:06:05.919Z",
                 "bikes": "5",
                 "slots": "13",
                 "marker-color": "#70E588"
@@ -1281,10 +1101,82 @@
         },
         {
             "type": "Feature",
-            "id": 71,
+            "id": 61,
+            "properties": {
+                "name": "32nd & Julian",
+                "timestamp": "2013-08-09T06:06:05.921Z",
+                "bikes": "11",
+                "slots": "12",
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.03236,
+                    39.76201
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 62,
+            "properties": {
+                "name": "Colfax & Gaylord",
+                "timestamp": "2013-08-09T06:06:05.923Z",
+                "bikes": "6",
+                "slots": "9",
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -104.96096,
+                    39.73983
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 63,
+            "properties": {
+                "name": "Colfax & Steele",
+                "timestamp": "2013-08-09T06:06:05.925Z",
+                "bikes": "5",
+                "slots": "17",
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -104.95019,
+                    39.74055
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 64,
+            "properties": {
+                "name": "1551 Lafayette",
+                "timestamp": "2013-08-09T06:06:05.926Z",
+                "bikes": "7",
+                "slots": "10",
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -104.97101,
+                    39.74078
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 65,
             "properties": {
                 "name": "17th & Downing",
-                "timestamp": "2013-08-09T06:01:12.406Z",
+                "timestamp": "2013-08-09T06:06:05.928Z",
                 "bikes": "5",
                 "slots": "10",
                 "marker-color": "#70E588"
@@ -1299,10 +1191,82 @@
         },
         {
             "type": "Feature",
-            "id": 72,
+            "id": 66,
+            "properties": {
+                "name": "12th & Columbine",
+                "timestamp": "2013-08-09T06:06:05.930Z",
+                "bikes": "4",
+                "slots": "9",
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -104.95728,
+                    39.73508
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 67,
+            "properties": {
+                "name": "13th & Marion",
+                "timestamp": "2013-08-09T06:06:05.931Z",
+                "bikes": "9",
+                "slots": "6",
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -104.97191,
+                    39.73662
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 68,
+            "properties": {
+                "name": "13th & Speer",
+                "timestamp": "2013-08-09T06:06:05.933Z",
+                "bikes": "6",
+                "slots": "11",
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -104.99674,
+                    39.73708
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 69,
+            "properties": {
+                "name": "17th & Pearl",
+                "timestamp": "2013-08-09T06:06:05.935Z",
+                "bikes": "4",
+                "slots": "13",
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -104.98007,
+                    39.74336
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 70,
             "properties": {
                 "name": "17th & Race",
-                "timestamp": "2013-08-09T06:01:12.408Z",
+                "timestamp": "2013-08-09T06:06:05.937Z",
                 "bikes": "4",
                 "slots": "11",
                 "marker-color": "#FFFF63"
@@ -1317,10 +1281,10 @@
         },
         {
             "type": "Feature",
-            "id": 73,
+            "id": 71,
             "properties": {
                 "name": "17th & Tejon",
-                "timestamp": "2013-08-09T06:01:12.410Z",
+                "timestamp": "2013-08-09T06:06:05.939Z",
                 "bikes": "6",
                 "slots": "11",
                 "marker-color": "#70E588"
@@ -1335,10 +1299,10 @@
         },
         {
             "type": "Feature",
-            "id": 74,
+            "id": 72,
             "properties": {
                 "name": "18th & Arapahoe",
-                "timestamp": "2013-08-09T06:01:12.412Z",
+                "timestamp": "2013-08-09T06:06:05.940Z",
                 "bikes": "12",
                 "slots": "6",
                 "marker-color": "#70E588"
@@ -1353,10 +1317,28 @@
         },
         {
             "type": "Feature",
-            "id": 75,
+            "id": 73,
+            "properties": {
+                "name": "23rd & Clay",
+                "timestamp": "2013-08-09T06:06:05.942Z",
+                "bikes": "6",
+                "slots": "7",
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.0206,
+                    39.75137
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 74,
             "properties": {
                 "name": "9th & Logan",
-                "timestamp": "2013-08-09T06:01:12.413Z",
+                "timestamp": "2013-08-09T06:06:05.944Z",
                 "bikes": "3",
                 "slots": "12",
                 "marker-color": "#FFFF63"
@@ -1371,10 +1353,10 @@
         },
         {
             "type": "Feature",
-            "id": 76,
+            "id": 75,
             "properties": {
                 "name": "Bayaud & Emerson",
-                "timestamp": "2013-08-09T06:01:12.415Z",
+                "timestamp": "2013-08-09T06:06:05.945Z",
                 "bikes": "7",
                 "slots": "12",
                 "marker-color": "#70E588"
@@ -1389,10 +1371,28 @@
         },
         {
             "type": "Feature",
+            "id": 76,
+            "properties": {
+                "name": "Colfax & Columbine",
+                "timestamp": "2013-08-09T06:06:05.947Z",
+                "bikes": "5",
+                "slots": "10",
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -104.95812,
+                    39.74032
+                ]
+            }
+        },
+        {
+            "type": "Feature",
             "id": 77,
             "properties": {
                 "name": "Union Station Light Rail at 17th",
-                "timestamp": "2013-08-09T06:01:12.417Z",
+                "timestamp": "2013-08-09T06:06:05.949Z",
                 "bikes": "5",
                 "slots": "12",
                 "marker-color": "#70E588"
@@ -1410,7 +1410,7 @@
             "id": 78,
             "properties": {
                 "name": "33rd & Arapahoe",
-                "timestamp": "2013-08-09T06:01:12.418Z",
+                "timestamp": "2013-08-09T06:06:05.951Z",
                 "bikes": "6",
                 "slots": "7",
                 "marker-color": "#70E588"
@@ -1428,7 +1428,7 @@
             "id": 79,
             "properties": {
                 "name": "Colfax & Garfield",
-                "timestamp": "2013-08-09T06:01:12.420Z",
+                "timestamp": "2013-08-09T06:06:05.953Z",
                 "bikes": "4",
                 "slots": "13",
                 "marker-color": "#FFFF63"
