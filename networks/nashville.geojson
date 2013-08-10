@@ -5,314 +5,8 @@
             "type": "Feature",
             "id": 0,
             "properties": {
-                "name": "The District: Commerce & 2nd Ave N",
-                "timestamp": "2013-08-10T08:57:45.998Z",
-                "bikes": "11",
-                "slots": "4",
-                "marker-color": "#70E588"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -86.77612,
-                    36.16309
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": 1,
-            "properties": {
-                "name": "Bank of America Plaza: Deaderick St & 5th Ave N",
-                "timestamp": "2013-08-10T08:57:46.000Z",
-                "bikes": "5",
-                "slots": "4",
-                "marker-color": "#70E588"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -86.78147,
-                    36.16542
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": 2,
-            "properties": {
-                "name": "North Capitol: 4th Ave N & James Robertson Pkwy",
-                "timestamp": "2013-08-10T08:57:46.002Z",
-                "bikes": "8",
-                "slots": "3",
-                "marker-color": "#70E588"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -86.78094,
-                    36.16699
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": 3,
-            "properties": {
-                "name": "Fifth Third Plaza: Church St between 4th & 5th Ave N",
-                "timestamp": "2013-08-10T08:57:46.003Z",
-                "bikes": "4",
-                "slots": "5",
-                "marker-color": "#FFFF63"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -86.77991,
-                    36.16333
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": 4,
-            "properties": {
-                "name": "Public Square: 3rd Ave N & Union St",
-                "timestamp": "2013-08-10T08:57:46.005Z",
-                "bikes": "8",
-                "slots": "5",
-                "marker-color": "#70E588"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -86.77869,
-                    36.16596
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": 5,
-            "properties": {
-                "name": "Riverfront Station: Broadway & 1st Ave N",
-                "timestamp": "2013-08-10T08:57:46.006Z",
-                "bikes": "11",
-                "slots": "4",
-                "marker-color": "#70E588"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -86.77426,
-                    36.16252
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": 6,
-            "properties": {
-                "name": "Cumberland Park: Victory Way at Base of Pedestrian St Bridge",
-                "timestamp": "2013-08-10T08:57:46.008Z",
-                "bikes": "12",
-                "slots": "3",
-                "marker-color": "#70E588"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -86.76942,
-                    36.16401
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": 7,
-            "properties": {
-                "name": "TPAC: 6th Ave N & Union St",
-                "timestamp": "2013-08-10T08:57:46.010Z",
-                "bikes": "7",
-                "slots": "4",
-                "marker-color": "#70E588"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -86.78256,
-                    36.16422
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": 8,
-            "properties": {
-                "name": "The Gulch: 11th Ave S & 12th Ave S",
-                "timestamp": "2013-08-10T08:57:46.013Z",
-                "bikes": "11",
-                "slots": "4",
-                "marker-color": "#70E588"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -86.78407,
-                    36.15206
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": 9,
-            "properties": {
-                "name": "Music Row Roundabout: 16th Ave S",
-                "timestamp": "2013-08-10T08:57:46.015Z",
-                "bikes": "7",
-                "slots": "4",
-                "marker-color": "#70E588"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -86.79151,
-                    36.15236
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": 10,
-            "properties": {
-                "name": "Centennial Park: 27th Ave N",
-                "timestamp": "2013-08-10T08:57:46.016Z",
-                "bikes": "6",
-                "slots": "7",
-                "marker-color": "#70E588"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -86.81247,
-                    36.14731
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": 11,
-            "properties": {
-                "name": "Frist Center: 9th Ave S & Demonbreun St",
-                "timestamp": "2013-08-10T08:57:46.018Z",
-                "bikes": "5",
-                "slots": "6",
-                "marker-color": "#70E588"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -86.78229,
-                    36.15648
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": 12,
-            "properties": {
-                "name": "Fisk/Meharry: Jefferson St & Dr. D.B. Todd Blvd",
-                "timestamp": "2013-08-10T08:57:46.020Z",
-                "bikes": "5",
-                "slots": "4",
-                "marker-color": "#70E588"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -86.80586,
-                    36.1696
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": 13,
-            "properties": {
-                "name": "Hillsboro Village: Wedgewood Ave & 21st Ave S",
-                "timestamp": "2013-08-10T08:57:46.022Z",
-                "bikes": "7",
-                "slots": "8",
-                "marker-color": "#70E588"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -86.80048,
-                    36.13763
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": 14,
-            "properties": {
-                "name": "Rolling Mill Hill: Hermitage Ave & Middleton St",
-                "timestamp": "2013-08-10T08:57:46.023Z",
-                "bikes": "11",
-                "slots": "4",
-                "marker-color": "#70E588"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -86.76664,
-                    36.15587
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": 15,
-            "properties": {
-                "name": "5 Points East Nashville: S 11th St",
-                "timestamp": "2013-08-10T08:57:46.025Z",
-                "bikes": "5",
-                "slots": "5",
-                "marker-color": "#70E588"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -86.75014,
-                    36.17682
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": 16,
-            "properties": {
-                "name": "Walk of Fame Park: Demonbreun St & 5th Ave S",
-                "timestamp": "2013-08-10T08:57:46.026Z",
-                "bikes": "5",
-                "slots": "6",
-                "marker-color": "#70E588"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -86.77722,
-                    36.1589
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": 17,
-            "properties": {
                 "name": "Nashville Farmers' Market: 7th Ave N / Outdoor Food Court",
-                "timestamp": "2013-08-10T08:57:46.028Z",
+                "timestamp": "2013-08-10T09:02:42.677Z",
                 "bikes": "7",
                 "slots": "4",
                 "marker-color": "#70E588"
@@ -327,10 +21,10 @@
         },
         {
             "type": "Feature",
-            "id": 18,
+            "id": 1,
             "properties": {
                 "name": "Germantown: NW 5th Ave & Monroe St",
-                "timestamp": "2013-08-10T08:57:46.031Z",
+                "timestamp": "2013-08-10T09:02:42.680Z",
                 "bikes": "9",
                 "slots": "2",
                 "marker-color": "#70E588"
@@ -345,10 +39,316 @@
         },
         {
             "type": "Feature",
+            "id": 2,
+            "properties": {
+                "name": "The District: Commerce & 2nd Ave N",
+                "timestamp": "2013-08-10T09:02:42.682Z",
+                "bikes": "11",
+                "slots": "4",
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.77612,
+                    36.16309
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 3,
+            "properties": {
+                "name": "Bank of America Plaza: Deaderick St & 5th Ave N",
+                "timestamp": "2013-08-10T09:02:42.685Z",
+                "bikes": "5",
+                "slots": "4",
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.78147,
+                    36.16542
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 4,
+            "properties": {
+                "name": "North Capitol: 4th Ave N & James Robertson Pkwy",
+                "timestamp": "2013-08-10T09:02:42.688Z",
+                "bikes": "8",
+                "slots": "3",
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.78094,
+                    36.16699
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 5,
+            "properties": {
+                "name": "Fifth Third Plaza: Church St between 4th & 5th Ave N",
+                "timestamp": "2013-08-10T09:02:42.690Z",
+                "bikes": "4",
+                "slots": "5",
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.77991,
+                    36.16333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 6,
+            "properties": {
+                "name": "Public Square: 3rd Ave N & Union St",
+                "timestamp": "2013-08-10T09:02:42.692Z",
+                "bikes": "8",
+                "slots": "5",
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.77869,
+                    36.16596
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 7,
+            "properties": {
+                "name": "Riverfront Station: Broadway & 1st Ave N",
+                "timestamp": "2013-08-10T09:02:42.696Z",
+                "bikes": "11",
+                "slots": "4",
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.77426,
+                    36.16252
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 8,
+            "properties": {
+                "name": "Cumberland Park: Victory Way at Base of Pedestrian St Bridge",
+                "timestamp": "2013-08-10T09:02:42.697Z",
+                "bikes": "12",
+                "slots": "3",
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.76942,
+                    36.16401
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 9,
+            "properties": {
+                "name": "TPAC: 6th Ave N & Union St",
+                "timestamp": "2013-08-10T09:02:42.699Z",
+                "bikes": "7",
+                "slots": "4",
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.78256,
+                    36.16422
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 10,
+            "properties": {
+                "name": "The Gulch: 11th Ave S & 12th Ave S",
+                "timestamp": "2013-08-10T09:02:42.701Z",
+                "bikes": "11",
+                "slots": "4",
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.78407,
+                    36.15206
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 11,
+            "properties": {
+                "name": "Music Row Roundabout: 16th Ave S",
+                "timestamp": "2013-08-10T09:02:42.702Z",
+                "bikes": "7",
+                "slots": "4",
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.79151,
+                    36.15236
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 12,
+            "properties": {
+                "name": "Centennial Park: 27th Ave N",
+                "timestamp": "2013-08-10T09:02:42.704Z",
+                "bikes": "6",
+                "slots": "7",
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.81247,
+                    36.14731
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 13,
+            "properties": {
+                "name": "Frist Center: 9th Ave S & Demonbreun St",
+                "timestamp": "2013-08-10T09:02:42.706Z",
+                "bikes": "5",
+                "slots": "6",
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.78229,
+                    36.15648
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 14,
+            "properties": {
+                "name": "Fisk/Meharry: Jefferson St & Dr. D.B. Todd Blvd",
+                "timestamp": "2013-08-10T09:02:42.708Z",
+                "bikes": "5",
+                "slots": "4",
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.80586,
+                    36.1696
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 15,
+            "properties": {
+                "name": "Hillsboro Village: Wedgewood Ave & 21st Ave S",
+                "timestamp": "2013-08-10T09:02:42.709Z",
+                "bikes": "7",
+                "slots": "8",
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.80048,
+                    36.13763
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 16,
+            "properties": {
+                "name": "Rolling Mill Hill: Hermitage Ave & Middleton St",
+                "timestamp": "2013-08-10T09:02:42.711Z",
+                "bikes": "11",
+                "slots": "4",
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.76664,
+                    36.15587
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 17,
+            "properties": {
+                "name": "5 Points East Nashville: S 11th St",
+                "timestamp": "2013-08-10T09:02:42.713Z",
+                "bikes": "5",
+                "slots": "5",
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.75014,
+                    36.17682
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 18,
+            "properties": {
+                "name": "Walk of Fame Park: Demonbreun St & 5th Ave S",
+                "timestamp": "2013-08-10T09:02:42.715Z",
+                "bikes": "5",
+                "slots": "6",
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.77722,
+                    36.1589
+                ]
+            }
+        },
+        {
+            "type": "Feature",
             "id": 19,
             "properties": {
                 "name": "SoBro: 3rd Ave S & Symphony Pl",
-                "timestamp": "2013-08-10T08:57:46.033Z",
+                "timestamp": "2013-08-10T09:02:42.718Z",
                 "bikes": "8",
                 "slots": "3",
                 "marker-color": "#70E588"
@@ -366,7 +366,7 @@
             "id": 20,
             "properties": {
                 "name": "Downtown YMCA: Church St. and 9th Ave. N",
-                "timestamp": "2013-08-10T08:57:46.034Z",
+                "timestamp": "2013-08-10T09:02:42.721Z",
                 "bikes": "7",
                 "slots": "2",
                 "marker-color": "#70E588"
@@ -384,7 +384,7 @@
             "id": 21,
             "properties": {
                 "name": "Tomato Arts Festival",
-                "timestamp": "2013-08-10T08:57:46.036Z",
+                "timestamp": "2013-08-10T09:02:42.724Z",
                 "bikes": "0",
                 "slots": "0",
                 "marker-color": "#F85E35"
