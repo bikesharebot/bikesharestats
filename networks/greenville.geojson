@@ -5,8 +5,26 @@
             "type": "Feature",
             "id": 0,
             "properties": {
+                "name": "County Square",
+                "timestamp": "2013-08-11T00:38:47.996Z",
+                "bikes": "5",
+                "slots": "4",
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.40368,
+                    34.84133
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 1,
+            "properties": {
                 "name": "College & Main",
-                "timestamp": "2013-08-11T00:34:11.333Z",
+                "timestamp": "2013-08-11T00:38:47.998Z",
                 "bikes": "2",
                 "slots": "7",
                 "marker-color": "#FFFF63"
@@ -21,10 +39,10 @@
         },
         {
             "type": "Feature",
-            "id": 1,
+            "id": 2,
             "properties": {
                 "name": "Rhett & River",
-                "timestamp": "2013-08-11T00:34:11.335Z",
+                "timestamp": "2013-08-11T00:38:48.001Z",
                 "bikes": "7",
                 "slots": "2",
                 "marker-color": "#70E588"
@@ -39,10 +57,10 @@
         },
         {
             "type": "Feature",
-            "id": 2,
+            "id": 3,
             "properties": {
                 "name": "City Hall",
-                "timestamp": "2013-08-11T00:34:11.337Z",
+                "timestamp": "2013-08-11T00:38:48.004Z",
                 "bikes": "6",
                 "slots": "1",
                 "marker-color": "#70E588"
@@ -57,10 +75,10 @@
         },
         {
             "type": "Feature",
-            "id": 3,
+            "id": 4,
             "properties": {
                 "name": "Sterling Community Center",
-                "timestamp": "2013-08-11T00:34:11.338Z",
+                "timestamp": "2013-08-11T00:38:48.006Z",
                 "bikes": "3",
                 "slots": "6",
                 "marker-color": "#FFFF63"
@@ -75,10 +93,10 @@
         },
         {
             "type": "Feature",
-            "id": 4,
+            "id": 5,
             "properties": {
                 "name": "Transit Center",
-                "timestamp": "2013-08-11T00:34:11.340Z",
+                "timestamp": "2013-08-11T00:38:48.008Z",
                 "bikes": "2",
                 "slots": "7",
                 "marker-color": "#FFFF63"
@@ -88,24 +106,6 @@
                 "coordinates": [
                     -82.40107,
                     34.85028
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": 5,
-            "properties": {
-                "name": "County Square",
-                "timestamp": "2013-08-11T00:34:11.341Z",
-                "bikes": "5",
-                "slots": "4",
-                "marker-color": "#70E588"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -82.40368,
-                    34.84133
                 ]
             }
         }
