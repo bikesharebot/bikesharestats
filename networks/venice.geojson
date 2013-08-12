@@ -1,4 +1,329 @@
 {
     "type": "FeatureCollection",
-    "features": []
+    "features": [
+        {
+            "type": "Feature",
+            "id": 0,
+            "properties": {
+                "name": "Stazione",
+                "timestamp": "2013-08-12T17:04:47.840Z",
+                "bikes": 9,
+                "slots": 16,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.232182,
+                    45.482551
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 1,
+            "properties": {
+                "name": "Sicilia",
+                "timestamp": "2013-08-12T17:04:47.840Z",
+                "bikes": 2,
+                "slots": 13,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.238866,
+                    45.491396
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 2,
+            "properties": {
+                "name": "Cialdini",
+                "timestamp": "2013-08-12T17:04:47.840Z",
+                "bikes": 4,
+                "slots": 6,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.246204,
+                    45.493538
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 3,
+            "properties": {
+                "name": "Circonvallazione",
+                "timestamp": "2013-08-12T17:04:47.840Z",
+                "bikes": 4,
+                "slots": 4,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.236103,
+                    45.496541
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 4,
+            "properties": {
+                "name": "Ulloa FS",
+                "timestamp": "2013-08-12T17:04:47.840Z",
+                "bikes": 2,
+                "slots": 8,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.230497,
+                    45.479978
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 5,
+            "properties": {
+                "name": "Santa Maria dei Battuti",
+                "timestamp": "2013-08-12T17:04:47.840Z",
+                "bikes": 4,
+                "slots": 6,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.245357,
+                    45.503083
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 6,
+            "properties": {
+                "name": "C.so del Popolo",
+                "timestamp": "2013-08-12T17:04:47.840Z",
+                "bikes": 3,
+                "slots": 6,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.244842,
+                    45.490658
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 7,
+            "properties": {
+                "name": "Piazza del Municipio",
+                "timestamp": "2013-08-12T17:04:47.840Z",
+                "bikes": 4,
+                "slots": 6,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.224693,
+                    45.475886
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 8,
+            "properties": {
+                "name": "San Girolamo",
+                "timestamp": "2013-08-12T17:04:47.840Z",
+                "bikes": 1,
+                "slots": 11,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.243484,
+                    45.494935
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 9,
+            "properties": {
+                "name": "San Giuliano",
+                "timestamp": "2013-08-12T17:04:47.840Z",
+                "bikes": 3,
+                "slots": 6,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.262201,
+                    45.480926
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 10,
+            "properties": {
+                "name": "Carbonifera",
+                "timestamp": "2013-08-12T17:04:47.840Z",
+                "bikes": 1,
+                "slots": 17,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.250785,
+                    45.484447
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 11,
+            "properties": {
+                "name": "Carpenedo",
+                "timestamp": "2013-08-12T17:04:47.840Z",
+                "bikes": 4,
+                "slots": 4,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.250439,
+                    45.504838
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 12,
+            "properties": {
+                "name": "Da Vinci",
+                "timestamp": "2013-08-12T17:04:47.840Z",
+                "bikes": 0,
+                "slots": 10,
+                "marker-color": "#F85E35"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.238748,
+                    45.488508
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 13,
+            "properties": {
+                "name": "Casona",
+                "timestamp": "2013-08-12T17:04:47.840Z",
+                "bikes": 7,
+                "slots": 2,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.264872,
+                    45.497067
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 14,
+            "properties": {
+                "name": "Candiani",
+                "timestamp": "2013-08-12T17:04:47.840Z",
+                "bikes": 1,
+                "slots": 8,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.239413,
+                    45.494954
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 15,
+            "properties": {
+                "name": "Castellana A",
+                "timestamp": "2013-08-12T17:04:47.840Z",
+                "bikes": 1,
+                "slots": 11,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.231377,
+                    45.498458
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 16,
+            "properties": {
+                "name": "Santa Maria Elisabetta",
+                "timestamp": "2013-08-12T17:04:47.840Z",
+                "bikes": 7,
+                "slots": 8,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.368116,
+                    45.417069
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 17,
+            "properties": {
+                "name": "Palazzo del Cinema",
+                "timestamp": "2013-08-12T17:04:47.840Z",
+                "bikes": 8,
+                "slots": 4,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.36597,
+                    45.406193
+                ]
+            }
+        }
+    ]
 }
