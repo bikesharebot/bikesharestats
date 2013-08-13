@@ -5,44 +5,8 @@
             "type": "Feature",
             "id": 0,
             "properties": {
-                "name": "8th & Pleasant ",
-                "timestamp": "2013-08-13T03:59:22.952Z",
-                "bikes": "3",
-                "slots": "7",
-                "marker-color": "#FFFF63"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -93.62809,
-                    41.58856
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": 1,
-            "properties": {
-                "name": "Brenton Skating Plaza ",
-                "timestamp": "2013-08-13T03:59:22.953Z",
-                "bikes": "3",
-                "slots": "7",
-                "marker-color": "#FFFF63"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -93.61679,
-                    41.58874
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": 2,
-            "properties": {
                 "name": "7th & Grand ",
-                "timestamp": "2013-08-13T03:59:22.955Z",
+                "timestamp": "2013-08-13T04:04:05.631Z",
                 "bikes": "3",
                 "slots": "3",
                 "marker-color": "#FFFF63"
@@ -57,10 +21,64 @@
         },
         {
             "type": "Feature",
+            "id": 1,
+            "properties": {
+                "name": "8th & Pleasant ",
+                "timestamp": "2013-08-13T04:04:05.632Z",
+                "bikes": "3",
+                "slots": "7",
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -93.62809,
+                    41.58856
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 2,
+            "properties": {
+                "name": "2nd & Court",
+                "timestamp": "2013-08-13T04:04:05.635Z",
+                "bikes": "9",
+                "slots": "4",
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -93.61905,
+                    41.58574
+                ]
+            }
+        },
+        {
+            "type": "Feature",
             "id": 3,
             "properties": {
+                "name": "Brenton Skating Plaza ",
+                "timestamp": "2013-08-13T04:04:05.637Z",
+                "bikes": "3",
+                "slots": "7",
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -93.61679,
+                    41.58874
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 4,
+            "properties": {
                 "name": "13th & Grand ",
-                "timestamp": "2013-08-13T03:59:22.957Z",
+                "timestamp": "2013-08-13T04:04:05.638Z",
                 "bikes": "6",
                 "slots": "3",
                 "marker-color": "#70E588"
@@ -75,10 +93,10 @@
         },
         {
             "type": "Feature",
-            "id": 4,
+            "id": 5,
             "properties": {
                 "name": "DART Central Station",
-                "timestamp": "2013-08-13T03:59:22.958Z",
+                "timestamp": "2013-08-13T04:04:05.640Z",
                 "bikes": "10",
                 "slots": "5",
                 "marker-color": "#70E588"
@@ -88,24 +106,6 @@
                 "coordinates": [
                     -93.62457,
                     41.58388
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": 5,
-            "properties": {
-                "name": "2nd & Court",
-                "timestamp": "2013-08-13T03:59:22.960Z",
-                "bikes": "9",
-                "slots": "4",
-                "marker-color": "#70E588"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -93.61905,
-                    41.58574
                 ]
             }
         }
