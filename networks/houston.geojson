@@ -5,62 +5,8 @@
             "type": "Feature",
             "id": 0,
             "properties": {
-                "name": "Milam & Capitol",
-                "timestamp": "2013-08-13T16:01:59.371Z",
-                "bikes": "0",
-                "slots": "9",
-                "marker-color": "#F85E35"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -95.36491,
-                    29.76013
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": 1,
-            "properties": {
-                "name": "City Hall",
-                "timestamp": "2013-08-13T16:01:59.373Z",
-                "bikes": "7",
-                "slots": "4",
-                "marker-color": "#70E588"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -95.36949,
-                    29.75983
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": 2,
-            "properties": {
-                "name": "Market Square",
-                "timestamp": "2013-08-13T16:01:59.375Z",
-                "bikes": "8",
-                "slots": "2",
-                "marker-color": "#70E588"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -95.36189,
-                    29.76289
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": 3,
-            "properties": {
                 "name": "GRB",
-                "timestamp": "2013-08-13T16:01:59.376Z",
+                "timestamp": "2013-08-13T16:06:55.570Z",
                 "bikes": "7",
                 "slots": "4",
                 "marker-color": "#70E588"
@@ -75,10 +21,64 @@
         },
         {
             "type": "Feature",
+            "id": 1,
+            "properties": {
+                "name": "Milam & Capitol",
+                "timestamp": "2013-08-13T16:06:55.573Z",
+                "bikes": "0",
+                "slots": "9",
+                "marker-color": "#F85E35"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.36491,
+                    29.76013
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 2,
+            "properties": {
+                "name": "City Hall",
+                "timestamp": "2013-08-13T16:06:55.576Z",
+                "bikes": "7",
+                "slots": "4",
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.36949,
+                    29.75983
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 3,
+            "properties": {
+                "name": "Market Square",
+                "timestamp": "2013-08-13T16:06:55.578Z",
+                "bikes": "8",
+                "slots": "2",
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.36189,
+                    29.76289
+                ]
+            }
+        },
+        {
+            "type": "Feature",
             "id": 4,
             "properties": {
                 "name": "Tellepsen YMCA",
-                "timestamp": "2013-08-13T16:01:59.378Z",
+                "timestamp": "2013-08-13T16:06:55.580Z",
                 "bikes": "7",
                 "slots": "3",
                 "marker-color": "#70E588"
@@ -96,7 +96,7 @@
             "id": 5,
             "properties": {
                 "name": "Ensemble/HCC Station",
-                "timestamp": "2013-08-13T16:01:59.380Z",
+                "timestamp": "2013-08-13T16:06:55.582Z",
                 "bikes": "8",
                 "slots": "6",
                 "marker-color": "#70E588"
@@ -114,7 +114,7 @@
             "id": 6,
             "properties": {
                 "name": "Herman Park Lake Plaza",
-                "timestamp": "2013-08-13T16:01:59.382Z",
+                "timestamp": "2013-08-13T16:06:55.584Z",
                 "bikes": "8",
                 "slots": "5",
                 "marker-color": "#70E588"
@@ -132,7 +132,7 @@
             "id": 7,
             "properties": {
                 "name": "Smith & Capitol",
-                "timestamp": "2013-08-13T16:01:59.384Z",
+                "timestamp": "2013-08-13T16:06:55.585Z",
                 "bikes": "8",
                 "slots": "7",
                 "marker-color": "#70E588"
@@ -150,7 +150,7 @@
             "id": 8,
             "properties": {
                 "name": "Lamar & Milam",
-                "timestamp": "2013-08-13T16:01:59.385Z",
+                "timestamp": "2013-08-13T16:06:55.588Z",
                 "bikes": "10",
                 "slots": "4",
                 "marker-color": "#70E588"
@@ -168,7 +168,7 @@
             "id": 9,
             "properties": {
                 "name": "Main & Dallas",
-                "timestamp": "2013-08-13T16:01:59.387Z",
+                "timestamp": "2013-08-13T16:06:55.590Z",
                 "bikes": "9",
                 "slots": "4",
                 "marker-color": "#70E588"
@@ -186,7 +186,7 @@
             "id": 10,
             "properties": {
                 "name": "La Branch & Lamar",
-                "timestamp": "2013-08-13T16:01:59.389Z",
+                "timestamp": "2013-08-13T16:06:55.591Z",
                 "bikes": "8",
                 "slots": "3",
                 "marker-color": "#70E588"
@@ -204,7 +204,7 @@
             "id": 11,
             "properties": {
                 "name": "McKinney & Caroline",
-                "timestamp": "2013-08-13T16:01:59.391Z",
+                "timestamp": "2013-08-13T16:06:55.593Z",
                 "bikes": "8",
                 "slots": "7",
                 "marker-color": "#70E588"
@@ -222,7 +222,7 @@
             "id": 12,
             "properties": {
                 "name": "UHD/Main & Franklin",
-                "timestamp": "2013-08-13T16:01:59.394Z",
+                "timestamp": "2013-08-13T16:06:55.595Z",
                 "bikes": "6",
                 "slots": "5",
                 "marker-color": "#70E588"
@@ -240,7 +240,7 @@
             "id": 13,
             "properties": {
                 "name": "Rusk & St. Emanuel ",
-                "timestamp": "2013-08-13T16:01:59.396Z",
+                "timestamp": "2013-08-13T16:06:55.596Z",
                 "bikes": "5",
                 "slots": "4",
                 "marker-color": "#70E588"
@@ -258,7 +258,7 @@
             "id": 14,
             "properties": {
                 "name": "West Gray & Baldwin",
-                "timestamp": "2013-08-13T16:01:59.397Z",
+                "timestamp": "2013-08-13T16:06:55.598Z",
                 "bikes": "4",
                 "slots": "7",
                 "marker-color": "#FFFF63"
@@ -276,7 +276,7 @@
             "id": 15,
             "properties": {
                 "name": "Milam at Elgin ",
-                "timestamp": "2013-08-13T16:01:59.399Z",
+                "timestamp": "2013-08-13T16:06:55.600Z",
                 "bikes": "8",
                 "slots": "3",
                 "marker-color": "#70E588"
@@ -294,7 +294,7 @@
             "id": 16,
             "properties": {
                 "name": "Westheimer & Waugh",
-                "timestamp": "2013-08-13T16:01:59.401Z",
+                "timestamp": "2013-08-13T16:06:55.601Z",
                 "bikes": "12",
                 "slots": "2",
                 "marker-color": "#70E588"
@@ -312,7 +312,7 @@
             "id": 17,
             "properties": {
                 "name": "Freed Library ",
-                "timestamp": "2013-08-13T16:01:59.402Z",
+                "timestamp": "2013-08-13T16:06:55.604Z",
                 "bikes": "6",
                 "slots": "3",
                 "marker-color": "#70E588"
@@ -330,7 +330,7 @@
             "id": 18,
             "properties": {
                 "name": "MFAH/ Fannin & Binz",
-                "timestamp": "2013-08-13T16:01:59.404Z",
+                "timestamp": "2013-08-13T16:06:55.606Z",
                 "bikes": "10",
                 "slots": "3",
                 "marker-color": "#70E588"
@@ -348,7 +348,7 @@
             "id": 19,
             "properties": {
                 "name": "METRO Transit Center ",
-                "timestamp": "2013-08-13T16:01:59.405Z",
+                "timestamp": "2013-08-13T16:06:55.608Z",
                 "bikes": "7",
                 "slots": "4",
                 "marker-color": "#70E588"
@@ -366,7 +366,7 @@
             "id": 20,
             "properties": {
                 "name": "Sabine Bridge ",
-                "timestamp": "2013-08-13T16:01:59.407Z",
+                "timestamp": "2013-08-13T16:06:55.609Z",
                 "bikes": "5",
                 "slots": "4",
                 "marker-color": "#70E588"
@@ -384,7 +384,7 @@
             "id": 21,
             "properties": {
                 "name": "Dallas & Smith",
-                "timestamp": "2013-08-13T16:01:59.408Z",
+                "timestamp": "2013-08-13T16:06:55.611Z",
                 "bikes": "11",
                 "slots": "2",
                 "marker-color": "#70E588"
