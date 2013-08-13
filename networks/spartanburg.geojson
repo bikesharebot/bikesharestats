@@ -6,7 +6,7 @@
             "id": 0,
             "properties": {
                 "name": "Morgan Square",
-                "timestamp": "2013-08-13T08:00:14.869Z",
+                "timestamp": "2013-08-13T08:04:50.193Z",
                 "bikes": "6",
                 "slots": "3",
                 "marker-color": "#70E588"
@@ -23,26 +23,8 @@
             "type": "Feature",
             "id": 1,
             "properties": {
-                "name": "Converse College",
-                "timestamp": "2013-08-13T08:00:14.877Z",
-                "bikes": "8",
-                "slots": "3",
-                "marker-color": "#70E588"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -81.91928,
-                    34.95618
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": 2,
-            "properties": {
                 "name": "Rail Trail",
-                "timestamp": "2013-08-13T08:00:14.894Z",
+                "timestamp": "2013-08-13T08:04:50.195Z",
                 "bikes": "6",
                 "slots": "5",
                 "marker-color": "#70E588"
@@ -57,10 +39,10 @@
         },
         {
             "type": "Feature",
-            "id": 3,
+            "id": 2,
             "properties": {
                 "name": "Wofford College",
-                "timestamp": "2013-08-13T08:00:14.897Z",
+                "timestamp": "2013-08-13T08:04:50.197Z",
                 "bikes": "8",
                 "slots": "3",
                 "marker-color": "#70E588"
@@ -70,6 +52,24 @@
                 "coordinates": [
                     -81.93861,
                     34.96023
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 3,
+            "properties": {
+                "name": "Converse College",
+                "timestamp": "2013-08-13T08:04:50.199Z",
+                "bikes": "8",
+                "slots": "3",
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.91928,
+                    34.95618
                 ]
             }
         }
