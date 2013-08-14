@@ -5,296 +5,8 @@
             "type": "Feature",
             "id": 0,
             "properties": {
-                "name": "Market Square",
-                "timestamp": "2013-08-14T04:59:18.697Z",
-                "bikes": "5",
-                "slots": "5",
-                "marker-color": "#70E588"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -95.36189,
-                    29.76289
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": 1,
-            "properties": {
-                "name": "Tellepsen YMCA",
-                "timestamp": "2013-08-14T04:59:18.699Z",
-                "bikes": "6",
-                "slots": "4",
-                "marker-color": "#70E588"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -95.37064,
-                    29.75287
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": 2,
-            "properties": {
-                "name": "Ensemble/HCC Station",
-                "timestamp": "2013-08-14T04:59:18.701Z",
-                "bikes": "9",
-                "slots": "5",
-                "marker-color": "#70E588"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -95.37918,
-                    29.73932
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": 3,
-            "properties": {
-                "name": "Herman Park Lake Plaza",
-                "timestamp": "2013-08-14T04:59:18.703Z",
-                "bikes": "9",
-                "slots": "4",
-                "marker-color": "#70E588"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -95.38939,
-                    29.71672
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": 4,
-            "properties": {
-                "name": "Smith & Capitol",
-                "timestamp": "2013-08-14T04:59:18.705Z",
-                "bikes": "10",
-                "slots": "5",
-                "marker-color": "#70E588"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -95.36647,
-                    29.7617
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": 5,
-            "properties": {
-                "name": "Lamar & Milam",
-                "timestamp": "2013-08-14T04:59:18.706Z",
-                "bikes": "10",
-                "slots": "4",
-                "marker-color": "#70E588"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -95.36762,
-                    29.75737
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": 6,
-            "properties": {
-                "name": "Main & Dallas",
-                "timestamp": "2013-08-14T04:59:18.709Z",
-                "bikes": "9",
-                "slots": "4",
-                "marker-color": "#70E588"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -95.36626,
-                    29.75521
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": 7,
-            "properties": {
-                "name": "La Branch & Lamar",
-                "timestamp": "2013-08-14T04:59:18.711Z",
-                "bikes": "7",
-                "slots": "4",
-                "marker-color": "#70E588"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -95.36119,
-                    29.75396
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": 8,
-            "properties": {
-                "name": "UHD/Main & Franklin",
-                "timestamp": "2013-08-14T04:59:18.712Z",
-                "bikes": "7",
-                "slots": "4",
-                "marker-color": "#70E588"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -95.35996,
-                    29.76318
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": 9,
-            "properties": {
-                "name": "Rusk & St. Emanuel ",
-                "timestamp": "2013-08-14T04:59:18.714Z",
-                "bikes": "5",
-                "slots": "4",
-                "marker-color": "#70E588"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -95.35408,
-                    29.75296
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": 10,
-            "properties": {
-                "name": "Milam at Elgin ",
-                "timestamp": "2013-08-14T04:59:18.715Z",
-                "bikes": "8",
-                "slots": "3",
-                "marker-color": "#70E588"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -95.37854,
-                    29.74322
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": 11,
-            "properties": {
-                "name": "Westheimer & Waugh",
-                "timestamp": "2013-08-14T04:59:18.717Z",
-                "bikes": "10",
-                "slots": "4",
-                "marker-color": "#70E588"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -95.39273,
-                    29.74483
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": 12,
-            "properties": {
-                "name": "MFAH/ Fannin & Binz",
-                "timestamp": "2013-08-14T04:59:18.719Z",
-                "bikes": "11",
-                "slots": "2",
-                "marker-color": "#70E588"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -95.38913,
-                    29.72497
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": 13,
-            "properties": {
-                "name": "Sabine Bridge ",
-                "timestamp": "2013-08-14T04:59:18.722Z",
-                "bikes": "7",
-                "slots": "2",
-                "marker-color": "#70E588"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -95.37575,
-                    29.76341
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": 14,
-            "properties": {
-                "name": "Milam & Capitol",
-                "timestamp": "2013-08-14T04:59:18.724Z",
-                "bikes": "0",
-                "slots": "9",
-                "marker-color": "#F85E35"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -95.36491,
-                    29.76013
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": 15,
-            "properties": {
-                "name": "METRO Transit Center ",
-                "timestamp": "2013-08-14T04:59:18.727Z",
-                "bikes": "8",
-                "slots": "3",
-                "marker-color": "#70E588"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -95.37068,
-                    29.75013
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": 16,
-            "properties": {
                 "name": "City Hall",
-                "timestamp": "2013-08-14T04:59:18.729Z",
+                "timestamp": "2013-08-14T05:04:24.889Z",
                 "bikes": "6",
                 "slots": "5",
                 "marker-color": "#70E588"
@@ -309,10 +21,28 @@
         },
         {
             "type": "Feature",
-            "id": 17,
+            "id": 1,
+            "properties": {
+                "name": "Market Square",
+                "timestamp": "2013-08-14T05:04:24.891Z",
+                "bikes": "5",
+                "slots": "5",
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.36189,
+                    29.76289
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 2,
             "properties": {
                 "name": "GRB",
-                "timestamp": "2013-08-14T04:59:18.731Z",
+                "timestamp": "2013-08-14T05:04:24.893Z",
                 "bikes": "6",
                 "slots": "5",
                 "marker-color": "#70E588"
@@ -327,10 +57,136 @@
         },
         {
             "type": "Feature",
-            "id": 18,
+            "id": 3,
+            "properties": {
+                "name": "Tellepsen YMCA",
+                "timestamp": "2013-08-14T05:04:24.895Z",
+                "bikes": "6",
+                "slots": "4",
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.37064,
+                    29.75287
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 4,
+            "properties": {
+                "name": "Ensemble/HCC Station",
+                "timestamp": "2013-08-14T05:04:24.897Z",
+                "bikes": "9",
+                "slots": "5",
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.37918,
+                    29.73932
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 5,
+            "properties": {
+                "name": "Herman Park Lake Plaza",
+                "timestamp": "2013-08-14T05:04:24.899Z",
+                "bikes": "9",
+                "slots": "4",
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.38939,
+                    29.71672
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 6,
+            "properties": {
+                "name": "Smith & Capitol",
+                "timestamp": "2013-08-14T05:04:24.901Z",
+                "bikes": "10",
+                "slots": "5",
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.36647,
+                    29.7617
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 7,
+            "properties": {
+                "name": "Lamar & Milam",
+                "timestamp": "2013-08-14T05:04:24.902Z",
+                "bikes": "10",
+                "slots": "4",
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.36762,
+                    29.75737
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 8,
+            "properties": {
+                "name": "Main & Dallas",
+                "timestamp": "2013-08-14T05:04:24.904Z",
+                "bikes": "9",
+                "slots": "4",
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.36626,
+                    29.75521
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 9,
+            "properties": {
+                "name": "La Branch & Lamar",
+                "timestamp": "2013-08-14T05:04:24.906Z",
+                "bikes": "7",
+                "slots": "4",
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.36119,
+                    29.75396
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 10,
             "properties": {
                 "name": "McKinney & Caroline",
-                "timestamp": "2013-08-14T04:59:18.733Z",
+                "timestamp": "2013-08-14T05:04:24.907Z",
                 "bikes": "6",
                 "slots": "9",
                 "marker-color": "#70E588"
@@ -345,10 +201,46 @@
         },
         {
             "type": "Feature",
-            "id": 19,
+            "id": 11,
+            "properties": {
+                "name": "UHD/Main & Franklin",
+                "timestamp": "2013-08-14T05:04:24.909Z",
+                "bikes": "7",
+                "slots": "4",
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.35996,
+                    29.76318
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 12,
+            "properties": {
+                "name": "Rusk & St. Emanuel ",
+                "timestamp": "2013-08-14T05:04:24.910Z",
+                "bikes": "5",
+                "slots": "4",
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.35408,
+                    29.75296
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 13,
             "properties": {
                 "name": "West Gray & Baldwin",
-                "timestamp": "2013-08-14T04:59:18.734Z",
+                "timestamp": "2013-08-14T05:04:24.912Z",
                 "bikes": "9",
                 "slots": "2",
                 "marker-color": "#70E588"
@@ -363,10 +255,46 @@
         },
         {
             "type": "Feature",
-            "id": 20,
+            "id": 14,
+            "properties": {
+                "name": "Milam at Elgin ",
+                "timestamp": "2013-08-14T05:04:24.913Z",
+                "bikes": "8",
+                "slots": "3",
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.37854,
+                    29.74322
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 15,
+            "properties": {
+                "name": "Westheimer & Waugh",
+                "timestamp": "2013-08-14T05:04:24.915Z",
+                "bikes": "10",
+                "slots": "4",
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.39273,
+                    29.74483
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 16,
             "properties": {
                 "name": "Freed Library ",
-                "timestamp": "2013-08-14T04:59:18.736Z",
+                "timestamp": "2013-08-14T05:04:24.916Z",
                 "bikes": "6",
                 "slots": "3",
                 "marker-color": "#70E588"
@@ -381,10 +309,82 @@
         },
         {
             "type": "Feature",
+            "id": 17,
+            "properties": {
+                "name": "MFAH/ Fannin & Binz",
+                "timestamp": "2013-08-14T05:04:24.918Z",
+                "bikes": "11",
+                "slots": "2",
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.38913,
+                    29.72497
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 18,
+            "properties": {
+                "name": "METRO Transit Center ",
+                "timestamp": "2013-08-14T05:04:24.920Z",
+                "bikes": "8",
+                "slots": "3",
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.37068,
+                    29.75013
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 19,
+            "properties": {
+                "name": "Sabine Bridge ",
+                "timestamp": "2013-08-14T05:04:24.922Z",
+                "bikes": "7",
+                "slots": "2",
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.37575,
+                    29.76341
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 20,
+            "properties": {
+                "name": "Milam & Capitol",
+                "timestamp": "2013-08-14T05:04:24.923Z",
+                "bikes": "0",
+                "slots": "9",
+                "marker-color": "#F85E35"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.36491,
+                    29.76013
+                ]
+            }
+        },
+        {
+            "type": "Feature",
             "id": 21,
             "properties": {
                 "name": "Dallas & Smith",
-                "timestamp": "2013-08-14T04:59:18.737Z",
+                "timestamp": "2013-08-14T05:04:24.925Z",
                 "bikes": "9",
                 "slots": "4",
                 "marker-color": "#70E588"
