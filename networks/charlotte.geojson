@@ -5,26 +5,8 @@
             "type": "Feature",
             "id": 0,
             "properties": {
-                "name": "Convention Center",
-                "timestamp": "2013-08-16T23:36:01.507Z",
-                "bikes": "1",
-                "slots": "13",
-                "marker-color": "#FFFF63"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -80.84631,
-                    35.2232
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": 1,
-            "properties": {
                 "name": "7th St. Public Market",
-                "timestamp": "2013-08-16T23:36:01.509Z",
+                "timestamp": "2013-08-16T23:40:44.562Z",
                 "bikes": "8",
                 "slots": "8",
                 "marker-color": "#70E588"
@@ -39,10 +21,10 @@
         },
         {
             "type": "Feature",
-            "id": 2,
+            "id": 1,
             "properties": {
                 "name": "Trade & Tryon",
-                "timestamp": "2013-08-16T23:36:01.510Z",
+                "timestamp": "2013-08-16T23:40:44.564Z",
                 "bikes": "9",
                 "slots": "10",
                 "marker-color": "#70E588"
@@ -57,10 +39,10 @@
         },
         {
             "type": "Feature",
-            "id": 3,
+            "id": 2,
             "properties": {
                 "name": "Metropolitan",
-                "timestamp": "2013-08-16T23:36:01.512Z",
+                "timestamp": "2013-08-16T23:40:44.566Z",
                 "bikes": "7",
                 "slots": "6",
                 "marker-color": "#70E588"
@@ -75,10 +57,10 @@
         },
         {
             "type": "Feature",
-            "id": 4,
+            "id": 3,
             "properties": {
                 "name": "Carolinas Medical Center",
-                "timestamp": "2013-08-16T23:36:01.513Z",
+                "timestamp": "2013-08-16T23:40:44.568Z",
                 "bikes": "7",
                 "slots": "6",
                 "marker-color": "#70E588"
@@ -93,12 +75,12 @@
         },
         {
             "type": "Feature",
-            "id": 5,
+            "id": 4,
             "properties": {
                 "name": "Freedom Park",
-                "timestamp": "2013-08-16T23:36:01.515Z",
-                "bikes": "14",
-                "slots": "8",
+                "timestamp": "2013-08-16T23:40:44.569Z",
+                "bikes": "13",
+                "slots": "9",
                 "marker-color": "#70E588"
             },
             "geometry": {
@@ -111,10 +93,10 @@
         },
         {
             "type": "Feature",
-            "id": 6,
+            "id": 5,
             "properties": {
                 "name": "Trade at Arena",
-                "timestamp": "2013-08-16T23:36:01.517Z",
+                "timestamp": "2013-08-16T23:40:44.571Z",
                 "bikes": "5",
                 "slots": "2",
                 "marker-color": "#70E588"
@@ -129,10 +111,10 @@
         },
         {
             "type": "Feature",
-            "id": 7,
+            "id": 6,
             "properties": {
                 "name": "6th & Pine",
-                "timestamp": "2013-08-16T23:36:01.519Z",
+                "timestamp": "2013-08-16T23:40:44.572Z",
                 "bikes": "12",
                 "slots": "3",
                 "marker-color": "#70E588"
@@ -147,10 +129,10 @@
         },
         {
             "type": "Feature",
-            "id": 8,
+            "id": 7,
             "properties": {
                 "name": "Government Center",
-                "timestamp": "2013-08-16T23:36:01.521Z",
+                "timestamp": "2013-08-16T23:40:44.574Z",
                 "bikes": "7",
                 "slots": "8",
                 "marker-color": "#70E588"
@@ -165,10 +147,10 @@
         },
         {
             "type": "Feature",
-            "id": 9,
+            "id": 8,
             "properties": {
                 "name": "Gateway Village",
-                "timestamp": "2013-08-16T23:36:01.522Z",
+                "timestamp": "2013-08-16T23:40:44.576Z",
                 "bikes": "5",
                 "slots": "10",
                 "marker-color": "#70E588"
@@ -183,10 +165,10 @@
         },
         {
             "type": "Feature",
-            "id": 10,
+            "id": 9,
             "properties": {
                 "name": "4th & College",
-                "timestamp": "2013-08-16T23:36:01.524Z",
+                "timestamp": "2013-08-16T23:40:44.577Z",
                 "bikes": "6",
                 "slots": "5",
                 "marker-color": "#70E588"
@@ -201,10 +183,28 @@
         },
         {
             "type": "Feature",
+            "id": 10,
+            "properties": {
+                "name": "Convention Center",
+                "timestamp": "2013-08-16T23:40:44.579Z",
+                "bikes": "1",
+                "slots": "13",
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.84631,
+                    35.2232
+                ]
+            }
+        },
+        {
+            "type": "Feature",
             "id": 11,
             "properties": {
                 "name": "Tryon & 7th",
-                "timestamp": "2013-08-16T23:36:01.526Z",
+                "timestamp": "2013-08-16T23:40:44.581Z",
                 "bikes": "7",
                 "slots": "6",
                 "marker-color": "#70E588"
@@ -222,7 +222,7 @@
             "id": 12,
             "properties": {
                 "name": "Kings Dr./CPCC",
-                "timestamp": "2013-08-16T23:36:01.527Z",
+                "timestamp": "2013-08-16T23:40:44.582Z",
                 "bikes": "10",
                 "slots": "5",
                 "marker-color": "#70E588"
@@ -240,7 +240,7 @@
             "id": 13,
             "properties": {
                 "name": "Bland St.",
-                "timestamp": "2013-08-16T23:36:01.529Z",
+                "timestamp": "2013-08-16T23:40:44.584Z",
                 "bikes": "11",
                 "slots": "4",
                 "marker-color": "#70E588"
@@ -258,7 +258,7 @@
             "id": 14,
             "properties": {
                 "name": "Levine Ave. of the Arts",
-                "timestamp": "2013-08-16T23:36:01.531Z",
+                "timestamp": "2013-08-16T23:40:44.586Z",
                 "bikes": "4",
                 "slots": "11",
                 "marker-color": "#FFFF63"
@@ -276,7 +276,7 @@
             "id": 15,
             "properties": {
                 "name": "Johnson C. Smith University",
-                "timestamp": "2013-08-16T23:36:01.532Z",
+                "timestamp": "2013-08-16T23:40:44.588Z",
                 "bikes": "4",
                 "slots": "5",
                 "marker-color": "#FFFF63"
@@ -294,7 +294,7 @@
             "id": 16,
             "properties": {
                 "name": "UNC Charlotte Uptown",
-                "timestamp": "2013-08-16T23:36:01.534Z",
+                "timestamp": "2013-08-16T23:40:44.590Z",
                 "bikes": "7",
                 "slots": "8",
                 "marker-color": "#70E588"
@@ -312,7 +312,7 @@
             "id": 17,
             "properties": {
                 "name": "East/West Blvd.",
-                "timestamp": "2013-08-16T23:36:01.535Z",
+                "timestamp": "2013-08-16T23:40:44.592Z",
                 "bikes": "7",
                 "slots": "8",
                 "marker-color": "#70E588"
@@ -330,7 +330,7 @@
             "id": 18,
             "properties": {
                 "name": "Tryon & 3rd",
-                "timestamp": "2013-08-16T23:36:01.537Z",
+                "timestamp": "2013-08-16T23:40:44.593Z",
                 "bikes": "2",
                 "slots": "8",
                 "marker-color": "#FFFF63"
@@ -348,7 +348,7 @@
             "id": 19,
             "properties": {
                 "name": "Elizabeth Ave./Presbyterian Hospital",
-                "timestamp": "2013-08-16T23:36:01.540Z",
+                "timestamp": "2013-08-16T23:40:44.595Z",
                 "bikes": "7",
                 "slots": "6",
                 "marker-color": "#70E588"
@@ -366,7 +366,7 @@
             "id": 20,
             "properties": {
                 "name": "New Bern",
-                "timestamp": "2013-08-16T23:36:01.542Z",
+                "timestamp": "2013-08-16T23:40:44.596Z",
                 "bikes": "6",
                 "slots": "9",
                 "marker-color": "#70E588"
