@@ -6,7 +6,7 @@
             "id": 0,
             "properties": {
                 "name": "Brenton Skating Plaza ",
-                "timestamp": "2013-08-18T15:32:33.088Z",
+                "timestamp": "2013-08-18T15:37:56.584Z",
                 "bikes": "5",
                 "slots": "5",
                 "marker-color": "#70E588"
@@ -24,7 +24,7 @@
             "id": 1,
             "properties": {
                 "name": "7th & Grand ",
-                "timestamp": "2013-08-18T15:32:33.090Z",
+                "timestamp": "2013-08-18T15:37:56.586Z",
                 "bikes": "4",
                 "slots": "2",
                 "marker-color": "#FFFF63"
@@ -41,44 +41,8 @@
             "type": "Feature",
             "id": 2,
             "properties": {
-                "name": "DART Central Station",
-                "timestamp": "2013-08-18T15:32:33.091Z",
-                "bikes": "9",
-                "slots": "6",
-                "marker-color": "#70E588"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -93.62457,
-                    41.58388
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": 3,
-            "properties": {
-                "name": "2nd & Court",
-                "timestamp": "2013-08-18T15:32:33.093Z",
-                "bikes": "7",
-                "slots": "6",
-                "marker-color": "#70E588"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -93.61905,
-                    41.58574
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": 4,
-            "properties": {
                 "name": "13th & Grand ",
-                "timestamp": "2013-08-18T15:32:33.095Z",
+                "timestamp": "2013-08-18T15:37:56.588Z",
                 "bikes": "7",
                 "slots": "2",
                 "marker-color": "#70E588"
@@ -93,10 +57,10 @@
         },
         {
             "type": "Feature",
-            "id": 5,
+            "id": 3,
             "properties": {
                 "name": "8th & Pleasant ",
-                "timestamp": "2013-08-18T15:32:33.097Z",
+                "timestamp": "2013-08-18T15:37:56.589Z",
                 "bikes": "3",
                 "slots": "7",
                 "marker-color": "#FFFF63"
@@ -106,6 +70,42 @@
                 "coordinates": [
                     -93.62809,
                     41.58856
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 4,
+            "properties": {
+                "name": "DART Central Station",
+                "timestamp": "2013-08-18T15:37:56.591Z",
+                "bikes": "9",
+                "slots": "6",
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -93.62457,
+                    41.58388
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 5,
+            "properties": {
+                "name": "2nd & Court",
+                "timestamp": "2013-08-18T15:37:56.593Z",
+                "bikes": "7",
+                "slots": "6",
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -93.61905,
+                    41.58574
                 ]
             }
         }
