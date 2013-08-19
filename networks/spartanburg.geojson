@@ -5,26 +5,8 @@
             "type": "Feature",
             "id": 0,
             "properties": {
-                "name": "Morgan Square",
-                "timestamp": "2013-08-19T02:57:54.980Z",
-                "bikes": "6",
-                "slots": "3",
-                "marker-color": "#70E588"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -81.93345,
-                    34.94867
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": 1,
-            "properties": {
                 "name": "Rail Trail",
-                "timestamp": "2013-08-19T02:57:54.981Z",
+                "timestamp": "2013-08-19T03:03:19.337Z",
                 "bikes": "6",
                 "slots": "5",
                 "marker-color": "#70E588"
@@ -39,28 +21,10 @@
         },
         {
             "type": "Feature",
-            "id": 2,
-            "properties": {
-                "name": "Wofford College",
-                "timestamp": "2013-08-19T02:57:54.983Z",
-                "bikes": "8",
-                "slots": "3",
-                "marker-color": "#70E588"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -81.93861,
-                    34.96023
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": 3,
+            "id": 1,
             "properties": {
                 "name": "Converse College",
-                "timestamp": "2013-08-19T02:57:54.985Z",
+                "timestamp": "2013-08-19T03:03:19.338Z",
                 "bikes": "8",
                 "slots": "3",
                 "marker-color": "#70E588"
@@ -70,6 +34,42 @@
                 "coordinates": [
                     -81.91928,
                     34.95618
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 2,
+            "properties": {
+                "name": "Morgan Square",
+                "timestamp": "2013-08-19T03:03:19.340Z",
+                "bikes": "6",
+                "slots": "3",
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.93345,
+                    34.94867
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 3,
+            "properties": {
+                "name": "Wofford College",
+                "timestamp": "2013-08-19T03:03:19.342Z",
+                "bikes": "8",
+                "slots": "3",
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.93861,
+                    34.96023
                 ]
             }
         }
