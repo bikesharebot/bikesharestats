@@ -5,26 +5,8 @@
             "type": "Feature",
             "id": 0,
             "properties": {
-                "name": "Rail Trail",
-                "timestamp": "2013-08-19T08:10:15.671Z",
-                "bikes": "6",
-                "slots": "5",
-                "marker-color": "#70E588"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -81.92174,
-                    34.94747
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": 1,
-            "properties": {
                 "name": "Morgan Square",
-                "timestamp": "2013-08-19T08:10:15.674Z",
+                "timestamp": "2013-08-19T08:15:37.089Z",
                 "bikes": "6",
                 "slots": "3",
                 "marker-color": "#70E588"
@@ -39,10 +21,28 @@
         },
         {
             "type": "Feature",
+            "id": 1,
+            "properties": {
+                "name": "Rail Trail",
+                "timestamp": "2013-08-19T08:15:37.092Z",
+                "bikes": "6",
+                "slots": "5",
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.92174,
+                    34.94747
+                ]
+            }
+        },
+        {
+            "type": "Feature",
             "id": 2,
             "properties": {
                 "name": "Wofford College",
-                "timestamp": "2013-08-19T08:10:15.676Z",
+                "timestamp": "2013-08-19T08:15:37.094Z",
                 "bikes": "8",
                 "slots": "3",
                 "marker-color": "#70E588"
@@ -60,7 +60,7 @@
             "id": 3,
             "properties": {
                 "name": "Converse College",
-                "timestamp": "2013-08-19T08:10:15.678Z",
+                "timestamp": "2013-08-19T08:15:37.097Z",
                 "bikes": "8",
                 "slots": "3",
                 "marker-color": "#70E588"
