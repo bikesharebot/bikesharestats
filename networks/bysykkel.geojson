@@ -1,4 +1,1931 @@
 {
     "type": "FeatureCollection",
-    "features": []
+    "features": [
+        {
+            "type": "Feature",
+            "id": 0,
+            "properties": {
+                "name": "01-Middelthunsgate (vis-a-vis nr. 21, retning Kirkeveien)",
+                "timestamp": "2013-08-19T15:48:32.666Z",
+                "bikes": "11",
+                "slots": "7",
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.71007,
+                    59.92763
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 1,
+            "properties": {
+                "name": "02-Middelthunsgate 28 (utenfor Frognerbadet)",
+                "timestamp": "2013-08-19T15:48:32.668Z",
+                "bikes": "5",
+                "slots": "13",
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.70885,
+                    59.92806
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 2,
+            "properties": {
+                "name": "03-Prinsensgt. (Kirkegt.)   ",
+                "timestamp": "2013-08-19T15:48:32.670Z",
+                "bikes": 0,
+                "slots": 0,
+                "marker-color": "#F85E35"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.74414,
+                    59.91127
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 3,
+            "properties": {
+                "name": "04-Hallingsgate 2 (v. St.Haugen Fargehandel)",
+                "timestamp": "2013-08-19T15:48:32.671Z",
+                "bikes": "5",
+                "slots": "4",
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.738706,
+                    59.922785
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 4,
+            "properties": {
+                "name": "05-Egertorget (Ø.Slottsgt.)  ",
+                "timestamp": "2013-08-19T15:48:32.672Z",
+                "bikes": "0",
+                "slots": "18",
+                "marker-color": "#F85E35"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.74193,
+                    59.91258
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 5,
+            "properties": {
+                "name": "06-Stortingsgt.(Spikersuppa-Studenterlunden)   ",
+                "timestamp": "2013-08-19T15:48:32.674Z",
+                "bikes": "3",
+                "slots": "12",
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.73593,
+                    59.91376
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 6,
+            "properties": {
+                "name": "07-Vestbanen Nord (nærmest Rådhuset)   ",
+                "timestamp": "2013-08-19T15:48:32.675Z",
+                "bikes": "2",
+                "slots": "10",
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.73002,
+                    59.91113
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 7,
+            "properties": {
+                "name": "08-Vestbanen Sør (v/Aker Brygge)",
+                "timestamp": "2013-08-19T15:48:32.676Z",
+                "bikes": "1",
+                "slots": "11",
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.73002,
+                    59.91113
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 8,
+            "properties": {
+                "name": "09-Kirkeristen Vest  (mot Glassmagasinet)",
+                "timestamp": "2013-08-19T15:48:32.678Z",
+                "bikes": "0",
+                "slots": "12",
+                "marker-color": "#F85E35"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.746861,
+                    59.913025
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 9,
+            "properties": {
+                "name": "10-Kirkeristen Øst (mot Storgt.)",
+                "timestamp": "2013-08-19T15:48:32.679Z",
+                "bikes": "0",
+                "slots": "12",
+                "marker-color": "#F85E35"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.747048,
+                    59.913001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 10,
+            "properties": {
+                "name": "11-Ruseløkkvn.(krysset C.Adelersgt.-Vikatorget)",
+                "timestamp": "2013-08-19T15:48:32.681Z",
+                "bikes": "1",
+                "slots": "11",
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.72576,
+                    59.9129
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 11,
+            "properties": {
+                "name": "12-Amaldus Nielsenspl.(Vestkanttorget-Neuberggt.)",
+                "timestamp": "2013-08-19T15:48:32.682Z",
+                "bikes": "10",
+                "slots": "2",
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.71307,
+                    59.92442
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 12,
+            "properties": {
+                "name": "13-Majorstua  ",
+                "timestamp": "2013-08-19T15:48:32.684Z",
+                "bikes": "12",
+                "slots": "6",
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.71702,
+                    59.929
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 13,
+            "properties": {
+                "name": "14-Olav V's gt (ved rundkjøringen)",
+                "timestamp": "2013-08-19T15:48:32.685Z",
+                "bikes": "1",
+                "slots": "5",
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.73178,
+                    59.91237
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 14,
+            "properties": {
+                "name": "15-Bankplassen/Kirkegt,",
+                "timestamp": "2013-08-19T15:48:32.686Z",
+                "bikes": "0",
+                "slots": "21",
+                "marker-color": "#F85E35"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.74198,
+                    59.9085
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 15,
+            "properties": {
+                "name": "16-Knud Knudsens plass  (sør for St.Hanshaugen)",
+                "timestamp": "2013-08-19T15:48:32.688Z",
+                "bikes": "4",
+                "slots": "8",
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.73987,
+                    59.92487
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 16,
+            "properties": {
+                "name": "17-Pilestredet 33  (litt nord for Blitz)",
+                "timestamp": "2013-08-19T15:48:32.689Z",
+                "bikes": "0",
+                "slots": "23",
+                "marker-color": "#F85E35"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.73611,
+                    59.91915
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 17,
+            "properties": {
+                "name": "18-Christiania Torv",
+                "timestamp": "2013-08-19T15:48:32.691Z",
+                "bikes": "1",
+                "slots": "11",
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.73856,
+                    59.91026
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 18,
+            "properties": {
+                "name": "19-Oslo Plaza",
+                "timestamp": "2013-08-19T15:48:32.693Z",
+                "bikes": "1",
+                "slots": "8",
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.7545,
+                    59.9127
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 19,
+            "properties": {
+                "name": "20-Brugata Nord (ved Cafeen)   ",
+                "timestamp": "2013-08-19T15:48:32.694Z",
+                "bikes": "29",
+                "slots": "1",
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.75745,
+                    59.91371
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 20,
+            "properties": {
+                "name": "21-Bislet Stadion (mot Rundkjøring i Pilestredet)",
+                "timestamp": "2013-08-19T15:48:32.696Z",
+                "bikes": "24",
+                "slots": "0",
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.73095,
+                    59.92517
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 21,
+            "properties": {
+                "name": "22-Europarådets plass",
+                "timestamp": "2013-08-19T15:48:32.697Z",
+                "bikes": "3",
+                "slots": "6",
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.75042,
+                    59.91181
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 22,
+            "properties": {
+                "name": "23-Brugata Sør (Vaterland nærmest Oslo Plaza)",
+                "timestamp": "2013-08-19T15:48:32.699Z",
+                "bikes": "15",
+                "slots": "6",
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.75767,
+                    59.91349
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 23,
+            "properties": {
+                "name": "24-Arb.samfunnets plass (v/Sentrum Scene) ",
+                "timestamp": "2013-08-19T15:48:32.700Z",
+                "bikes": "0",
+                "slots": "24",
+                "marker-color": "#F85E35"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.751082,
+                    59.915503
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 24,
+            "properties": {
+                "name": "25-Storgt. 27 (enden av Youngsgt./skrått ovenf. Gunerius)",
+                "timestamp": "2013-08-19T15:48:32.702Z",
+                "bikes": "2",
+                "slots": "10",
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.75187,
+                    59.91417
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 25,
+            "properties": {
+                "name": "26-C.J.Hambros plass (Tinghuset)  ",
+                "timestamp": "2013-08-19T15:48:32.703Z",
+                "bikes": "0",
+                "slots": "12",
+                "marker-color": "#F85E35"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.7409,
+                    59.9153
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 26,
+            "properties": {
+                "name": "27-Rådhusgt.27 (vis-a-vis Akershus festning)",
+                "timestamp": "2013-08-19T15:48:32.705Z",
+                "bikes": "0",
+                "slots": "18",
+                "marker-color": "#F85E35"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.736818,
+                    59.910696
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 27,
+            "properties": {
+                "name": "28-Adamstuen (Krysset Theresesgt/Ullevålsvn.)",
+                "timestamp": "2013-08-19T15:48:32.706Z",
+                "bikes": "3",
+                "slots": "3",
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.73496,
+                    59.93277
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 28,
+            "properties": {
+                "name": "29-Theresesgt.15-17/Stensgt.   ",
+                "timestamp": "2013-08-19T15:48:32.708Z",
+                "bikes": "9",
+                "slots": "0",
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.73277,
+                    59.92965
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 29,
+            "properties": {
+                "name": "30-Oslogt. (Gamlebyen under Jernbanebro)",
+                "timestamp": "2013-08-19T15:48:32.709Z",
+                "bikes": "10",
+                "slots": "2",
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.76788,
+                    59.90815
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 30,
+            "properties": {
+                "name": "31-Torggt./Jacobs kirke (Ankertorget)",
+                "timestamp": "2013-08-19T15:48:32.711Z",
+                "bikes": "3",
+                "slots": "5",
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.75491,
+                    59.91793
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 31,
+            "properties": {
+                "name": "32-Parkveien/Drammensveien (v.Am.ambassade)",
+                "timestamp": "2013-08-19T15:48:32.712Z",
+                "bikes": "4",
+                "slots": "8",
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.72217,
+                    59.9152
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 32,
+            "properties": {
+                "name": "33-Bygdøy v/Folkemuseet",
+                "timestamp": "2013-08-19T15:48:32.714Z",
+                "bikes": "5",
+                "slots": "7",
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.689611,
+                    59.906328
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 33,
+            "properties": {
+                "name": "34-Oslo City (Stenersgt. 2)",
+                "timestamp": "2013-08-19T15:48:32.715Z",
+                "bikes": "1",
+                "slots": "11",
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.75107,
+                    59.91287
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 34,
+            "properties": {
+                "name": "35-Schous plass - 1",
+                "timestamp": "2013-08-19T15:48:32.717Z",
+                "bikes": "5",
+                "slots": "1",
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.76068,
+                    59.92027
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 35,
+            "properties": {
+                "name": "36-Schous plass - 2",
+                "timestamp": "2013-08-19T15:48:32.718Z",
+                "bikes": "12",
+                "slots": "0",
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.76103,
+                    59.92027
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 36,
+            "properties": {
+                "name": "37-Johan Sverdrups plass - Vogts gate (øvreTorshov)",
+                "timestamp": "2013-08-19T15:48:32.720Z",
+                "bikes": "5",
+                "slots": "7",
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.76224,
+                    59.93147
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 37,
+            "properties": {
+                "name": "38-Ullevålsveien 9 v/Vår Frues hospital,ovenf Barnevognhuset",
+                "timestamp": "2013-08-19T15:48:32.721Z",
+                "bikes": "6",
+                "slots": "9",
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.74396,
+                    59.91953
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 38,
+            "properties": {
+                "name": "39-Munkedamsvn.100, Skillebekk (Niels Juelsgt/Drm.veien)",
+                "timestamp": "2013-08-19T15:48:32.723Z",
+                "bikes": "11",
+                "slots": "1",
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.74372,
+                    59.91938
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 39,
+            "properties": {
+                "name": "40-Carl Berners (krysset Finnmarksgt./Frydensgt)",
+                "timestamp": "2013-08-19T15:48:32.724Z",
+                "bikes": "0",
+                "slots": "9",
+                "marker-color": "#F85E35"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.77602,
+                    59.92492
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 40,
+            "properties": {
+                "name": "41-Frognerstranda v/Kongen",
+                "timestamp": "2013-08-19T15:48:32.726Z",
+                "bikes": "8",
+                "slots": "4",
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.705103,
+                    59.910265
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 41,
+            "properties": {
+                "name": "42-Tøyen T-bane -inng.Hagegt.",
+                "timestamp": "2013-08-19T15:48:32.727Z",
+                "bikes": "10",
+                "slots": "2",
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.774,
+                    59.91492
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 42,
+            "properties": {
+                "name": "43-Jens Bjelkesgt.(motsatt side nr.39)",
+                "timestamp": "2013-08-19T15:48:32.729Z",
+                "bikes": "29",
+                "slots": "1",
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.769885,
+                    59.91515
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 43,
+            "properties": {
+                "name": "44-Sofienberggt.(krysset Toftesgt.) - Sofienbergparken ",
+                "timestamp": "2013-08-19T15:48:32.730Z",
+                "bikes": "8",
+                "slots": "4",
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.76175,
+                    59.92236
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 44,
+            "properties": {
+                "name": "45-Geitmyrsveien (krysset Collettsgt.) - Lovisenberg",
+                "timestamp": "2013-08-19T15:48:32.731Z",
+                "bikes": "2",
+                "slots": "6",
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.74348,
+                    59.92973
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 45,
+            "properties": {
+                "name": "46-Trondheimsveien 64 (v.Sofienberg holdeplass og Kiwi)",
+                "timestamp": "2013-08-19T15:48:32.733Z",
+                "bikes": "0",
+                "slots": "12",
+                "marker-color": "#F85E35"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.77161,
+                    59.92319
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 46,
+            "properties": {
+                "name": "47-Valkyrieplass (mellom Narvesen-gatekjøkken)",
+                "timestamp": "2013-08-19T15:48:32.734Z",
+                "bikes": "3",
+                "slots": "9",
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.71845,
+                    59.92825
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 47,
+            "properties": {
+                "name": "48-Frogner stadion v/tenninsbanene ",
+                "timestamp": "2013-08-19T15:48:32.735Z",
+                "bikes": "11",
+                "slots": "3",
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.7098,
+                    59.9262
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 48,
+            "properties": {
+                "name": "49-Frognerveien 35 A /Amtmann Furus plass",
+                "timestamp": "2013-08-19T15:48:32.737Z",
+                "bikes": "5",
+                "slots": "7",
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.709181,
+                    59.919452
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 49,
+            "properties": {
+                "name": "50-Havnegata N (Østbanehallen)",
+                "timestamp": "2013-08-19T15:48:32.738Z",
+                "bikes": "20",
+                "slots": "9",
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.7514,
+                    59.9098
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 50,
+            "properties": {
+                "name": "51-Havnegata S (Østbanehallen) v/Hotell Opera",
+                "timestamp": "2013-08-19T15:48:32.739Z",
+                "bikes": "2",
+                "slots": "28",
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.75195,
+                    59.91004
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 51,
+            "properties": {
+                "name": "52-Helga Helgesens plass 2.(Gr.Landsleir./Åkebergv/Politi)",
+                "timestamp": "2013-08-19T15:48:32.741Z",
+                "bikes": "29",
+                "slots": "1",
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.76577,
+                    59.91201
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 52,
+            "properties": {
+                "name": "53-Pilestredet 36-38 (v/Høyskolen/Frydenlund)",
+                "timestamp": "2013-08-19T15:48:32.742Z",
+                "bikes": 0,
+                "slots": 0,
+                "marker-color": "#F85E35"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.73413,
+                    59.92045
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 53,
+            "properties": {
+                "name": "54-Uranienborg skole (Briskeby)",
+                "timestamp": "2013-08-19T15:48:32.743Z",
+                "bikes": "5",
+                "slots": "10",
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.71775,
+                    59.9202
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 54,
+            "properties": {
+                "name": "55-Bygdøy alle 45, vis a vis Gimle Kino",
+                "timestamp": "2013-08-19T15:48:32.744Z",
+                "bikes": "7",
+                "slots": "8",
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.708387,
+                    59.917451
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 55,
+            "properties": {
+                "name": "56-Karl Johansgt. (ved nr. 26)",
+                "timestamp": "2013-08-19T15:48:32.745Z",
+                "bikes": "1",
+                "slots": "11",
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.73554,
+                    59.91453
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 56,
+            "properties": {
+                "name": "57-Akershusstranda/Vippetangen",
+                "timestamp": "2013-08-19T15:48:32.746Z",
+                "bikes": "0",
+                "slots": "14",
+                "marker-color": "#F85E35"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.73926,
+                    59.90253
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 57,
+            "properties": {
+                "name": "58-Brageveien 1 ( Ligger langs Ullevålsveien)",
+                "timestamp": "2013-08-19T15:48:32.748Z",
+                "bikes": "7",
+                "slots": "2",
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.73581,
+                    59.93092
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 58,
+            "properties": {
+                "name": "59-Dr. Maudsgt. 11-15",
+                "timestamp": "2013-08-19T15:48:32.749Z",
+                "bikes": "1",
+                "slots": "14",
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.72625,
+                    59.91338
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 59,
+            "properties": {
+                "name": "60-Birkelunden",
+                "timestamp": "2013-08-19T15:48:32.750Z",
+                "bikes": "11",
+                "slots": "0",
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.76083,
+                    59.92557
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 60,
+            "properties": {
+                "name": "61-Bygdøy alle 2",
+                "timestamp": "2013-08-19T15:48:32.823Z",
+                "bikes": "18",
+                "slots": "6",
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.716434,
+                    59.914816
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 61,
+            "properties": {
+                "name": "62-Alexander Kiellands plass  ",
+                "timestamp": "2013-08-19T15:48:32.825Z",
+                "bikes": "29",
+                "slots": "0",
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.75118,
+                    59.92808
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 62,
+            "properties": {
+                "name": "63-Maridalsveien 31",
+                "timestamp": "2013-08-19T15:48:32.826Z",
+                "bikes": 0,
+                "slots": 0,
+                "marker-color": "#F85E35"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.75028,
+                    59.92522
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 63,
+            "properties": {
+                "name": "64-Skippergt./Storgt.",
+                "timestamp": "2013-08-19T15:48:32.827Z",
+                "bikes": "0",
+                "slots": "15",
+                "marker-color": "#F85E35"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.75003,
+                    59.91307
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 64,
+            "properties": {
+                "name": "65-Ullevålsveien/Collettsgate (St.Hanshaugen vest)",
+                "timestamp": "2013-08-19T15:48:32.828Z",
+                "bikes": "5",
+                "slots": "7",
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.73833,
+                    59.92681
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 65,
+            "properties": {
+                "name": "66-Karenslyst alle (v/Bang&Olufsen)",
+                "timestamp": "2013-08-19T15:48:32.830Z",
+                "bikes": "1",
+                "slots": "23",
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.683088,
+                    59.920677
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 66,
+            "properties": {
+                "name": "67-Holtegt. 20 (krysset Uranienborgvn)",
+                "timestamp": "2013-08-19T15:48:32.831Z",
+                "bikes": "3",
+                "slots": "12",
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.72071,
+                    59.92245
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 67,
+            "properties": {
+                "name": "68-Storgt. 40 (utenfor Legevakten)",
+                "timestamp": "2013-08-19T15:48:32.833Z",
+                "bikes": "7",
+                "slots": "5",
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.75763,
+                    59.91663
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 68,
+            "properties": {
+                "name": "69-Geitmyrsveien (krysset Gen.Birchsgt.)",
+                "timestamp": "2013-08-19T15:48:32.835Z",
+                "bikes": "8",
+                "slots": "7",
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.74126,
+                    59.93235
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 69,
+            "properties": {
+                "name": "70-Colosseum / Fridtjof Nansensvei",
+                "timestamp": "2013-08-19T15:48:32.836Z",
+                "bikes": "2",
+                "slots": "10",
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.71144,
+                    59.9298
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 70,
+            "properties": {
+                "name": "71-Slemdalsveien 1-3",
+                "timestamp": "2013-08-19T15:48:32.837Z",
+                "bikes": "6",
+                "slots": "12",
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.71463,
+                    59.93067
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 71,
+            "properties": {
+                "name": "72-Bygdøy alle (v/Kristinelundsvei)",
+                "timestamp": "2013-08-19T15:48:32.839Z",
+                "bikes": "5",
+                "slots": "7",
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.69682,
+                    59.91928
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 72,
+            "properties": {
+                "name": "73-Bygdøy alle (vis-a-vis Ingegjerdsvei)",
+                "timestamp": "2013-08-19T15:48:32.841Z",
+                "bikes": "4",
+                "slots": "8",
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.6922,
+                    59.91901
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 73,
+            "properties": {
+                "name": "74-Prof.Aschehougs plass",
+                "timestamp": "2013-08-19T15:48:32.843Z",
+                "bikes": "2",
+                "slots": "10",
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.7411,
+                    59.914784
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 74,
+            "properties": {
+                "name": "75-Uelandsgt. v/Arkitekt Rivertz' plass",
+                "timestamp": "2013-08-19T15:48:32.844Z",
+                "bikes": "11",
+                "slots": "4",
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.74945,
+                    59.93478
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 75,
+            "properties": {
+                "name": "76-Tjuvholmen",
+                "timestamp": "2013-08-19T15:48:32.845Z",
+                "bikes": "0",
+                "slots": "18",
+                "marker-color": "#F85E35"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.723085,
+                    59.909642
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 76,
+            "properties": {
+                "name": "77-Pilestredet 46",
+                "timestamp": "2013-08-19T15:48:32.851Z",
+                "bikes": "3",
+                "slots": "3",
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.7332,
+                    59.92074
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 77,
+            "properties": {
+                "name": "78-Dælenenggt. 41",
+                "timestamp": "2013-08-19T15:48:32.853Z",
+                "bikes": "15",
+                "slots": "9",
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.76719,
+                    59.92888
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 78,
+            "properties": {
+                "name": "79-Fagerheimgt. 11",
+                "timestamp": "2013-08-19T15:48:32.855Z",
+                "bikes": "7",
+                "slots": "2",
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.76745,
+                    59.92875
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 79,
+            "properties": {
+                "name": "80-Møllergt. 39",
+                "timestamp": "2013-08-19T15:48:32.856Z",
+                "bikes": "7",
+                "slots": "14",
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.74925,
+                    59.91675
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 80,
+            "properties": {
+                "name": "81-Wdm. Thranesgt. 16 A",
+                "timestamp": "2013-08-19T15:48:32.857Z",
+                "bikes": "2",
+                "slots": "10",
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.74048,
+                    59.92363
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 81,
+            "properties": {
+                "name": "82-Oslogate 37",
+                "timestamp": "2013-08-19T15:48:32.859Z",
+                "bikes": "13",
+                "slots": "2",
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.76736,
+                    59.90331
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 82,
+            "properties": {
+                "name": "83-Parkveien 13",
+                "timestamp": "2013-08-19T15:48:32.860Z",
+                "bikes": "3",
+                "slots": "6",
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.73048,
+                    59.92175
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 83,
+            "properties": {
+                "name": "84-Jens Bjelkesgt./Sverresgt. (Tøyen)",
+                "timestamp": "2013-08-19T15:48:32.862Z",
+                "bikes": "15",
+                "slots": "6",
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.77613,
+                    59.91151
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 84,
+            "properties": {
+                "name": "85-Økernveien v/Caltexløkka",
+                "timestamp": "2013-08-19T15:48:32.863Z",
+                "bikes": "23",
+                "slots": "7",
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.77743,
+                    59.91565
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 85,
+            "properties": {
+                "name": "86-Dyvekesvei/Konowsgt.",
+                "timestamp": "2013-08-19T15:48:32.865Z",
+                "bikes": "3",
+                "slots": "9",
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.782105,
+                    59.902627
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 86,
+            "properties": {
+                "name": "87-Helgesensgt. vis-a-vis nr. 58",
+                "timestamp": "2013-08-19T15:48:32.866Z",
+                "bikes": "8",
+                "slots": "10",
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.76623,
+                    59.92317
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 87,
+            "properties": {
+                "name": "88-Fredensborgveien v/62-64",
+                "timestamp": "2013-08-19T15:48:32.868Z",
+                "bikes": "12",
+                "slots": "2",
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.7521,
+                    59.92092
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 88,
+            "properties": {
+                "name": "89-Olav V's gt. vis-a-vis Saga Kino",
+                "timestamp": "2013-08-19T15:48:32.869Z",
+                "bikes": "3",
+                "slots": "6",
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.732875,
+                    59.914001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 89,
+            "properties": {
+                "name": "90-Mariesgt. v/Majorstuveien",
+                "timestamp": "2013-08-19T15:48:32.871Z",
+                "bikes": "6",
+                "slots": "3",
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.71627,
+                    59.92671
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 90,
+            "properties": {
+                "name": "91-Suhmsgt. v/Shell - Marienlyst",
+                "timestamp": "2013-08-19T15:48:32.872Z",
+                "bikes": "9",
+                "slots": "3",
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.72164,
+                    59.93237
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 91,
+            "properties": {
+                "name": "92-Blindernveien 5",
+                "timestamp": "2013-08-19T15:48:32.874Z",
+                "bikes": "12",
+                "slots": "18",
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.726411,
+                    59.935376
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 92,
+            "properties": {
+                "name": "93-Sognsveien v/Ullevålsalléen",
+                "timestamp": "2013-08-19T15:48:32.876Z",
+                "bikes": "5",
+                "slots": "4",
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.73059,
+                    59.93782
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 93,
+            "properties": {
+                "name": "94-Drammensveien 33",
+                "timestamp": "2013-08-19T15:48:32.877Z",
+                "bikes": "10",
+                "slots": "5",
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.715296,
+                    59.914085
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 94,
+            "properties": {
+                "name": "95-Akershusstranda/Vippetangen nr. 2",
+                "timestamp": "2013-08-19T15:48:32.879Z",
+                "bikes": "0",
+                "slots": "15",
+                "marker-color": "#F85E35"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.73955,
+                    59.9026
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 95,
+            "properties": {
+                "name": "96-Akershusstranda/Vippetangen nr. 1",
+                "timestamp": "2013-08-19T15:48:32.914Z",
+                "bikes": "0",
+                "slots": "15",
+                "marker-color": "#F85E35"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.73955,
+                    59.9026
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 96,
+            "properties": {
+                "name": "97-Dokkveien (v/Taxi Aker Brygge)",
+                "timestamp": "2013-08-19T15:48:32.934Z",
+                "bikes": 0,
+                "slots": 0,
+                "marker-color": "#F85E35"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.72791,
+                    59.91093
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 97,
+            "properties": {
+                "name": "98-Ruseløkkveien (Cort Adelersgt.)",
+                "timestamp": "2013-08-19T15:48:32.935Z",
+                "bikes": "0",
+                "slots": "15",
+                "marker-color": "#F85E35"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.725145,
+                    59.9126
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 98,
+            "properties": {
+                "name": "99-Rådhusgt.27/Kontraskjæret",
+                "timestamp": "2013-08-19T15:48:32.939Z",
+                "bikes": "0",
+                "slots": "18",
+                "marker-color": "#F85E35"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.73596,
+                    59.91101
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 99,
+            "properties": {
+                "name": "100-Stortingsgt. (vis-a-vis Filmteatret)",
+                "timestamp": "2013-08-19T15:48:32.943Z",
+                "bikes": "0",
+                "slots": "15",
+                "marker-color": "#F85E35"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.7359,
+                    59.91379
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 100,
+            "properties": {
+                "name": "101-Prinsensgt. (Kirkegt)",
+                "timestamp": "2013-08-19T15:48:32.947Z",
+                "bikes": 0,
+                "slots": 0,
+                "marker-color": "#F85E35"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.74414,
+                    59.91127
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 101,
+            "properties": {
+                "name": "102-Arb.samfunnets plass (mot Torggt)",
+                "timestamp": "2013-08-19T15:48:32.947Z",
+                "bikes": "3",
+                "slots": "14",
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.751082,
+                    59.915452
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 102,
+            "properties": {
+                "name": "107-Nylandsveien v/krysset Urtegt./Vahlsgt-stativ 1",
+                "timestamp": "2013-08-19T15:48:32.949Z",
+                "bikes": "15",
+                "slots": "0",
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.76238,
+                    59.91574
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 103,
+            "properties": {
+                "name": "108-Nylandsveien v/krysset Urtegt./Vahlsgt- stativ 2",
+                "timestamp": "2013-08-19T15:48:32.951Z",
+                "bikes": "7",
+                "slots": "8",
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.76238,
+                    59.91574
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 104,
+            "properties": {
+                "name": "109-Drammensveien 33/Hydroparken",
+                "timestamp": "2013-08-19T15:48:32.952Z",
+                "bikes": "12",
+                "slots": "3",
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.71547,
+                    59.91424
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 105,
+            "properties": {
+                "name": "110-Uelandsgt. v/Arkitekt Riverts plass",
+                "timestamp": "2013-08-19T15:48:32.953Z",
+                "bikes": "8",
+                "slots": "7",
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.74949,
+                    59.93484
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 106,
+            "properties": {
+                "name": "111-Brugata (Vaterlandsparken)",
+                "timestamp": "2013-08-19T15:48:32.955Z",
+                "bikes": "18",
+                "slots": "3",
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.7574,
+                    59.91348
+                ]
+            }
+        }
+    ]
 }
