@@ -1,4 +1,2957 @@
 {
     "type": "FeatureCollection",
-    "features": []
+    "features": [
+        {
+            "type": "Feature",
+            "id": 0,
+            "properties": {
+                "name": "Paravia",
+                "timestamp": "2013-08-21T15:05:09.798Z",
+                "bikes": 2,
+                "slots": 10,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.670327,
+                    45.077573
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 1,
+            "properties": {
+                "name": "Bologna",
+                "timestamp": "2013-08-21T15:05:09.798Z",
+                "bikes": 8,
+                "slots": 7,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.695536,
+                    45.082339
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 2,
+            "properties": {
+                "name": "Porta Susa 2",
+                "timestamp": "2013-08-21T15:05:09.798Z",
+                "bikes": 0,
+                "slots": 18,
+                "marker-color": "#F85E35"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.668027,
+                    45.073444
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 3,
+            "properties": {
+                "name": "Porta Susa 1",
+                "timestamp": "2013-08-21T15:05:09.798Z",
+                "bikes": 0,
+                "slots": 19,
+                "marker-color": "#F85E35"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.667834,
+                    45.073141
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 4,
+            "properties": {
+                "name": "Cernaia",
+                "timestamp": "2013-08-21T15:05:09.798Z",
+                "bikes": 0,
+                "slots": 13,
+                "marker-color": "#F85E35"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.670198,
+                    45.072655
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 5,
+            "properties": {
+                "name": "Valdocco 2",
+                "timestamp": "2013-08-21T15:05:09.799Z",
+                "bikes": 0,
+                "slots": 12,
+                "marker-color": "#F85E35"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.673665,
+                    45.075248
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 6,
+            "properties": {
+                "name": "Sommeiller",
+                "timestamp": "2013-08-21T15:05:09.799Z",
+                "bikes": 4,
+                "slots": 11,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.671646,
+                    45.055195
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 7,
+            "properties": {
+                "name": "Valdocco",
+                "timestamp": "2013-08-21T15:05:09.799Z",
+                "bikes": 1,
+                "slots": 12,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.675771,
+                    45.07814
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 8,
+            "properties": {
+                "name": "Consolata",
+                "timestamp": "2013-08-21T15:05:09.799Z",
+                "bikes": 4,
+                "slots": 11,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.678048,
+                    45.07577
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 9,
+            "properties": {
+                "name": "Vittorio Emanuele II 6",
+                "timestamp": "2013-08-21T15:05:09.799Z",
+                "bikes": 0,
+                "slots": 0,
+                "marker-color": "#F85E35"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.676138,
+                    45.063639
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 10,
+            "properties": {
+                "name": "Pietro Micca",
+                "timestamp": "2013-08-21T15:05:09.799Z",
+                "bikes": 0,
+                "slots": 13,
+                "marker-color": "#F85E35"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.682361,
+                    45.070512
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 11,
+            "properties": {
+                "name": "Corte d`Appello",
+                "timestamp": "2013-08-21T15:05:09.799Z",
+                "bikes": 0,
+                "slots": 14,
+                "marker-color": "#F85E35"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.679325,
+                    45.074187
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 12,
+            "properties": {
+                "name": "Vittorio Emanuele II 1",
+                "timestamp": "2013-08-21T15:05:09.799Z",
+                "bikes": 0,
+                "slots": 0,
+                "marker-color": "#F85E35"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.666611,
+                    45.067004
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 13,
+            "properties": {
+                "name": "Statuto 2",
+                "timestamp": "2013-08-21T15:05:09.799Z",
+                "bikes": 0,
+                "slots": 15,
+                "marker-color": "#F85E35"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.671568,
+                    45.07627
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 14,
+            "properties": {
+                "name": "XI Febbraio",
+                "timestamp": "2013-08-21T15:05:09.799Z",
+                "bikes": 5,
+                "slots": 6,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.687479,
+                    45.077043
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 15,
+            "properties": {
+                "name": "Cimitero Monumentale",
+                "timestamp": "2013-08-21T15:05:09.799Z",
+                "bikes": 5,
+                "slots": 6,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.702445,
+                    45.078111
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 16,
+            "properties": {
+                "name": "Porta Palatina",
+                "timestamp": "2013-08-21T15:05:09.799Z",
+                "bikes": 1,
+                "slots": 11,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.683863,
+                    45.073891
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 17,
+            "properties": {
+                "name": "IV Marzo",
+                "timestamp": "2013-08-21T15:05:09.799Z",
+                "bikes": 0,
+                "slots": 0,
+                "marker-color": "#F85E35"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.682297,
+                    45.073331
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 18,
+            "properties": {
+                "name": "Barbaroux",
+                "timestamp": "2013-08-21T15:05:09.799Z",
+                "bikes": 0,
+                "slots": 0,
+                "marker-color": "#F85E35"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.679277,
+                    45.072401
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 19,
+            "properties": {
+                "name": "Arbarello",
+                "timestamp": "2013-08-21T15:05:09.799Z",
+                "bikes": 3,
+                "slots": 17,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.676396,
+                    45.073634
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 20,
+            "properties": {
+                "name": "Galileo Ferraris 1",
+                "timestamp": "2013-08-21T15:05:09.799Z",
+                "bikes": 4,
+                "slots": 11,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.66395,
+                    45.055348
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 21,
+            "properties": {
+                "name": "Porta Nuova 1",
+                "timestamp": "2013-08-21T15:05:09.799Z",
+                "bikes": 7,
+                "slots": 15,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.679014,
+                    45.063003
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 22,
+            "properties": {
+                "name": "Bava",
+                "timestamp": "2013-08-21T15:05:09.799Z",
+                "bikes": 0,
+                "slots": 16,
+                "marker-color": "#F85E35"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.701523,
+                    45.068928
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 23,
+            "properties": {
+                "name": "Inghilterra 1",
+                "timestamp": "2013-08-21T15:05:09.799Z",
+                "bikes": 1,
+                "slots": 12,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.665688,
+                    45.072808
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 24,
+            "properties": {
+                "name": "Solferino 1",
+                "timestamp": "2013-08-21T15:05:09.799Z",
+                "bikes": 0,
+                "slots": 0,
+                "marker-color": "#F85E35"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.678209,
+                    45.070173
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 25,
+            "properties": {
+                "name": "Solferino 2",
+                "timestamp": "2013-08-21T15:05:09.799Z",
+                "bikes": 0,
+                "slots": 12,
+                "marker-color": "#F85E35"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.676173,
+                    45.068112
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 26,
+            "properties": {
+                "name": "Meucci",
+                "timestamp": "2013-08-21T15:05:09.799Z",
+                "bikes": 0,
+                "slots": 18,
+                "marker-color": "#F85E35"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.676246,
+                    45.069197
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 27,
+            "properties": {
+                "name": "Matteotti 1",
+                "timestamp": "2013-08-21T15:05:09.800Z",
+                "bikes": 1,
+                "slots": 9,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.674856,
+                    45.066299
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 28,
+            "properties": {
+                "name": "Paleocapa",
+                "timestamp": "2013-08-21T15:05:09.800Z",
+                "bikes": 2,
+                "slots": 14,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.678874,
+                    45.064102
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 29,
+            "properties": {
+                "name": "Matteotti 2",
+                "timestamp": "2013-08-21T15:05:09.800Z",
+                "bikes": 0,
+                "slots": 12,
+                "marker-color": "#F85E35"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.670302,
+                    45.067906
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 30,
+            "properties": {
+                "name": "Matteotti 3",
+                "timestamp": "2013-08-21T15:05:09.800Z",
+                "bikes": 1,
+                "slots": 22,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.667759,
+                    45.0688
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 31,
+            "properties": {
+                "name": "Galileo Ferraris 5",
+                "timestamp": "2013-08-21T15:05:09.800Z",
+                "bikes": 0,
+                "slots": 0,
+                "marker-color": "#F85E35"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.671461,
+                    45.066776
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 32,
+            "properties": {
+                "name": "Bolzano",
+                "timestamp": "2013-08-21T15:05:09.800Z",
+                "bikes": 6,
+                "slots": 9,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.666619,
+                    45.071251
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 33,
+            "properties": {
+                "name": "Vittorio Emanuele II 2",
+                "timestamp": "2013-08-21T15:05:09.800Z",
+                "bikes": 2,
+                "slots": 10,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.665849,
+                    45.067519
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 34,
+            "properties": {
+                "name": "Nizza 2",
+                "timestamp": "2013-08-21T15:05:09.800Z",
+                "bikes": 4,
+                "slots": 14,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.675559,
+                    45.054166
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 35,
+            "properties": {
+                "name": "Vittorio Emanuele II 3",
+                "timestamp": "2013-08-21T15:05:09.800Z",
+                "bikes": 0,
+                "slots": 0,
+                "marker-color": "#F85E35"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.673601,
+                    45.064549
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 36,
+            "properties": {
+                "name": "Porta Nuova 2",
+                "timestamp": "2013-08-21T15:05:09.800Z",
+                "bikes": 2,
+                "slots": 23,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.679271,
+                    45.062897
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 37,
+            "properties": {
+                "name": "Padova",
+                "timestamp": "2013-08-21T15:05:09.800Z",
+                "bikes": 3,
+                "slots": 11,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.698583,
+                    45.079036
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 38,
+            "properties": {
+                "name": "Lagrange",
+                "timestamp": "2013-08-21T15:05:09.800Z",
+                "bikes": 5,
+                "slots": 10,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.680872,
+                    45.063416
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 39,
+            "properties": {
+                "name": "Giordano Bruno",
+                "timestamp": "2013-08-21T15:05:09.800Z",
+                "bikes": 1,
+                "slots": 19,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.663983,
+                    45.0441
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 40,
+            "properties": {
+                "name": "CLN",
+                "timestamp": "2013-08-21T15:05:09.800Z",
+                "bikes": 5,
+                "slots": 8,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.682222,
+                    45.066238
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 41,
+            "properties": {
+                "name": "Arcivescovado",
+                "timestamp": "2013-08-21T15:05:09.800Z",
+                "bikes": 1,
+                "slots": 13,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.678306,
+                    45.067019
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 42,
+            "properties": {
+                "name": "Giolitti 1",
+                "timestamp": "2013-08-21T15:05:09.800Z",
+                "bikes": 0,
+                "slots": 0,
+                "marker-color": "#F85E35"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.683391,
+                    45.066534
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 43,
+            "properties": {
+                "name": "Madama Cristina",
+                "timestamp": "2013-08-21T15:05:09.800Z",
+                "bikes": 2,
+                "slots": 10,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.675881,
+                    45.047329
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 44,
+            "properties": {
+                "name": "Bertola",
+                "timestamp": "2013-08-21T15:05:09.800Z",
+                "bikes": 0,
+                "slots": 0,
+                "marker-color": "#F85E35"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.682255,
+                    45.069716
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 45,
+            "properties": {
+                "name": "Lione",
+                "timestamp": "2013-08-21T15:05:09.800Z",
+                "bikes": 1,
+                "slots": 12,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.65644,
+                    45.059827
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 46,
+            "properties": {
+                "name": "Castello 1",
+                "timestamp": "2013-08-21T15:05:09.800Z",
+                "bikes": 3,
+                "slots": 13,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.687897,
+                    45.071293
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 47,
+            "properties": {
+                "name": "Stati Uniti 1",
+                "timestamp": "2013-08-21T15:05:09.800Z",
+                "bikes": 1,
+                "slots": 14,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.664637,
+                    45.064973
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 48,
+            "properties": {
+                "name": "Castello 2",
+                "timestamp": "2013-08-21T15:05:09.800Z",
+                "bikes": 4,
+                "slots": 15,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.686642,
+                    45.070073
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 49,
+            "properties": {
+                "name": "Regina Margherita 4",
+                "timestamp": "2013-08-21T15:05:09.800Z",
+                "bikes": 1,
+                "slots": 16,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.690161,
+                    45.074619
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 50,
+            "properties": {
+                "name": "San Maurizio",
+                "timestamp": "2013-08-21T15:05:09.800Z",
+                "bikes": 0,
+                "slots": 0,
+                "marker-color": "#F85E35"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.69265,
+                    45.071815
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 51,
+            "properties": {
+                "name": "RAI",
+                "timestamp": "2013-08-21T15:05:09.800Z",
+                "bikes": 8,
+                "slots": 6,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.691041,
+                    45.068959
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 52,
+            "properties": {
+                "name": "Nizza 1",
+                "timestamp": "2013-08-21T15:05:09.800Z",
+                "bikes": 6,
+                "slots": 13,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.676997,
+                    45.057326
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 53,
+            "properties": {
+                "name": "Universita` 1",
+                "timestamp": "2013-08-21T15:05:09.801Z",
+                "bikes": 5,
+                "slots": 15,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.694431,
+                    45.068466
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 54,
+            "properties": {
+                "name": "De Amicis",
+                "timestamp": "2013-08-21T15:05:09.801Z",
+                "bikes": 0,
+                "slots": 0,
+                "marker-color": "#F85E35"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.672898,
+                    45.046624
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 55,
+            "properties": {
+                "name": "Universita`3",
+                "timestamp": "2013-08-21T15:05:09.801Z",
+                "bikes": 0,
+                "slots": 12,
+                "marker-color": "#F85E35"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.691566,
+                    45.067369
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 56,
+            "properties": {
+                "name": "San Francesco da Paola",
+                "timestamp": "2013-08-21T15:05:09.801Z",
+                "bikes": 1,
+                "slots": 13,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.689201,
+                    45.068714
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 57,
+            "properties": {
+                "name": "Carlo Alberto",
+                "timestamp": "2013-08-21T15:05:09.801Z",
+                "bikes": 1,
+                "slots": 11,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.686417,
+                    45.06819
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 58,
+            "properties": {
+                "name": "Torino Esposizioni",
+                "timestamp": "2013-08-21T15:05:09.801Z",
+                "bikes": 3,
+                "slots": 11,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.681269,
+                    45.050427
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 59,
+            "properties": {
+                "name": "Piazza Carlina",
+                "timestamp": "2013-08-21T15:05:09.801Z",
+                "bikes": 1,
+                "slots": 12,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.688922,
+                    45.066786
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 60,
+            "properties": {
+                "name": "Valdo Fusi",
+                "timestamp": "2013-08-21T15:05:09.801Z",
+                "bikes": 1,
+                "slots": 14,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.686256,
+                    45.064586
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 61,
+            "properties": {
+                "name": "Giardini Cavour",
+                "timestamp": "2013-08-21T15:05:09.801Z",
+                "bikes": 5,
+                "slots": 7,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.688796,
+                    45.063147
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 62,
+            "properties": {
+                "name": "Bodoni",
+                "timestamp": "2013-08-21T15:05:09.801Z",
+                "bikes": 1,
+                "slots": 9,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.683496,
+                    45.063132
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 63,
+            "properties": {
+                "name": "Vittorio Emanuele II 5",
+                "timestamp": "2013-08-21T15:05:09.801Z",
+                "bikes": 3,
+                "slots": 10,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.683788,
+                    45.060837
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 64,
+            "properties": {
+                "name": "Orbassano",
+                "timestamp": "2013-08-21T15:05:09.801Z",
+                "bikes": 1,
+                "slots": 17,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.655791,
+                    45.053075
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 65,
+            "properties": {
+                "name": "Giolitti 2",
+                "timestamp": "2013-08-21T15:05:09.801Z",
+                "bikes": 5,
+                "slots": 13,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.690494,
+                    45.064094
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 66,
+            "properties": {
+                "name": "Maria Vittoria",
+                "timestamp": "2013-08-21T15:05:09.801Z",
+                "bikes": 1,
+                "slots": 14,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.69228,
+                    45.065147
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 67,
+            "properties": {
+                "name": "Vittorio Veneto 2",
+                "timestamp": "2013-08-21T15:05:09.801Z",
+                "bikes": 1,
+                "slots": 13,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.693742,
+                    45.065204
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 68,
+            "properties": {
+                "name": "Murazzi",
+                "timestamp": "2013-08-21T15:05:09.801Z",
+                "bikes": 7,
+                "slots": 6,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.694056,
+                    45.062177
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 69,
+            "properties": {
+                "name": "Valentino 1",
+                "timestamp": "2013-08-21T15:05:09.801Z",
+                "bikes": 5,
+                "slots": 8,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.687945,
+                    45.059191
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 70,
+            "properties": {
+                "name": "O.G.R.",
+                "timestamp": "2013-08-21T15:05:09.802Z",
+                "bikes": 4,
+                "slots": 14,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.661869,
+                    45.066731
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 71,
+            "properties": {
+                "name": "Fiume",
+                "timestamp": "2013-08-21T15:05:09.802Z",
+                "bikes": 1,
+                "slots": 12,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.693557,
+                    45.058024
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 72,
+            "properties": {
+                "name": "Gran Madre",
+                "timestamp": "2013-08-21T15:05:09.802Z",
+                "bikes": 6,
+                "slots": 6,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.698556,
+                    45.062912
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 73,
+            "properties": {
+                "name": "SantÂŽAnselmo",
+                "timestamp": "2013-08-21T15:05:09.802Z",
+                "bikes": 0,
+                "slots": 15,
+                "marker-color": "#F85E35"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.681645,
+                    45.060009
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 74,
+            "properties": {
+                "name": "Marconi 1",
+                "timestamp": "2013-08-21T15:05:09.802Z",
+                "bikes": 3,
+                "slots": 10,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.682694,
+                    45.055386
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 75,
+            "properties": {
+                "name": "Belfiore",
+                "timestamp": "2013-08-21T15:05:09.802Z",
+                "bikes": 0,
+                "slots": 14,
+                "marker-color": "#F85E35"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.67844,
+                    45.05431
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 76,
+            "properties": {
+                "name": "Baretti",
+                "timestamp": "2013-08-21T15:05:09.802Z",
+                "bikes": 1,
+                "slots": 13,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.681374,
+                    45.057667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 77,
+            "properties": {
+                "name": "Raffaello",
+                "timestamp": "2013-08-21T15:05:09.802Z",
+                "bikes": 0,
+                "slots": 0,
+                "marker-color": "#F85E35"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.680559,
+                    45.050937
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 78,
+            "properties": {
+                "name": "Torino Esposizioni 2",
+                "timestamp": "2013-08-21T15:05:09.802Z",
+                "bikes": 0,
+                "slots": 0,
+                "marker-color": "#F85E35"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.678847,
+                    45.046391
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 79,
+            "properties": {
+                "name": "Galileo Ferraris 4",
+                "timestamp": "2013-08-21T15:05:09.802Z",
+                "bikes": 0,
+                "slots": 0,
+                "marker-color": "#F85E35"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.669433,
+                    45.063662
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 80,
+            "properties": {
+                "name": "Re Umberto",
+                "timestamp": "2013-08-21T15:05:09.802Z",
+                "bikes": 6,
+                "slots": 9,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.670677,
+                    45.059661
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 81,
+            "properties": {
+                "name": "Re Umberto 2",
+                "timestamp": "2013-08-21T15:05:09.802Z",
+                "bikes": 2,
+                "slots": 11,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.668092,
+                    45.056038
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 82,
+            "properties": {
+                "name": "Galileo Ferraris 2",
+                "timestamp": "2013-08-21T15:05:09.802Z",
+                "bikes": 1,
+                "slots": 13,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.664337,
+                    45.056637
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 83,
+            "properties": {
+                "name": "Politecnico 2",
+                "timestamp": "2013-08-21T15:05:09.802Z",
+                "bikes": 3,
+                "slots": 12,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.66313,
+                    45.062468
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 84,
+            "properties": {
+                "name": "Politecnico 3",
+                "timestamp": "2013-08-21T15:05:09.802Z",
+                "bikes": 0,
+                "slots": 14,
+                "marker-color": "#F85E35"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.661279,
+                    45.060729
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 85,
+            "properties": {
+                "name": "Politecnico 4",
+                "timestamp": "2013-08-21T15:05:09.802Z",
+                "bikes": 1,
+                "slots": 11,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.660024,
+                    45.063791
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 86,
+            "properties": {
+                "name": "Tribunale",
+                "timestamp": "2013-08-21T15:05:09.803Z",
+                "bikes": 0,
+                "slots": 24,
+                "marker-color": "#F85E35"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.661279,
+                    45.070845
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 87,
+            "properties": {
+                "name": "Principi d`Acaja 1",
+                "timestamp": "2013-08-21T15:05:09.803Z",
+                "bikes": 1,
+                "slots": 13,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.662143,
+                    45.073067
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 88,
+            "properties": {
+                "name": "Principi d`Acaja 2",
+                "timestamp": "2013-08-21T15:05:09.803Z",
+                "bikes": 2,
+                "slots": 13,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.664541,
+                    45.07627
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 89,
+            "properties": {
+                "name": "Bernini",
+                "timestamp": "2013-08-21T15:05:09.803Z",
+                "bikes": 5,
+                "slots": 9,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.655915,
+                    45.075884
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 90,
+            "properties": {
+                "name": "Adriano",
+                "timestamp": "2013-08-21T15:05:09.803Z",
+                "bikes": 5,
+                "slots": 7,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.655754,
+                    45.07084
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 91,
+            "properties": {
+                "name": "De Gasperi",
+                "timestamp": "2013-08-21T15:05:09.803Z",
+                "bikes": 0,
+                "slots": 0,
+                "marker-color": "#F85E35"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.659358,
+                    45.055606
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 92,
+            "properties": {
+                "name": "Regina Margherita 2",
+                "timestamp": "2013-08-21T15:05:09.803Z",
+                "bikes": 3,
+                "slots": 12,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.69751,
+                    45.072368
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 93,
+            "properties": {
+                "name": "Dora Firenze",
+                "timestamp": "2013-08-21T15:05:09.803Z",
+                "bikes": 3,
+                "slots": 10,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.68927,
+                    45.079566
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 94,
+            "properties": {
+                "name": "Raffaello",
+                "timestamp": "2013-08-21T15:05:09.803Z",
+                "bikes": 0,
+                "slots": 0,
+                "marker-color": "#F85E35"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.678359,
+                    45.051551
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 95,
+            "properties": {
+                "name": "Regio Parco",
+                "timestamp": "2013-08-21T15:05:09.803Z",
+                "bikes": 0,
+                "slots": 15,
+                "marker-color": "#F85E35"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.692972,
+                    45.076217
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 96,
+            "properties": {
+                "name": "Lungo Po Cadorna",
+                "timestamp": "2013-08-21T15:05:09.803Z",
+                "bikes": 3,
+                "slots": 11,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.698733,
+                    45.0655
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 97,
+            "properties": {
+                "name": "Giulia di Barolo",
+                "timestamp": "2013-08-21T15:05:09.803Z",
+                "bikes": 0,
+                "slots": 12,
+                "marker-color": "#F85E35"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.696802,
+                    45.067496
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 98,
+            "properties": {
+                "name": "Regina Margherita 1",
+                "timestamp": "2013-08-21T15:05:09.803Z",
+                "bikes": 1,
+                "slots": 8,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.705841,
+                    45.069591
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 99,
+            "properties": {
+                "name": "Regina Margherita 3",
+                "timestamp": "2013-08-21T15:05:09.803Z",
+                "bikes": 1,
+                "slots": 14,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.692682,
+                    45.073641
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 100,
+            "properties": {
+                "name": "Dora Siena 1",
+                "timestamp": "2013-08-21T15:05:09.803Z",
+                "bikes": 2,
+                "slots": 16,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.702403,
+                    45.074884
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 101,
+            "properties": {
+                "name": "Borromini",
+                "timestamp": "2013-08-21T15:05:09.803Z",
+                "bikes": 5,
+                "slots": 8,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.7087,
+                    45.067191
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 102,
+            "properties": {
+                "name": "Dante",
+                "timestamp": "2013-08-21T15:05:09.803Z",
+                "bikes": 2,
+                "slots": 8,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.672802,
+                    45.047598
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 103,
+            "properties": {
+                "name": "Mauriziano 1",
+                "timestamp": "2013-08-21T15:05:09.803Z",
+                "bikes": 1,
+                "slots": 12,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.66542,
+                    45.050137
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 104,
+            "properties": {
+                "name": "Mauriziano 2",
+                "timestamp": "2013-08-21T15:05:09.804Z",
+                "bikes": 0,
+                "slots": 12,
+                "marker-color": "#F85E35"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.663371,
+                    45.05171
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 105,
+            "properties": {
+                "name": "Piazza d`Armi",
+                "timestamp": "2013-08-21T15:05:09.804Z",
+                "bikes": 4,
+                "slots": 11,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.6585,
+                    45.048133
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 106,
+            "properties": {
+                "name": "Vittorio Emanuele II 4",
+                "timestamp": "2013-08-21T15:05:09.804Z",
+                "bikes": 1,
+                "slots": 14,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.681868,
+                    45.061889
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 107,
+            "properties": {
+                "name": "Politecnico 1",
+                "timestamp": "2013-08-21T15:05:09.804Z",
+                "bikes": 1,
+                "slots": 19,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.662513,
+                    45.062359
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 108,
+            "properties": {
+                "name": "Valentino 2",
+                "timestamp": "2013-08-21T15:05:09.804Z",
+                "bikes": 0,
+                "slots": 0,
+                "marker-color": "#F85E35"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.685462,
+                    45.054901
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 109,
+            "properties": {
+                "name": "Ferrucci",
+                "timestamp": "2013-08-21T15:05:09.804Z",
+                "bikes": 8,
+                "slots": 4,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.655818,
+                    45.063874
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 110,
+            "properties": {
+                "name": "Turati",
+                "timestamp": "2013-08-21T15:05:09.804Z",
+                "bikes": 0,
+                "slots": 13,
+                "marker-color": "#F85E35"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.663843,
+                    45.047966
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 111,
+            "properties": {
+                "name": "Carducci",
+                "timestamp": "2013-08-21T15:05:09.804Z",
+                "bikes": 10,
+                "slots": 8,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.670903,
+                    45.04247
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 112,
+            "properties": {
+                "name": "Molinette 1",
+                "timestamp": "2013-08-21T15:05:09.804Z",
+                "bikes": 9,
+                "slots": 15,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.673242,
+                    45.042417
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 113,
+            "properties": {
+                "name": "Molinette 2",
+                "timestamp": "2013-08-21T15:05:09.804Z",
+                "bikes": 1,
+                "slots": 14,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.677469,
+                    45.042705
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 114,
+            "properties": {
+                "name": "Galileo Ferraris 3",
+                "timestamp": "2013-08-21T15:05:09.804Z",
+                "bikes": 2,
+                "slots": 12,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.666922,
+                    45.059608
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 115,
+            "properties": {
+                "name": "Tribunale 2",
+                "timestamp": "2013-08-21T15:05:09.804Z",
+                "bikes": 0,
+                "slots": 0,
+                "marker-color": "#F85E35"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.660217,
+                    45.069686
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 116,
+            "properties": {
+                "name": "Livorno",
+                "timestamp": "2013-08-21T15:05:09.804Z",
+                "bikes": 0,
+                "slots": 15,
+                "marker-color": "#F85E35"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.669792,
+                    45.087119
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 117,
+            "properties": {
+                "name": "Umbria",
+                "timestamp": "2013-08-21T15:05:09.804Z",
+                "bikes": 2,
+                "slots": 6,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.669315,
+                    45.083308
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 118,
+            "properties": {
+                "name": "Livorno 2",
+                "timestamp": "2013-08-21T15:05:09.804Z",
+                "bikes": 0,
+                "slots": 0,
+                "marker-color": "#F85E35"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.669347,
+                    45.087005
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 119,
+            "properties": {
+                "name": "Ventimiglia",
+                "timestamp": "2013-08-21T15:05:09.804Z",
+                "bikes": 0,
+                "slots": 0,
+                "marker-color": "#F85E35"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.671568,
+                    45.032652
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 120,
+            "properties": {
+                "name": "Cosenza",
+                "timestamp": "2013-08-21T15:05:09.805Z",
+                "bikes": 0,
+                "slots": 0,
+                "marker-color": "#F85E35"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.65217,
+                    45.02513
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 121,
+            "properties": {
+                "name": "Galimberti",
+                "timestamp": "2013-08-21T15:05:09.805Z",
+                "bikes": 0,
+                "slots": 0,
+                "marker-color": "#F85E35"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.656558,
+                    45.033114
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 122,
+            "properties": {
+                "name": "Traiano 1",
+                "timestamp": "2013-08-21T15:05:09.805Z",
+                "bikes": 0,
+                "slots": 0,
+                "marker-color": "#F85E35"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.644134,
+                    45.024061
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 123,
+            "properties": {
+                "name": "Caio Mario",
+                "timestamp": "2013-08-21T15:05:09.805Z",
+                "bikes": 0,
+                "slots": 0,
+                "marker-color": "#F85E35"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.635658,
+                    45.022377
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 124,
+            "properties": {
+                "name": "World Masters Games",
+                "timestamp": "2013-08-21T15:05:09.805Z",
+                "bikes": 0,
+                "slots": 0,
+                "marker-color": "#F85E35"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.682286,
+                    45.050316
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 125,
+            "properties": {
+                "name": "Tazzoli 2",
+                "timestamp": "2013-08-21T15:05:09.805Z",
+                "bikes": 0,
+                "slots": 0,
+                "marker-color": "#F85E35"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.639682,
+                    45.030628
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 126,
+            "properties": {
+                "name": "Giambone",
+                "timestamp": "2013-08-21T15:05:09.805Z",
+                "bikes": 0,
+                "slots": 0,
+                "marker-color": "#F85E35"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.647138,
+                    45.033024
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 127,
+            "properties": {
+                "name": "Stadio Olimpico",
+                "timestamp": "2013-08-21T15:05:09.805Z",
+                "bikes": 0,
+                "slots": 0,
+                "marker-color": "#F85E35"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.647787,
+                    45.041177
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 128,
+            "properties": {
+                "name": "Piazza d\\'Armi 2",
+                "timestamp": "2013-08-21T15:05:09.805Z",
+                "bikes": 0,
+                "slots": 0,
+                "marker-color": "#F85E35"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.654037,
+                    45.049705
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 129,
+            "properties": {
+                "name": "Cosenza",
+                "timestamp": "2013-08-21T15:05:09.805Z",
+                "bikes": 0,
+                "slots": 0,
+                "marker-color": "#F85E35"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.64068,
+                    45.036102
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 130,
+            "properties": {
+                "name": "Gaidano",
+                "timestamp": "2013-08-21T15:05:09.805Z",
+                "bikes": 0,
+                "slots": 0,
+                "marker-color": "#F85E35"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.623953,
+                    45.040946
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 131,
+            "properties": {
+                "name": "Sassi",
+                "timestamp": "2013-08-21T15:05:09.805Z",
+                "bikes": 0,
+                "slots": 0,
+                "marker-color": "#F85E35"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.729954,
+                    45.07552
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 132,
+            "properties": {
+                "name": "Belgio 2",
+                "timestamp": "2013-08-21T15:05:09.805Z",
+                "bikes": 0,
+                "slots": 0,
+                "marker-color": "#F85E35"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.717187,
+                    45.07349
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 133,
+            "properties": {
+                "name": "Belgio 3",
+                "timestamp": "2013-08-21T15:05:09.805Z",
+                "bikes": 0,
+                "slots": 0,
+                "marker-color": "#F85E35"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.723211,
+                    45.074672
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 134,
+            "properties": {
+                "name": "UBI",
+                "timestamp": "2013-08-21T15:05:09.805Z",
+                "bikes": 1,
+                "slots": 1,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.662963,
+                    45.062306
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 135,
+            "properties": {
+                "name": "stazione test - non operativa",
+                "timestamp": "2013-08-21T15:05:09.805Z",
+                "bikes": 0,
+                "slots": 0,
+                "marker-color": "#F85E35"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.673349,
+                    45.019124
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 136,
+            "properties": {
+                "name": "Gerbido",
+                "timestamp": "2013-08-21T15:05:10.131Z",
+                "bikes": 1,
+                "slots": 9,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.617623,
+                    45.044403
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 137,
+            "properties": {
+                "name": "Fabbrichetta",
+                "timestamp": "2013-08-21T15:05:10.131Z",
+                "bikes": 1,
+                "slots": 5,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.563056,
+                    45.067519
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 138,
+            "properties": {
+                "name": "Borgo",
+                "timestamp": "2013-08-21T15:05:10.131Z",
+                "bikes": 2,
+                "slots": 8,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.580995,
+                    45.056364
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 139,
+            "properties": {
+                "name": "Villa Claretta",
+                "timestamp": "2013-08-21T15:05:10.131Z",
+                "bikes": 2,
+                "slots": 8,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.581188,
+                    45.061714
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 140,
+            "properties": {
+                "name": "Universita`",
+                "timestamp": "2013-08-21T15:05:10.131Z",
+                "bikes": 1,
+                "slots": 13,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.588076,
+                    45.064791
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 141,
+            "properties": {
+                "name": "Le Serre",
+                "timestamp": "2013-08-21T15:05:10.131Z",
+                "bikes": 2,
+                "slots": 5,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.576832,
+                    45.063139
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 142,
+            "properties": {
+                "name": "Stazione Ferroviaria Paradiso",
+                "timestamp": "2013-08-21T15:05:10.131Z",
+                "bikes": 0,
+                "slots": 10,
+                "marker-color": "#F85E35"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.599577,
+                    45.068292
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 143,
+            "properties": {
+                "name": "Certosa / P.le Avis",
+                "timestamp": "2013-08-21T15:05:10.450Z",
+                "bikes": 1,
+                "slots": 4,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.575631,
+                    45.084126
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 144,
+            "properties": {
+                "name": "Dalla Chiesa / Pastrengo",
+                "timestamp": "2013-08-21T15:05:10.450Z",
+                "bikes": 0,
+                "slots": 10,
+                "marker-color": "#F85E35"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.580823,
+                    45.077642
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 145,
+            "properties": {
+                "name": "Leumann",
+                "timestamp": "2013-08-21T15:05:10.450Z",
+                "bikes": 1,
+                "slots": 9,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.561769,
+                    45.072338
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 146,
+            "properties": {
+                "name": "Metro Paradiso",
+                "timestamp": "2013-08-21T15:05:10.450Z",
+                "bikes": 2,
+                "slots": 7,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.601809,
+                    45.073732
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 147,
+            "properties": {
+                "name": "Savonera",
+                "timestamp": "2013-08-21T15:05:10.450Z",
+                "bikes": 0,
+                "slots": 10,
+                "marker-color": "#F85E35"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.613739,
+                    45.115722
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 148,
+            "properties": {
+                "name": "Fermi",
+                "timestamp": "2013-08-21T15:05:10.450Z",
+                "bikes": 4,
+                "slots": 15,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.591123,
+                    45.076036
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 149,
+            "properties": {
+                "name": "Stazione F.S.",
+                "timestamp": "2013-08-21T15:05:10.451Z",
+                "bikes": 2,
+                "slots": 11,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.574386,
+                    45.078945
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 150,
+            "properties": {
+                "name": "Gramsci",
+                "timestamp": "2013-08-21T15:05:10.451Z",
+                "bikes": 2,
+                "slots": 4,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.580308,
+                    45.072702
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 151,
+            "properties": {
+                "name": "Concordia",
+                "timestamp": "2013-08-21T15:05:10.904Z",
+                "bikes": 0,
+                "slots": 9,
+                "marker-color": "#F85E35"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.623009,
+                    45.116903
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 152,
+            "properties": {
+                "name": "Pettiti",
+                "timestamp": "2013-08-21T15:05:10.904Z",
+                "bikes": 4,
+                "slots": 6,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.631292,
+                    45.129893
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 153,
+            "properties": {
+                "name": "C. Commerciale I Portici",
+                "timestamp": "2013-08-21T15:05:10.904Z",
+                "bikes": 3,
+                "slots": 7,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.632043,
+                    45.124186
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 154,
+            "properties": {
+                "name": "Reggia",
+                "timestamp": "2013-08-21T15:05:10.904Z",
+                "bikes": 7,
+                "slots": 0,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.625691,
+                    45.135328
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 155,
+            "properties": {
+                "name": "Corso Garibaldi",
+                "timestamp": "2013-08-21T15:05:10.904Z",
+                "bikes": 2,
+                "slots": 8,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.635798,
+                    45.127804
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 156,
+            "properties": {
+                "name": "Municipio",
+                "timestamp": "2013-08-21T15:05:10.904Z",
+                "bikes": 3,
+                "slots": 10,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.632536,
+                    45.133102
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 157,
+            "properties": {
+                "name": "Buozzi",
+                "timestamp": "2013-08-21T15:05:10.904Z",
+                "bikes": 0,
+                "slots": 10,
+                "marker-color": "#F85E35"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.642192,
+                    45.125836
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 158,
+            "properties": {
+                "name": "San Marchese",
+                "timestamp": "2013-08-21T15:05:10.904Z",
+                "bikes": 0,
+                "slots": 9,
+                "marker-color": "#F85E35"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.652964,
+                    45.124897
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 159,
+            "properties": {
+                "name": "Rigola",
+                "timestamp": "2013-08-21T15:05:10.904Z",
+                "bikes": 1,
+                "slots": 9,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.648565,
+                    45.12031
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 160,
+            "properties": {
+                "name": "Gallo Praile",
+                "timestamp": "2013-08-21T15:05:10.904Z",
+                "bikes": 1,
+                "slots": 9,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.641313,
+                    45.114828
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 161,
+            "properties": {
+                "name": "Municipio",
+                "timestamp": "2013-08-21T15:05:11.203Z",
+                "bikes": 2,
+                "slots": 7,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.524325,
+                    45.094383
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 162,
+            "properties": {
+                "name": "Berlinguer",
+                "timestamp": "2013-08-21T15:05:11.203Z",
+                "bikes": 0,
+                "slots": 9,
+                "marker-color": "#F85E35"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.531235,
+                    45.099654
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 163,
+            "properties": {
+                "name": "Largo Oropa",
+                "timestamp": "2013-08-21T15:05:11.626Z",
+                "bikes": 2,
+                "slots": 5,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.57636,
+                    45.1361
+                ]
+            }
+        }
+    ]
 }
