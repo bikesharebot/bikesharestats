@@ -5,44 +5,8 @@
             "type": "Feature",
             "id": 0,
             "properties": {
-                "name": "13th & Howard",
-                "timestamp": "2013-09-04T21:22:39.467Z",
-                "bikes": "6",
-                "slots": "4",
-                "marker-color": "#70E588"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -95.93341,
-                    41.25575
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": 1,
-            "properties": {
-                "name": "1819 Farnam",
-                "timestamp": "2013-09-04T21:22:39.469Z",
-                "bikes": "5",
-                "slots": "6",
-                "marker-color": "#70E588"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -95.94036,
-                    41.25749
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": 2,
-            "properties": {
                 "name": "62nd & Dodge",
-                "timestamp": "2013-09-04T21:22:39.470Z",
+                "timestamp": "2013-09-04T21:28:02.876Z",
                 "bikes": "6",
                 "slots": "4",
                 "marker-color": "#70E588"
@@ -57,10 +21,10 @@
         },
         {
             "type": "Feature",
-            "id": 3,
+            "id": 1,
             "properties": {
                 "name": "67th & Pine",
-                "timestamp": "2013-09-04T21:22:39.473Z",
+                "timestamp": "2013-09-04T21:28:02.878Z",
                 "bikes": "2",
                 "slots": "5",
                 "marker-color": "#FFFF63"
@@ -75,10 +39,10 @@
         },
         {
             "type": "Feature",
-            "id": 4,
+            "id": 2,
             "properties": {
                 "name": "66th & Center",
-                "timestamp": "2013-09-04T21:22:39.474Z",
+                "timestamp": "2013-09-04T21:28:02.881Z",
                 "bikes": "1",
                 "slots": "9",
                 "marker-color": "#FFFF63"
@@ -93,10 +57,10 @@
         },
         {
             "type": "Feature",
-            "id": 5,
+            "id": 3,
             "properties": {
                 "name": "67th & Frances",
-                "timestamp": "2013-09-04T21:22:39.476Z",
+                "timestamp": "2013-09-04T21:28:02.883Z",
                 "bikes": "8",
                 "slots": "3",
                 "marker-color": "#70E588"
@@ -111,10 +75,10 @@
         },
         {
             "type": "Feature",
-            "id": 6,
+            "id": 4,
             "properties": {
                 "name": "Aksarben Drive",
-                "timestamp": "2013-09-04T21:22:39.478Z",
+                "timestamp": "2013-09-04T21:28:02.885Z",
                 "bikes": "6",
                 "slots": "5",
                 "marker-color": "#70E588"
@@ -129,10 +93,10 @@
         },
         {
             "type": "Feature",
-            "id": 7,
+            "id": 5,
             "properties": {
                 "name": "Bob Kerrey Pedestrian Bridge",
-                "timestamp": "2013-09-04T21:22:39.479Z",
+                "timestamp": "2013-09-04T21:28:02.886Z",
                 "bikes": "6",
                 "slots": "9",
                 "marker-color": "#70E588"
@@ -142,6 +106,42 @@
                 "coordinates": [
                     -95.92402,
                     41.26568
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 6,
+            "properties": {
+                "name": "13th & Howard",
+                "timestamp": "2013-09-04T21:28:02.888Z",
+                "bikes": "6",
+                "slots": "4",
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.93341,
+                    41.25575
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 7,
+            "properties": {
+                "name": "1819 Farnam",
+                "timestamp": "2013-09-04T21:28:02.889Z",
+                "bikes": "5",
+                "slots": "6",
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.94036,
+                    41.25749
                 ]
             }
         }
