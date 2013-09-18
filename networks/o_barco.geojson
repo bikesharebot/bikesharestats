@@ -1,0 +1,77 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 0,
+            "properties": {
+                "name": "POLIDEPORTIVO DE CALABAGUEIROS",
+                "timestamp": "2013-09-10T12:03:09.885Z",
+                "bikes": 4,
+                "slots": 6,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.994955,
+                    42.416957
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 1,
+            "properties": {
+                "name": "PRAZA ANDRÉS DE PRADA",
+                "timestamp": "2013-09-10T12:03:09.885Z",
+                "bikes": 6,
+                "slots": 4,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.984611,
+                    42.415789
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 2,
+            "properties": {
+                "name": "SAN ROQUE",
+                "timestamp": "2013-09-10T12:03:09.886Z",
+                "bikes": 7,
+                "slots": 3,
+                "marker-color": "#70E588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.973664,
+                    42.412483
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 3,
+            "properties": {
+                "name": "VILOIRA",
+                "timestamp": "2013-09-10T12:03:09.886Z",
+                "bikes": 4,
+                "slots": 6,
+                "marker-color": "#FFFF63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.97842,
+                    42.410743
+                ]
+            }
+        }
+    ]
+}
